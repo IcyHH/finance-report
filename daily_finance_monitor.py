@@ -39,6 +39,16 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_CONFIG = os.path.join(HERE, "finance_monitor_config.json")
 REPORT_DIR = os.path.join(HERE, "reports")
 
+# 固定按北京时间(UTC+8)计算日期/时间窗口。
+# 原因：GitHub Actions runner 默认 UTC，直接用 datetime.now() 会把凌晨触发的报告
+# 误标成前一天（如北京 07-01 00:54 → UTC 06-30 → 报告写成 06-30）。
+LOCAL_TZ = dt.timezone(dt.timedelta(hours=8))
+
+
+def now_local():
+    """返回北京时间的 naive datetime（去掉 tzinfo，便于与解析出的时间统一比较）。"""
+    return dt.datetime.now(LOCAL_TZ).replace(tzinfo=None)
+
 # ---------------------------------------------------------------------------
 # 默认配置：信源分级参考 source-credibility.md，关键词为示例，请按自己的持仓改写
 # ---------------------------------------------------------------------------
@@ -124,7 +134,7 @@ def parse_pubdate(s):
         try:
             d = dt.datetime.strptime(s, fmt)
             if d.tzinfo is not None:
-                d = d.astimezone().replace(tzinfo=None)
+                d = d.astimezone(LOCAL_TZ).replace(tzinfo=None)  # 统一转北京时间
             return d
         except ValueError:
             continue
@@ -211,7 +221,7 @@ def preliminary_signal(tier, rel, emo):
 def within_window(published, hours):
     if published is None:
         return True  # 无时间戳的不丢弃，但后续标"待验证"
-    return (dt.datetime.now() - published) <= dt.timedelta(hours=hours)
+    return (now_local() - published) <= dt.timedelta(hours=hours)
 
 
 # ---------------------------------------------------------------------------
@@ -277,7 +287,7 @@ def md_link(title, link):
 
 
 def build_report(collected, source_status, profile):
-    today = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+    today = now_local().strftime("%Y-%m-%d %H:%M")
     lines = []
     lines.append(f"# 每日金融信息初筛报告 · {today}")
     lines.append("")
@@ -361,7 +371,7 @@ def main():
     collected, source_status, profile = run(config)
 
     os.makedirs(REPORT_DIR, exist_ok=True)
-    date_tag = dt.datetime.now().strftime("%Y-%m-%d")
+    date_tag = now_local().strftime("%Y-%m-%d")
     report_path = os.path.join(REPORT_DIR, f"{date_tag}.md")
     payload_path = os.path.join(REPORT_DIR, f"{date_tag}.payload.json")
 
@@ -371,7 +381,7 @@ def main():
 
     # 喂给降噪器 / 下游 skill 的结构化 payload（对应 SKILL「前置降噪层 payload」）
     payload = {
-        "generated_at": dt.datetime.now().isoformat(timespec="seconds"),
+        "generated_at": now_local().isoformat(timespec="seconds"),
         "profile": profile,
         "source_status": [{"name": n, "tier": t, "status": s} for n, t, s in source_status],
         "items": collected,
