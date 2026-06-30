@@ -1,0 +1,77 @@
+name: 每日金融信息初筛
+
+# ── 触发条件 ──────────────────────────────────────────────
+on:
+  schedule:
+    # GitHub Actions 的 cron 用 UTC 时间。
+    # 北京时间(UTC+8) 每天 08:00 == UTC 00:00 → '0 0 * * *'
+    # 注意：定时任务在 GitHub 高负载时可能延迟几分钟到几十分钟。
+    - cron: '0 0 * * *'
+  workflow_dispatch:        # 允许在 Actions 页面手动点击运行
+  push:
+    branches: [ main ]      # 推送到 main 时也重建一次站点（可按需删除）
+    paths:
+      - 'daily_finance_monitor.py'
+      - 'build_site.py'
+      - 'finance_monitor_config.json'
+      - '.github/workflows/daily-finance.yml'
+
+# ── 权限：写仓库（提交报告）+ 发布 Pages ───────────────────
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 避免并发运行互相覆盖
+concurrency:
+  group: daily-finance
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖（markdown 用于更好的表格渲染）
+        run: pip install markdown
+
+      - name: 运行每日信息抓取与初筛
+        run: python daily_finance_monitor.py
+
+      - name: 构建静态站点
+        run: python build_site.py --out site
+
+      - name: 提交报告回仓库（累积历史）
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --staged --quiet; then
+            echo "今日无新报告变更，跳过提交。"
+          else
+            git commit -m "chore: 每日金融初筛报告 $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: 上传 Pages 工件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

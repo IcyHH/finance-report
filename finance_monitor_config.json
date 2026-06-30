@@ -1,0 +1,108 @@
+{
+  "_说明": "请按你的真实持仓/关注修改 watchlist；sources 可增删 RSS 源，tier 标信源等级。",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "watchlist": {
+    "direct": [
+      "星源材质",
+      "中无人机",
+      "康美药业",
+      "广汽集团",
+      "节能风电"
+    ],
+    "indirect": [
+      "新能源",
+      "白酒",
+      "半导体",
+      "锂电池",
+      "光伏",
+      "人工智能",
+      "生物制药"
+    ],
+    "theme": [
+      "美联储",
+      "加息",
+      "降息",
+      "降准",
+      "LPR",
+      "CPI",
+      "PMI",
+      "GDP",
+      "汇率",
+      "央行",
+      "关税"
+    ]
+  },
+  "sources": [
+    {
+      "name": "华尔街见闻",
+      "url": "https://dedicated.wallstreetcn.com/rss.xml",
+      "tier": "T3"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "url": "https://rss.eastmoney.com/rss_partener.xml",
+      "tier": "T3"
+    },
+    {
+      "name": "36氪-资讯",
+      "url": "https://36kr.com/feed",
+      "tier": "T3"
+    },
+    {
+      "name": "36氪-快讯",
+      "url": "https://36kr.com/feed-newsflash",
+      "tier": "T3"
+    },
+    {
+      "name": "英为财情-资讯",
+      "url": "https://cn.investing.com/rss/news.rss",
+      "tier": "T3"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "url": "http://rss.sina.com.cn/news/china/focus15.xml",
+      "tier": "T3"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "url": "http://rss.sina.com.cn/news/world/focus15.xml",
+      "tier": "T3"
+    },
+    {
+      "name": "CNBC-Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "tier": "T2"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "tier": "T2"
+    }
+  ],
+  "emotion_words": [
+    "暴涨",
+    "暴跌",
+    "崩盘",
+    "飙升",
+    "狂飙",
+    "末日",
+    "清仓",
+    "满仓",
+    "重磅",
+    "利好兑现",
+    "最后机会",
+    "错过",
+    "马上",
+    "立刻",
+    "千万别",
+    "惊呆",
+    "炸裂",
+    "血洗",
+    "爆雷",
+    "涨停",
+    "跌停"
+  ]
+}
