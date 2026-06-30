@@ -183,7 +183,7 @@ def build_index(reports, out_dir):
             )
     page = PAGE_TMPL.format(
         title="每日金融信息初筛报告",
-        subtitle=f"更新于 {dt.datetime.now().strftime('%Y-%m-%d %H:%M')}",
+        subtitle=f"更新于 {dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')}",
         body="\n".join(parts),
     )
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
