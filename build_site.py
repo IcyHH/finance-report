@@ -44,8 +44,21 @@ except Exception:  # noqa: BLE001
     HAS_MD = False
 
     def md_to_html(text):
-        # 退化方案：转义后用 <pre> 保留原文，至少保证可读、不报错
-        return "<pre class='raw'>" + html_lib.escape(text) + "</pre>"
+        # 退化方案：转义后用 <pre> 保留原文，并把链接转成可点击 <a>，至少保证可读可跳转
+        esc = html_lib.escape(text)
+        # Markdown 链接 [文字](url) -> <a>文字</a>
+        esc = re.sub(
+            r"\[([^\]]+)\]\((https?://[^\s)]+)\)",
+            r'<a href="\2" target="_blank" rel="noopener">\1</a>',
+            esc,
+        )
+        # 剩余裸链接 -> <a>
+        esc = re.sub(
+            r'(?<!")(?<!>)(https?://[^\s<)\]]+)',
+            r'<a href="\1" target="_blank" rel="noopener">\1</a>',
+            esc,
+        )
+        return "<pre class='raw'>" + esc + "</pre>"
 
 
 PAGE_TMPL = """<!DOCTYPE html>
