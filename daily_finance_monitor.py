@@ -268,6 +268,14 @@ def run(config):
     return collected, source_status, profile
 
 
+def md_link(title, link):
+    """生成 Markdown 链接；无链接时返回纯文本。title 内的 [] 与 | 做转义避免破坏表格。"""
+    safe = title.replace("|", "/").replace("[", "(").replace("]", ")")
+    if link:
+        return f"[{safe}]({link})"
+    return safe
+
+
 def build_report(collected, source_status, profile):
     today = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
     lines = []
@@ -296,7 +304,7 @@ def build_report(collected, source_status, profile):
     lines.append("| # | 标题 | 信源 | 等级 | 相关性 | 命中 | 情绪 | 初筛信号 | Impact |")
     lines.append("|---|------|------|------|--------|------|------|---------|--------|")
     for i, c in enumerate(collected, 1):
-        title = c["title"][:40].replace("|", "/")
+        title = md_link(c["title"][:40], c.get("link"))  # 标题可点击跳转原文
         lines.append(
             f"| {i} | {title} | {c['source']} | {c['tier']} | {c['relevance']} "
             f"| {c['match'] or '-'} | {c['emotion']} | {c['signal']} | {c['impact']:+d} |"
@@ -308,10 +316,10 @@ def build_report(collected, source_status, profile):
     lines.append("")
     if candidates:
         for c in candidates:
-            lines.append(f"- **{c['title']}**")
+            lines.append(f"- **{md_link(c['title'], c.get('link'))}**")
             lines.append(f"  - 信源 {c['source']}（{c['tier']}） · 命中持仓「{c['match']}」 · {c['published']}")
             if c["link"]:
-                lines.append(f"  - 链接：{c['link']}")
+                lines.append(f"  - 原文链接：{c['link']}")
             if c["emotion"] != "🟢":
                 lines.append(f"  - ⚠️ 情绪词：{', '.join(c['emotion_hits'])}（注意标题党/情绪操纵，需核一手来源）")
         lines.append("")
@@ -325,7 +333,7 @@ def build_report(collected, source_status, profile):
     lines.append("")
     if watch:
         for c in watch:
-            lines.append(f"- [{c['tier']} · {c['relevance']}] {c['title']}（{c['source']}）")
+            lines.append(f"- [{c['tier']} · {c['relevance']}] {md_link(c['title'], c.get('link'))}（{c['source']}）")
     else:
         lines.append("（无）")
     lines.append("")
