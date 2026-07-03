@@ -1,0 +1,304 @@
+{
+  "generated_at": "2026-07-03T18:16:09",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "❌ 抓取失败：<urlopen error timed out>（信源静默降级，待验证）"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 96 条 / 相关 5 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 7 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 6 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "全球市场：道指涨超1%创新高 存储、半导体板块持续大跌 现货黄金涨超2%",
+      "link": "http://stock.eastmoney.com/news/11784,202607033792354087.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-03 06:07",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月2日东方财富财经晚报（附新闻联播）",
+      "link": "http://finance.eastmoney.com/news/1353,202607023792121276.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-02 21:00",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月2日晚间上市公司利好消息一览(附名单)",
+      "link": "http://finance.eastmoney.com/news/1353,202607023792124962.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-02 20:36",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
+      "link": "http://finance.eastmoney.com/news/1345,202607023792111182.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-02 20:30",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "沪指跌超2% 创业板指跌近6% 贵金属板块逆市大涨",
+      "link": "http://finance.eastmoney.com/news/1345,202607023791807680.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-02 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
+      "link": "https://36kr.com/p/3878131056701447?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "光伏",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行等部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见",
+      "link": "https://36kr.com/newsflashes/3879754091524357?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "快手轻雀在深圳成立新公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3879752243474693?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国银行：美国股市出现三个多月以来最大资金流出",
+      "link": "https://36kr.com/newsflashes/3879708499275777?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行：7月6日将开展10000亿元买断式逆回购操作，期限为3个月",
+      "link": "https://36kr.com/newsflashes/3879689979441161?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+      "link": "https://36kr.com/newsflashes/3879687847096577?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中核汇能在重庆成立新公司",
+      "link": "https://36kr.com/newsflashes/3879669092691972?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行等部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见",
+      "link": "https://36kr.com/newsflashes/3879754091524357?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "快手轻雀在深圳成立新公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3879752243474693?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国银行：美国股市出现三个多月以来最大资金流出",
+      "link": "https://36kr.com/newsflashes/3879708499275777?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行：7月6日将开展10000亿元买断式逆回购操作，期限为3个月",
+      "link": "https://36kr.com/newsflashes/3879689979441161?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+      "link": "https://36kr.com/newsflashes/3879687847096577?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中核汇能在重庆成立新公司",
+      "link": "https://36kr.com/newsflashes/3879669092691972?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本“春斗”传捷报：薪资涨幅连续三年超5%，30年罕见势头力挺央行加息",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3446004",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-03 09:35",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
