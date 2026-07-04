@@ -1,0 +1,332 @@
+{
+  "generated_at": "2026-07-04T17:10:08",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 57 条 / 相关 15 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 3 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "日本“春斗”薪资涨幅连续三年超5%，央行加息路径获支撑",
+      "link": "https://wallstreetcn.com/articles/3776192",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 11:56",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "黄金如今又看美联储的脸色了",
+      "link": "https://wallstreetcn.com/articles/3776189",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 10:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
+      "link": "https://wallstreetcn.com/articles/3776186",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 09:08",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
+      "link": "https://wallstreetcn.com/articles/3776188",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 09:07",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+      "link": "https://wallstreetcn.com/articles/3776124",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 07:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
+      "link": "https://wallstreetcn.com/articles/3776180",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 04:39",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧央行行长拉加德称不排除提前离任，投身法国政坛，罕见亲自出席欧盟财长会议",
+      "link": "https://wallstreetcn.com/articles/3776172",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 02:58",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "摩根大通警告：若美联储提前加息，金价可能再次跌破4000甚至测试3500-3600",
+      "link": "https://wallstreetcn.com/articles/3776173",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 00:25",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "升级周期叙事遭遇挫折，瑞银调查显示苹果AI功能未能点燃换机热潮",
+      "link": "https://wallstreetcn.com/articles/3776171",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 22:50",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "地缘缓和重塑能源冲击叙事，法国央行行长穆伦：欧央行已处“良好位置”",
+      "link": "https://wallstreetcn.com/articles/3776168",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 21:25",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧元区经济6月“止跌”：综合PMI重返50，德国数据意外“救场”",
+      "link": "https://wallstreetcn.com/articles/3776159",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 19:56",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
+      "link": "https://wallstreetcn.com/articles/3776160",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 19:19",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "炸裂"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星谈合作、SK海力士扩产、铠侠NAND送样，日韩股市用V型反弹回应算力过剩恐慌",
+      "link": "https://wallstreetcn.com/articles/3776145",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 16:27",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普表态：AI需要护栏，但“越少越好”",
+      "link": "https://wallstreetcn.com/articles/3776115",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 15:21",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI和Anthropic都要“自研芯片”，除了成本，还有其他原因？",
+      "link": "https://wallstreetcn.com/articles/3776129",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-03 14:43",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "link": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+      "link": "https://36kr.com/newsflashes/3880931591254019?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+      "link": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+      "link": "https://36kr.com/newsflashes/3880931591254019?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+      "link": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国银行：外汇干预如何影响外汇储备与央行资产负债表",
+      "link": "https://cn.investing.com/news/economy-news/article-3446501",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-04 08:17",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
