@@ -1,0 +1,178 @@
+{
+  "generated_at": "2026-07-05T17:47:37",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 50 条 / 相关 7 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 96 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+      "link": "https://wallstreetcn.com/articles/3776221",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-05 15:55",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+      "link": "https://wallstreetcn.com/articles/3776219",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-05 15:39",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+      "link": "https://wallstreetcn.com/articles/3776130",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-05 11:39",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+      "link": "https://wallstreetcn.com/articles/3776203",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 19:45",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+      "link": "https://wallstreetcn.com/articles/3776200",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 18:58",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "资管巨头：市场对AI生产力的期望过于乐观",
+      "link": "https://wallstreetcn.com/articles/3776190",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 17:30",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本“春斗”薪资涨幅连续三年超5%，央行加息路径获支撑",
+      "link": "https://wallstreetcn.com/articles/3776192",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-04 11:56",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "周末要闻汇总：净利最高预增近744倍 存储龙头上半年业绩“炸裂”",
+      "link": "http://finance.eastmoney.com/news/1345,202607053794251173.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-05 14:00",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "炸裂"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "link": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
