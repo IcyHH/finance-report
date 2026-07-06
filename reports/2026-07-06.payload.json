@@ -1,0 +1,390 @@
+{
+  "generated_at": "2026-07-06T22:07:19",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 54 条 / 相关 16 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 96 条 / 相关 7 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+      "link": "https://wallstreetcn.com/articles/3776262",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 21:36",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "芯片狂欢降温？大摩Wilson：资金正转向微软、亚马逊等AI超算巨头",
+      "link": "https://wallstreetcn.com/articles/3776304",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 19:56",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元被低估20%？日本前汇率沙皇：美元兑日元应回到130",
+      "link": "https://wallstreetcn.com/articles/3776298",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 19:29",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "长安海外销量顶起半边天",
+      "link": "https://wallstreetcn.com/articles/3776294",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 18:08",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国总统李在明：“速度至上”，加速推进重大芯片和人工智能项目",
+      "link": "https://wallstreetcn.com/articles/3776284",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 16:38",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "\"历史性低估\"仍难言底，高盛下调日元目标价至165",
+      "link": "https://wallstreetcn.com/articles/3776280",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 16:19",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三年首次！三星晶圆代工6月实现扭亏为盈，4nm工艺良率已提高到约80%",
+      "link": "https://wallstreetcn.com/articles/3776282",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 16:14",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "英特尔上调多款CPU价格，服务器芯片最高涨超1300美元",
+      "link": "https://wallstreetcn.com/articles/3776265",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 14:58",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星明日初步财报：Q2利润预计暴增18倍，高管内部放话“一年利润顶40年”",
+      "link": "https://wallstreetcn.com/articles/3776259",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 13:37",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上半年暴涨92%！高盛预计韩股下半年“动荡”，但能再涨20%，杠杆水平没有表面看起来“那么高”",
+      "link": "https://wallstreetcn.com/articles/3776249",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 11:18",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+      "link": "https://wallstreetcn.com/articles/3776130",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 11:10",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "近距离观察沃什后，大摩首席经济学家坚称：美联储今年不会加息",
+      "link": "https://wallstreetcn.com/articles/3776237",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 08:50",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "表态更加强硬！韩国央行警告海力士、三星电子杠杆ETF风险",
+      "link": "https://wallstreetcn.com/articles/3776234",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 08:48",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Citadel策略主管：市场低估了美联储7月加息的可能性",
+      "link": "https://wallstreetcn.com/articles/3776243",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 08:39",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”",
+      "link": "https://wallstreetcn.com/articles/3776238",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 08:13",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI风暴席卷全球市场，印度股市意外成为资金\"避风港\"",
+      "link": "https://wallstreetcn.com/articles/3776224",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-05 18:01",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "车船税调整拉开“油电同权”大幕 新能源汽车进入市场驱动新阶段",
+      "link": "http://finance.eastmoney.com/news/1348,202607063794341918.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 01:59",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行今日开展1万亿元买断式逆回购操作 期限为3个月",
+      "link": "http://finance.eastmoney.com/news/1350,202607063794343079.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 01:59",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "2天28家企业！科创板IPO受理数量迎高峰 半导体公司占比超七成",
+      "link": "http://finance.eastmoney.com/news/1354,202607053794298783.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 00:29",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "无惧短期回调？汇丰：金价年底前将进一步上涨 有“三大支撑”！",
+      "link": "http://pmetal.eastmoney.com/news/11793,202607053794307791.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 00:09",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "在AI算力领域将“大展拳脚”：“韬定律”V2版论文发布两日点击量超27万",
+      "link": "http://finance.eastmoney.com/news/1348,202607053794332794.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 00:07",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "十大券商策略：仍处重要做多窗口期！关注科技修复+中报业绩双主线",
+      "link": "http://stock.eastmoney.com/news/11791,202607053794313672.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 00:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI巨头鸿海营收激增超52%！千亿算力扩产也来了",
+      "link": "http://finance.eastmoney.com/news/1354,202607053794329282.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-06 00:02",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德福科技：拟定增募资不超28亿元",
+      "link": "https://36kr.com/newsflashes/3884101499498497?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德福科技：拟定增募资不超28亿元",
+      "link": "https://36kr.com/newsflashes/3884101499498497?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
