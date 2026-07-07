@@ -1,0 +1,422 @@
+{
+  "generated_at": "2026-07-07T19:22:18",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 60 条 / 相关 17 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 98 条 / 相关 7 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 2 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "数据造假、致命事故、债台高筑……全球最大铜矿主之一Codelco面临历史性抉择",
+      "link": "https://wallstreetcn.com/articles/3776385",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 19:09",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "连续20个月增持！中国央行6月买入48万盎司黄金，创2023年10月以来最高纪录",
+      "link": "https://wallstreetcn.com/articles/3776378",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 17:21",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "沪指年内“四失”4000点，半导体产业链逆势活跃，四大行尾盘拉升，快手下挫12%领跌科网股",
+      "link": "https://wallstreetcn.com/articles/3776344",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 16:21",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
+      "link": "https://wallstreetcn.com/articles/3776355",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 16:05",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI访谈科学家：AI时代好奇心和实验精神是真正重要的事",
+      "link": "https://wallstreetcn.com/articles/3776369",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 15:52",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+      "link": "https://wallstreetcn.com/articles/3776368",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 15:31",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+      "link": "https://wallstreetcn.com/articles/3776359",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 13:50",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "这个夏天全球市场焦点：科技巨头财报，暴跌的油价，沃什动向，美国经济基本面",
+      "link": "https://wallstreetcn.com/articles/3776331",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 11:58",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美银回应“英伟达Kyber机架延迟”：担忧合理，但PCB/CCL/基板需求强劲，视调整为买点",
+      "link": "https://wallstreetcn.com/articles/3776342",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 10:55",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美银：芯片股“夏季回调、秋季反弹”，存储“估值偏低，应该扩张”",
+      "link": "https://wallstreetcn.com/articles/3776339",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 09:28",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "李家超：香港黄金中央清算系统今日开始试运行，考虑开发新的人民币黄金期货合约",
+      "link": "https://wallstreetcn.com/articles/3776340",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 09:04",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
+      "link": "https://wallstreetcn.com/articles/3776333",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 08:37",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "和沃什唱反调？美联储理事沃勒：前瞻指引“有价值”，但要灵活",
+      "link": "https://wallstreetcn.com/articles/3776320",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 02:48",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国6月ISM服务业PMI回落至54，企业招聘意外回暖，成本压力降至四个月低点",
+      "link": "https://wallstreetcn.com/articles/3776312",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 22:44",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "芯片狂欢降温？大摩Wilson：资金正转向微软、亚马逊等AI超算巨头",
+      "link": "https://wallstreetcn.com/articles/3776304",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 19:56",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元被低估20%？日本前汇率沙皇：美元兑日元应回到130",
+      "link": "https://wallstreetcn.com/articles/3776298",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-06 19:29",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数收跌 沪指失守4000点 缩量超5000亿",
+      "link": "http://finance.eastmoney.com/news/1345,202607073796666128.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月7日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+      "link": "http://finance.eastmoney.com/news/11158,202607073795564618.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 06:03",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK海力士更新美股上市招股书 半导体设备龙头闻风而动",
+      "link": "http://finance.eastmoney.com/news/1354,202607073795534070.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 02:20",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股芯片股强势反弹 一系列重磅事件将陆续登场",
+      "link": "http://finance.eastmoney.com/news/1354,202607063795512660.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 00:20",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上市不到三年 AI铜箔牛股德福科技抛28亿元定增计划 超七成加码高端AI铜箔项目",
+      "link": "http://finance.eastmoney.com/news/1354,202607063795483793.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 00:15",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "英伟达回应AI服务器架构延后的报道：公司路线图保持不变",
+      "link": "http://finance.eastmoney.com/news/1354,202607073795525096.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 00:14",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "博通与苹果将芯片合作协议续签至2031年",
+      "link": "http://stock.eastmoney.com/news/1768,202607063795502250.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-07 00:10",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资",
+      "link": "https://36kr.com/p/3885457443385346?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国2026上半年并购总额创历史新高，达到1.45万亿美元同比增长75%",
+      "link": "https://36kr.com/newsflashes/3885418030887172?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国2026上半年并购总额创历史新高，达到1.45万亿美元同比增长75%",
+      "link": "https://36kr.com/newsflashes/3885418030887172?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德银2026“WOW图表”来了：AI狂飙背后，这些变化更值得警惕",
+      "link": "https://wallstreetcn.com/articles/3776364",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-07 18:07",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴涨",
+        "飙升",
+        "狂飙"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
