@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-07-11T15:22:45",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 12 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 2 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 3 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "硅谷巨头反目！苹果起诉OpenAI窃取商业机密，要求销毁涉密资料并重设计AI硬件",
+      "link": "https://wallstreetcn.com/articles/3776688",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 06:39",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI加剧美国通胀？高盛：内存、电力和软件涨价年底或推高核心PCE 0.5个百分点",
+      "link": "https://wallstreetcn.com/articles/3776689",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 06:16",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "大摩泼冷水：芯片制造商定价权承压、AI资本开支开始放缓、美股半导体“明显超买”",
+      "link": "https://wallstreetcn.com/articles/3776686",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 03:53",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Meta内部“K型分裂”加剧：精英拿千万年薪，普通员工沦为“AI饲料”",
+      "link": "https://wallstreetcn.com/articles/3776674",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 01:20",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
+      "link": "https://wallstreetcn.com/articles/3776678",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 01:18",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "保险资金加速奔向“硬科技”，中国人寿50亿“加注”半导体产业链",
+      "link": "https://wallstreetcn.com/articles/3776658",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 18:11",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "存储疯狂扩产，半导体设备迎来\"超级时代\"！",
+      "link": "https://wallstreetcn.com/articles/3776650",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 16:30",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI“二号人物”离职，上市前夕再失大将",
+      "link": "https://wallstreetcn.com/articles/3776642",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 15:57",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国产AI芯片独角兽燧原科技科创板IPO注册生效",
+      "link": "https://wallstreetcn.com/articles/3776644",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 14:22",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "五大工作组来了--沃什“统一战线”，意在降息？",
+      "link": "https://wallstreetcn.com/articles/3776621",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 13:01",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "财长鼓励GPIF养老基金增加对国内金融资产投资，日本股债汇齐涨",
+      "link": "https://wallstreetcn.com/articles/3776628",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 10:02",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月10日晚间上市公司利好消息一览(附名单)",
+      "link": "http://finance.eastmoney.com/news/1353,202607103802117438.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-10 20:37",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数收跌 创业板指跌超4% 近3800只股上涨",
+      "link": "http://finance.eastmoney.com/news/1345,202607103801750822.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-10 15:00",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+      "link": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "多空因素交织，国际金价本周震荡加剧",
+      "link": "https://36kr.com/newsflashes/3890591546358276?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "市场发行热度大幅升温，熊猫债存量规模首超5000亿元",
+      "link": "https://36kr.com/newsflashes/3890587699198473?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+      "link": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "多空因素交织，国际金价本周震荡加剧",
+      "link": "https://36kr.com/newsflashes/3890591546358276?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "市场发行热度大幅升温，熊猫债存量规模首超5000亿元",
+      "link": "https://36kr.com/newsflashes/3890587699198473?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "多机构预测上半年GDP增速超4.5%，下半年关键看出口和房地产",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3456623",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-11 05:05",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+      "link": "https://wallstreetcn.com/articles/3776629",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-10 17:51",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "涨停"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
