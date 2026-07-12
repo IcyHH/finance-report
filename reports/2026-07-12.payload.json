@@ -1,0 +1,241 @@
+{
+  "generated_at": "2026-07-12T15:50:42",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 5 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 4 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 2 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
+      "link": "https://wallstreetcn.com/articles/3776715",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 11:18",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
+      "link": "https://wallstreetcn.com/articles/3776713",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 10:46",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+      "link": "https://wallstreetcn.com/articles/3776632",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 10:05",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
+      "link": "https://wallstreetcn.com/articles/3776712",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 09:36",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考",
+      "link": "https://wallstreetcn.com/articles/3776706",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-11 20:11",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "这个周末，科技投资人都得飞一趟成都",
+      "link": "https://36kr.com/p/3892096788396806?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力",
+      "link": "https://36kr.com/newsflashes/3892129094679049?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上半年高频数据折射我国经济稳中向优",
+      "link": "https://36kr.com/newsflashes/3892125069130504?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年",
+      "link": "https://36kr.com/newsflashes/3892091542288904?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力",
+      "link": "https://36kr.com/newsflashes/3892129094679049?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上半年高频数据折射我国经济稳中向优",
+      "link": "https://36kr.com/newsflashes/3892125069130504?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年",
+      "link": "https://36kr.com/newsflashes/3892091542288904?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "人工智能究竟是在提升还是削弱市场效率？",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3456793",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-12 07:26",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "人工智能正在推高美国通胀而非抑制它",
+      "link": "https://cn.investing.com/news/economy-news/article-3456769",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-12 05:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
