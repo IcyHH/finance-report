@@ -1,0 +1,232 @@
+{
+  "generated_at": "2026-07-13T19:42:42",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 53 条 / 相关 10 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "亨通光电预计上半年净利润同增87%-121%，AI驱动光通信需求爆发 | 财报见闻",
+      "link": "https://wallstreetcn.com/articles/3776802",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 18:43",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+      "link": "https://wallstreetcn.com/articles/3776758",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 16:34",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "跌停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "报道：台积电已通知客户，成熟制程2027年1月起涨价、预计涨幅为个位数百分比",
+      "link": "https://wallstreetcn.com/articles/3776783",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 15:34",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛：伊朗战争不足以打乱通胀锚，预计美联储全年按兵不动",
+      "link": "https://wallstreetcn.com/articles/3776775",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 14:16",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星已完成特斯拉AI5芯片流片，即将进入大规模量产准备阶段",
+      "link": "https://wallstreetcn.com/articles/3776772",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 13:56",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国政府：将设立“未来应对基金”，推进AI半导体等三大“超级项目”",
+      "link": "https://wallstreetcn.com/articles/3776771",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 13:16",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "海峡\"罗生门\"推升加息押注，对冲基金黄金多头降至11.5万份",
+      "link": "https://wallstreetcn.com/articles/3776752",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 11:59",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国股市竟然是“史上最便宜”！",
+      "link": "https://wallstreetcn.com/articles/3776742",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 07:59",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "成本上行，赛力斯利润短期承压",
+      "link": "https://wallstreetcn.com/articles/3776737",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 22:16",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+      "link": "https://wallstreetcn.com/articles/3776632",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-12 20:04",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "link": "http://finance.eastmoney.com/news/1345,202607133803719566.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-13 15:02",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "沃顿科技：涉及半导体及液冷领域的业务收入占比不超过1%",
+      "link": "https://36kr.com/newsflashes/3893912374589955?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "沃顿科技：涉及半导体及液冷领域的业务收入占比不超过1%",
+      "link": "https://36kr.com/newsflashes/3893912374589955?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
