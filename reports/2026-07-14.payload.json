@@ -1,0 +1,518 @@
+{
+  "generated_at": "2026-07-14T15:24:23",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 56 条 / 相关 22 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 2 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 5 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 5 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "芯片出口强劲，韩国政府大幅上调经济预测",
+      "link": "https://wallstreetcn.com/articles/3776876",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 14:30",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬",
+      "link": "https://wallstreetcn.com/articles/3776859",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 13:24",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板午后涨超3%，算力硬件反攻、光模块大涨，恒科指翻红，科网股回暖、百度重挫9%",
+      "link": "https://wallstreetcn.com/articles/3776862",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 12:06",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "跌停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国央行驳斥半导体见顶论：AI驱动需求持续超越供给，上行周期延伸至2026年",
+      "link": "https://wallstreetcn.com/articles/3776872",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 11:52",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "MPV，没出现ModelY时刻",
+      "link": "https://wallstreetcn.com/articles/3776824",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 11:22",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI交易崩了？债市“撞飞”了股市",
+      "link": "https://wallstreetcn.com/articles/3776849",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 08:31",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "阿波罗首席经济学家：如果AI交易崩了，美元也悬",
+      "link": "https://wallstreetcn.com/articles/3776850",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 08:25",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "接近50%！市场预计美联储本月加息概率走高",
+      "link": "https://wallstreetcn.com/articles/3776848",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 08:00",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "两周前刚说CUDA神话松动，SemiAnalysis转头点赞英伟达vLLM——AMD追赶的不只是硬件",
+      "link": "https://wallstreetcn.com/articles/3776842",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 07:52",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年7月14日",
+      "link": "https://wallstreetcn.com/articles/3776841",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 07:22",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SpaceX股价两日累计跌近9%，逼近135美元IPO发行价",
+      "link": "https://wallstreetcn.com/articles/3776837",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 04:26",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+      "link": "https://wallstreetcn.com/articles/3776831",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 01:38",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "通胀重燃撞上银行财报！华尔街资深老兵：盯紧银行利润表背后的“信用风险”",
+      "link": "https://wallstreetcn.com/articles/3776828",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 23:54",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI交易降温催生新赢家：苹果今年领跑“七巨头”，低点反弹16%，市值激增6500亿美元",
+      "link": "https://wallstreetcn.com/articles/3776820",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 22:38",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "如果存储表现不佳，半导体设备还能撑得住吗?",
+      "link": "https://wallstreetcn.com/articles/3776818",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 22:33",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "印度6月CPI同比飙升至4.38%，17个月来首次超越4%官方目标",
+      "link": "https://wallstreetcn.com/articles/3776817",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 21:17",
+      "relevance": "主题",
+      "match": "CPI",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股通胀大考前夕，华尔街正遭遇史上最惨烈的“数据欺骗”",
+      "link": "https://wallstreetcn.com/articles/3776815",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 20:51",
+      "relevance": "主题",
+      "match": "CPI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
+      "link": "https://wallstreetcn.com/articles/3776811",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 20:05",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "6500，韩股正逼近关键点位",
+      "link": "https://wallstreetcn.com/articles/3776812",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 19:51",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "亨通光电预计上半年净利润同增87%-121%，AI驱动光通信需求爆发 | 财报见闻",
+      "link": "https://wallstreetcn.com/articles/3776802",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 18:43",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+      "link": "https://wallstreetcn.com/articles/3776758",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-13 16:34",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "跌停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月13日东方财富财经晚报（附新闻联播）",
+      "link": "http://finance.eastmoney.com/news/1353,202607133804046638.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-13 21:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "link": "http://finance.eastmoney.com/news/1345,202607133803719566.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-13 15:02",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "联讯仪器增资至1.03亿# 增幅约33%",
+      "link": "https://36kr.com/newsflashes/3895112647752968?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备",
+      "link": "https://36kr.com/newsflashes/3895110271237121?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
+      "link": "https://36kr.com/newsflashes/3895096422513924?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国上半年ICT出口超2500亿美元，同比飙升逾120%",
+      "link": "https://36kr.com/newsflashes/3895056105766145?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国财政部：韩国芯片制造商、造船企业在远期市场大量抛售美元",
+      "link": "https://36kr.com/newsflashes/3895040979254272?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "联讯仪器增资至1.03亿# 增幅约33%",
+      "link": "https://36kr.com/newsflashes/3895112647752968?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备",
+      "link": "https://36kr.com/newsflashes/3895110271237121?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
+      "link": "https://36kr.com/newsflashes/3895096422513924?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国上半年ICT出口超2500亿美元，同比飙升逾120%",
+      "link": "https://36kr.com/newsflashes/3895056105766145?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国财政部：韩国芯片制造商、造船企业在远期市场大量抛售美元",
+      "link": "https://36kr.com/newsflashes/3895040979254272?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+      "link": "https://wallstreetcn.com/articles/3776754",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-14 06:23",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "飙升"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
