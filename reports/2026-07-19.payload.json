@@ -1,0 +1,449 @@
+{
+  "generated_at": "2026-07-19T15:51:39",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 54 条 / 相关 11 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 99 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 11 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 7 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+      "link": "https://wallstreetcn.com/articles/3777348",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 14:32",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+      "link": "https://wallstreetcn.com/articles/3777171",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 10:10",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI算力需求提振光器件景气度，天孚通信上半年净利润预增25%—45%｜财报见闻",
+      "link": "https://wallstreetcn.com/articles/3777332",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 10:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "WAIC智能体手机潮涌调研：荣耀、阶跃、中兴各有什么筹码？",
+      "link": "https://wallstreetcn.com/articles/3777325",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 09:21",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
+      "link": "https://wallstreetcn.com/articles/3777330",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 09:14",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI手机告别功能竞赛，荣耀开始重构操作系统",
+      "link": "https://wallstreetcn.com/articles/3777328",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 23:43",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "蔚来芯片子公司神玑首次独立参展WAIC，瞄准汽车之外AI市场",
+      "link": "https://wallstreetcn.com/articles/3777326",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 22:01",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
+      "link": "https://wallstreetcn.com/articles/3777301",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 16:39",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI牛市结束了吗？市场充满疑虑",
+      "link": "https://wallstreetcn.com/articles/3777289",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 11:46",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "存储的“新鬼故事”：美国要抢钱了？",
+      "link": "https://wallstreetcn.com/articles/3777284",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 11:09",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SpaceX市值已经蒸发了1万亿美元",
+      "link": "https://wallstreetcn.com/articles/3777279",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-18 10:23",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "link": "https://36kr.com/p/3900439867147909?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+      "link": "https://36kr.com/p/3896564485572489?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+      "link": "https://36kr.com/p/3899556701128578?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "link": "https://36kr.com/p/3899597215745664?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“人工智能+防震减灾”行动方案发布",
+      "link": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "蚂蚁韩歆毅：没有企业专属数据，就没有企业专属智能",
+      "link": "https://36kr.com/newsflashes/3901996759729799?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上海“星枢计划”首发星座发布",
+      "link": "https://36kr.com/newsflashes/3901993231550085?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "百度一镜WAIC首发数字人视频播客，突破数字人微表情技术",
+      "link": "https://36kr.com/newsflashes/3901954083030918?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家",
+      "link": "https://36kr.com/newsflashes/3901996167513985?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "我国具身智能正加速迈向产业应用阶段",
+      "link": "https://36kr.com/newsflashes/3901848349165441?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "比亚迪巴西工厂第10万辆新能源汽车下线",
+      "link": "https://36kr.com/newsflashes/3901847114155651?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“人工智能+防震减灾”行动方案发布",
+      "link": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "蚂蚁韩歆毅：没有企业专属数据，就没有企业专属智能",
+      "link": "https://36kr.com/newsflashes/3901996759729799?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上海“星枢计划”首发星座发布",
+      "link": "https://36kr.com/newsflashes/3901993231550085?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "百度一镜WAIC首发数字人视频播客，突破数字人微表情技术",
+      "link": "https://36kr.com/newsflashes/3901954083030918?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家",
+      "link": "https://36kr.com/newsflashes/3901996167513985?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "我国具身智能正加速迈向产业应用阶段",
+      "link": "https://36kr.com/newsflashes/3901848349165441?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "比亚迪巴西工厂第10万辆新能源汽车下线",
+      "link": "https://36kr.com/newsflashes/3901847114155651?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "风口上的中船特气：半导体带动净利增长超九成 原材料成本涨价对冲业绩确定性",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3467490",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-07-19 06:05",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
