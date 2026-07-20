@@ -1,0 +1,477 @@
+{
+  "generated_at": "2026-07-20T18:33:24",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 50 条 / 相关 21 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 7 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "纳指距CTA\"踩踏线\"仅1%：花旗量化模型示警，半导体成关键引爆点",
+      "link": "https://wallstreetcn.com/articles/3777442",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 18:16",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "芯片股抛售暂歇，美股期指齐涨，SK海力士盘前涨近5%，油价回吐涨幅",
+      "link": "https://wallstreetcn.com/articles/3777383",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 18:01",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "埃安“兜底”，高里程动力电池难题摆上台面",
+      "link": "https://wallstreetcn.com/articles/3777441",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 17:48",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "从执行任务到权衡价值，云迹给机器人补上“决策层”",
+      "link": "https://wallstreetcn.com/articles/3777440",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 17:34",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话一目科技CEO李智强：触觉成了具身智能新战场",
+      "link": "https://wallstreetcn.com/articles/3777432",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 16:31",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "机器人开始“打工”，睿尔曼智能打通真实世界最后一公里",
+      "link": "https://wallstreetcn.com/articles/3777429",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 16:12",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩股又崩了！6500点支撑位岌岌可危",
+      "link": "https://wallstreetcn.com/articles/3777428",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 15:55",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "险资最新发声：太保继续加仓科技消费新能源，中期分红提上日程",
+      "link": "https://wallstreetcn.com/articles/3777425",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 15:29",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国“末日博士”：AI或许能改变世界，但阻止不了泡沫破裂",
+      "link": "https://wallstreetcn.com/articles/3777418",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "末日"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛：6月通胀已消除美联储7月加息可能性，沃什需要详解应对机制，避免金融波动",
+      "link": "https://wallstreetcn.com/articles/3777391",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 10:41",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+      "link": "https://wallstreetcn.com/articles/3777389",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 10:19",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "连续第14个月维持不变！7月LPR报价出炉：5年期以上3.5%，1年期3%",
+      "link": "https://wallstreetcn.com/articles/3777385",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 09:00",
+      "relevance": "主题",
+      "match": "LPR",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "市场代劳“加息”，沃什全力“抗通胀”",
+      "link": "https://wallstreetcn.com/articles/3777380",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 08:55",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+      "link": "https://wallstreetcn.com/articles/3777377",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 08:06",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话腾讯首席科学家张正友：AI仍是“缸中之脑”，腾讯Tairos欲破具身落地难题",
+      "link": "https://wallstreetcn.com/articles/3777373",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 07:56",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年7月20日",
+      "link": "https://wallstreetcn.com/articles/3777272",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-20 07:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "机器人“ChatGPT时刻”最快两年！智元姚卯青：先跨过数据、表征与闭环“三堵墙”",
+      "link": "https://wallstreetcn.com/articles/3777368",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 20:25",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+      "link": "https://wallstreetcn.com/articles/3777171",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 19:12",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话腾讯云副总裁吴运声：企业专属Agent为何仍然重要",
+      "link": "https://wallstreetcn.com/articles/3777360",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 17:15",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+      "link": "https://wallstreetcn.com/articles/3777355",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 16:46",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+      "link": "https://wallstreetcn.com/articles/3777348",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-19 14:32",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上证50指数大涨超3% 煤炭、电力、保险板块走强",
+      "link": "http://finance.eastmoney.com/news/1345,202607203813221935.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-20 15:00",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+      "link": "https://36kr.com/p/3903710346790535?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "WAIC上，AI开始接管人类的欲望",
+      "link": "https://36kr.com/p/3903687507904387?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "link": "https://36kr.com/p/3903383663478403?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "link": "https://36kr.com/p/3901396207584902?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "海致科技入选WAIC 2026“数据要素赋能智能体”典型实践项目",
+      "link": "https://36kr.com/newsflashes/3903822060848769?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "杭电股份：拟定增募资不超28.8亿元用于光纤预制棒及高端铜箔项目",
+      "link": "https://36kr.com/newsflashes/3903804757346182?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上海：至2030年推动建成一批高质量绿电直连项目，电源侧开发规模达到50万千瓦",
+      "link": "https://36kr.com/newsflashes/3903778122303105?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "海致科技入选WAIC 2026“数据要素赋能智能体”典型实践项目",
+      "link": "https://36kr.com/newsflashes/3903822060848769?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "杭电股份：拟定增募资不超28.8亿元用于光纤预制棒及高端铜箔项目",
+      "link": "https://36kr.com/newsflashes/3903804757346182?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上海：至2030年推动建成一批高质量绿电直连项目，电源侧开发规模达到50万千瓦",
+      "link": "https://36kr.com/newsflashes/3903778122303105?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
