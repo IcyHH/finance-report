@@ -1,0 +1,629 @@
+{
+  "generated_at": "2026-07-22T17:17:47",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 54 条 / 相关 18 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 96 条 / 相关 12 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 9 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 4 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "A股“股王”联讯仪器上半年净利同比预增802%至926%，AI浪潮席卷光模块测试设备｜财报见闻",
+      "link": "https://wallstreetcn.com/articles/3777678",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 16:41",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本央行官员：愿接受比每半年一次更快的加息节奏",
+      "link": "https://wallstreetcn.com/articles/3777676",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 16:30",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元跌破163关口创近40年新低，日本财务大臣警告将采取“大胆行动”",
+      "link": "https://wallstreetcn.com/articles/3777654",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 15:11",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "公募基金的“极致抱团”：Q2电子和通行2个行业占比高达60%，科创板配比创历史新高",
+      "link": "https://wallstreetcn.com/articles/3777647",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 14:24",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "否认了！SK海力士：没有收购英特尔美国晶圆厂",
+      "link": "https://wallstreetcn.com/articles/3777650",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 14:17",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美债长端收益率击穿关键防线！实际利率创16年新高，油价冲击重燃加息恐慌",
+      "link": "https://wallstreetcn.com/articles/3777644",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 14:07",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "重新审视蔚来？从“烧钱车企”到“AI芯片平台”",
+      "link": "https://wallstreetcn.com/articles/3777626",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 09:52",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年7月22日",
+      "link": "https://wallstreetcn.com/articles/3777606",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 07:16",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+      "link": "https://wallstreetcn.com/articles/3777518",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 06:46",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本央行7月预计按兵不动，焦点转向发布会上的加息线索",
+      "link": "https://wallstreetcn.com/articles/3777605",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 06:45",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "两大利空冲击或低于预期，AI硬件股获支撑，费城半导体指数两连涨",
+      "link": "https://wallstreetcn.com/articles/3777601",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 06:45",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI奥特曼将向美国官员介绍下一代AI模型，美国AI审查框架预计几周内完成",
+      "link": "https://wallstreetcn.com/articles/3777600",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 05:39",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元创40年新低！美元兑日元涨破163，日当局干预的风险增大",
+      "link": "https://wallstreetcn.com/articles/3777589",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 04:00",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "加拿大总理称已与特朗普通话，将\"加快谈判\"，加各省拒绝解除美国酒类禁令",
+      "link": "https://wallstreetcn.com/articles/3777597",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 02:02",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "卡车和SUV需求撑起业绩！通用汽车Q2业绩超预期，年内第二次上调指引",
+      "link": "https://wallstreetcn.com/articles/3777583",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-21 22:10",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国车企争相闯欧洲",
+      "link": "https://wallstreetcn.com/articles/3777584",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-21 22:10",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "\"好消息\"变\"坏消息\"：美国经济数据越超预期，标普500越跌",
+      "link": "https://wallstreetcn.com/articles/3777581",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-21 21:23",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国贸易代表暗示将很快出台新关税政策",
+      "link": "http://finance.eastmoney.com/news/1351,202607223816100518.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 05:30",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股全线拉升！芯片股集体大涨！华尔街喊话：买入时机已到",
+      "link": "http://finance.eastmoney.com/news/1354,202607213816012176.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:33",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "存储龙头兆易创新：向子公司增资5亿元支持DRAM项目实施",
+      "link": "http://finance.eastmoney.com/news/1354,202607213815919619.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:28",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股迎来批量利好 上市公司密集发布回购、股东及高管增持计划",
+      "link": "http://finance.eastmoney.com/news/1354,202607213816047048.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:20",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谷歌更新轻量版Gemini模型阵容 但旗舰Pro发布再延期",
+      "link": "http://finance.eastmoney.com/news/1354,202607223816065236.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:20",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "连吃五个跌停后“翻红” 抄底资金进场了？德明利：中长期终将回归基本面",
+      "link": "http://finance.eastmoney.com/news/1354,202607213816036420.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:06",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "跌停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "决赛圈收窄！光伏行业迎来制胜点",
+      "link": "http://finance.eastmoney.com/news/1354,202607213816059230.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:05",
+      "relevance": "间接",
+      "match": "光伏",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "陈立武上任后首单落地 英特尔代工拿下飞塔芯片订单",
+      "link": "http://finance.eastmoney.com/news/1354,202607213816036374.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:03",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "惊魂“深V”之后 市场信心回来了吗？基金公司这样解读",
+      "link": "http://stock.eastmoney.com/news/11791,202607223816063461.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-22 00:02",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月21日晚间上市公司利好消息一览(附名单)",
+      "link": "http://finance.eastmoney.com/news/1353,202607213815855117.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-21 20:38",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月21日晚间沪深上市公司重大事项公告最新快递",
+      "link": "http://finance.eastmoney.com/news/1345,202607213815792580.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-21 19:32",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板指大涨逾7% 科创50指数飙升近11% 半导体板块爆发",
+      "link": "http://finance.eastmoney.com/news/1345,202607213815473760.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-21 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+      "link": "https://36kr.com/p/3906523265914245?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+      "link": "https://36kr.com/p/3906499484996742?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+      "link": "https://36kr.com/p/3906468088042886?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+      "link": "https://36kr.com/p/3906428262618241?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "茅台涨了100元，白酒还欠3000亿",
+      "link": "https://36kr.com/p/3905234473158279?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元贬值加剧通胀风险，日本央行据悉愿考虑更快加息步伐",
+      "link": "https://36kr.com/newsflashes/3906539766174857?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "联讯仪器：预计上半年净利润同比增长802%-926%",
+      "link": "https://36kr.com/newsflashes/3906533439329667?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI算力产业链成为上海出口重要增长动能",
+      "link": "https://36kr.com/newsflashes/3906509570020488?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "比亚迪腾势在哈尔滨成立新销售服务公司，注册资本100万",
+      "link": "https://36kr.com/newsflashes/3906495424582787?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元贬值加剧通胀风险，日本央行据悉愿考虑更快加息步伐",
+      "link": "https://36kr.com/newsflashes/3906539766174857?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "联讯仪器：预计上半年净利润同比增长802%-926%",
+      "link": "https://36kr.com/newsflashes/3906533439329667?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI算力产业链成为上海出口重要增长动能",
+      "link": "https://36kr.com/newsflashes/3906509570020488?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "比亚迪腾势在哈尔滨成立新销售服务公司，注册资本100万",
+      "link": "https://36kr.com/newsflashes/3906495424582787?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板跌超3%，有色金属爆发，科技股陷入调整，恒科指跌超3%，科网股普跌、腾讯大跌7%",
+      "link": "https://wallstreetcn.com/articles/3777630",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-22 16:19",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴涨",
+        "涨停"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
