@@ -1,0 +1,468 @@
+{
+  "generated_at": "2026-07-25T15:35:03",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 56 条 / 相关 18 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 7 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 5 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+      "link": "https://wallstreetcn.com/articles/3777925",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 15:09",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+      "link": "https://wallstreetcn.com/articles/3777926",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 13:59",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
+      "link": "https://wallstreetcn.com/articles/3777924",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 13:11",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+      "link": "https://wallstreetcn.com/articles/3777919",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 10:52",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周“大波动”？市场严阵以待",
+      "link": "https://wallstreetcn.com/articles/3777916",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 09:51",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普新一轮全球关税遭小企业起诉，美贸易战再陷法律争议",
+      "link": "https://wallstreetcn.com/articles/3777913",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 06:51",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "大摩：若SpaceX跌至100美元，意味对其AI业务估值为零",
+      "link": "https://wallstreetcn.com/articles/3777910",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 05:42",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "英特尔与蓝思科技合作，探索基于玻璃基板的封装解决方案",
+      "link": "https://wallstreetcn.com/articles/3777903",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 04:38",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+      "link": "https://wallstreetcn.com/articles/3777901",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 00:58",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储越“慌”美债越稳？美银 Hartnett：沃什或被迫加息，以遏制长债收益率飙升",
+      "link": "https://wallstreetcn.com/articles/3777894",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 23:23",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "世界杯与独立日提振服务业，美国7月综合PMI升至八个月新高，中东风险或令复苏承压",
+      "link": "https://wallstreetcn.com/articles/3777892",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 22:10",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "降息无望？油价飙升或将推动全球通胀Q4升至4.5%",
+      "link": "https://wallstreetcn.com/articles/3777888",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 21:05",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "聪明钱现在都在往哪跑？",
+      "link": "https://wallstreetcn.com/articles/3777886",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 20:35",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "绑定硅谷巨头！报道：三星与SK海力士拟签署“超大额”美企芯片供货协议",
+      "link": "https://wallstreetcn.com/articles/3777884",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 19:45",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧元区7月PMI意外升至五个月高位，德国制造业反弹、法国服务业回暖，复苏仍受油价威胁",
+      "link": "https://wallstreetcn.com/articles/3777877",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 18:07",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
+      "link": "https://wallstreetcn.com/articles/3777840",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 16:24",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
+      "link": "https://wallstreetcn.com/articles/3777851",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 14:37",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+      "link": "https://wallstreetcn.com/articles/3777849",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-24 13:55",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中方回应美对贸易伙伴征收新关税：反对单边关税措施",
+      "link": "http://finance.eastmoney.com/news/1345,202607243820435474.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-24 15:26",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+      "link": "https://36kr.com/p/3909358392988806?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+      "link": "https://36kr.com/p/3909033052722310?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+      "link": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星电子与博通达成价值2000亿美元的半导体供应合作协议",
+      "link": "https://36kr.com/newsflashes/3910562246645128?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过",
+      "link": "https://36kr.com/newsflashes/3910519718270081?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "2025年我国数字产业收入39.6万亿元",
+      "link": "https://36kr.com/newsflashes/3910502774101383?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+      "link": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+      "link": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星电子与博通达成价值2000亿美元的半导体供应合作协议",
+      "link": "https://36kr.com/newsflashes/3910562246645128?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过",
+      "link": "https://36kr.com/newsflashes/3910519718270081?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "2025年我国数字产业收入39.6万亿元",
+      "link": "https://36kr.com/newsflashes/3910502774101383?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+      "link": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
