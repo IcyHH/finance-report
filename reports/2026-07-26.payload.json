@@ -1,14 +1,20 @@
 {
-  "generated_at": "2026-07-26T17:00:04",
+  "generated_at": "2026-07-26T20:37:04",
   "profile": {
     "投资周期": "中期",
-    "时间窗口小时": 30
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
   },
   "source_status": [
     {
       "name": "华尔街见闻",
       "tier": "T3",
-      "status": "✅ 抓取 50 条 / 相关 9 条"
+      "status": "✅ 抓取 49 条 / 相关 7 条"
     },
     {
       "name": "东方财富-合作要闻",
@@ -23,12 +29,12 @@
     {
       "name": "36氪-快讯",
       "tier": "T3",
-      "status": "✅ 抓取 20 条 / 相关 1 条"
+      "status": "✅ 抓取 20 条 / 相关 0 条"
     },
     {
       "name": "英为财情-资讯",
       "tier": "T3",
-      "status": "✅ 抓取 10 条 / 相关 0 条"
+      "status": "✅ 抓取 10 条 / 相关 1 条"
     },
     {
       "name": "新浪-国内焦点",
@@ -49,9 +55,110 @@
       "name": "MarketWatch-Top Stories",
       "tier": "T2",
       "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 31 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 4 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
     }
   ],
   "items": [
+    {
+      "title": "[公告] 中无人机 中无人机2026年半年度业绩预告的自愿性披露公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-07-24/1225438746.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-07-24 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 康美药业 康美药业关于涉及诉讼进展的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-07-21/1225431942.PDF",
+      "source": "巨潮公告·康美药业",
+      "tier": "T1",
+      "published": "2026-07-21 00:00",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
     {
       "title": "4500点！高盛上调日本股市目标价，看好日元走弱提振企业利润",
       "link": "https://wallstreetcn.com/articles/3777951",
@@ -148,32 +255,6 @@
       "impact": 1
     },
     {
-      "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-      "link": "https://wallstreetcn.com/articles/3777926",
-      "source": "华尔街见闻",
-      "tier": "T3",
-      "published": "2026-07-25 13:59",
-      "relevance": "间接",
-      "match": "人工智能",
-      "emotion": "🟢",
-      "emotion_hits": [],
-      "signal": "🟡",
-      "impact": 1
-    },
-    {
-      "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
-      "link": "https://wallstreetcn.com/articles/3777924",
-      "source": "华尔街见闻",
-      "tier": "T3",
-      "published": "2026-07-25 13:11",
-      "relevance": "间接",
-      "match": "半导体",
-      "emotion": "🟢",
-      "emotion_hits": [],
-      "signal": "🟡",
-      "impact": 1
-    },
-    {
       "title": "周末要闻汇总：中国证监会原副主席方星海接受审查调查",
       "link": "http://finance.eastmoney.com/news/1345,202607263821212088.html",
       "source": "东方财富-合作要闻",
@@ -232,20 +313,124 @@
       "tier": "T3",
       "published": "时间未知(待验证)",
       "relevance": "间接",
-      "match": "半导体",
+      "match": "人工智能",
       "emotion": "🟢",
       "emotion_hits": [],
       "signal": "🟡",
       "impact": 1
     },
     {
-      "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
-      "link": "https://36kr.com/newsflashes/3912076178789766?f=rss",
-      "source": "36氪-快讯",
+      "title": "中国银河证券：如何看待美国新的301关税？",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3479050",
+      "source": "英为财情-资讯",
       "tier": "T3",
-      "published": "时间未知(待验证)",
+      "published": "2026-07-26 12:05",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568.SZ）新增一起对外投资，被投资公司为深圳市远致星源创业投资基金合伙企业（有限合伙） - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua3BoQ1dHc0hZNnlQa205emtqci1mbElZWDA5ZXhqMmc1UzBqemg2QVFxSk55SkVaYlVCc0ZyWDJ4RTVBNl9UbjFXX3ZzZmE4TXhvVkFjUTh5VHE4ajZGQW8wM3A?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-26 03:56",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机：融资净买入1030.84万元，融资余额5.32亿元 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QdzNveGhqV2U5cWh6Q1BfXzh6Y0J1RVJtUmN5dXNicnduMnBQQ25idVAtTVZ6ME1DS0xTZWtIcmdSdzZEXy11NUdCSW1CcFhFdlB1aU8xSHF2UkZhUHAxeg?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-07-26 06:44",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "康美药业未了局：25亿兜底追偿陷困局 - 风闻",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtT3NPeG43RVBpRDMyTzhkbFVwcjB5NFNOMUpEaTZueDYwMjAtMklYZGhrTldSU1lsOTcwSUxMUnhKMVJqcXpFNVZNcmxXODZsZThJUThIUDZRcmRmak1jRkktbEZSVzFCbHc?oc=5",
+      "source": "Google News检索·康美药业",
+      "tier": "T3",
+      "published": "2026-07-26 05:42",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "虚增300亿坑5万股民！康美药业赔给股民的24亿要回来了 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnMnlzWDBkeWlreVZlR3NoODVxSjRqLVJORU13NzlYRGFJc21Zc3ZYb05QNmpsQUJrdzQ2NFlpaUxqV1F0d01XeTNHdFVuWU1ablk1MQ?oc=5",
+      "source": "Google News检索·康美药业",
+      "tier": "T3",
+      "published": "2026-07-26 16:45",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团孵化的独角兽：埃安估值500亿元，还有一家专攻电池领域 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFhKa1doam56djByQmVNWTZDa0F1cnplaTlCQVRYazBkWGViWXgtTmFfSzJXQUEzQmVRVlhCYjlrWWlqOXFfWnhtNHJkNVMyd1VFTmxnYlFVaVBNZENGUHZWek43RU0wcGwxSTFTMk8tTE5sQ1NkcWNDSGdGMXcybFQyNnBtbUVmcXcteA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-26 19:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【e公司观察】新能源汽车供应链权责体系有待进一步厘清 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoX19LTTVkUl93UUUyNmhQVU9qYUNxZi1vX1kxZjFWR3lvam5HVTh5RUNlaDZCVUVPcGN6ZzYyZ2gyYzBha1NHbUhjMzZ2WDZwd3RoZjE4cVJYZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-26 14:21",
       "relevance": "间接",
-      "match": "半导体",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团2026年产销目标出炉：重回200万辆 - 东方财富 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSmczdWMzR3BHNkdQYVJDRWliNGlpdDdlUEZEVUZjc2U2Y0VTN2JoTmtlUGlkVm5BTWlsNnhKdTd2V1NxQWdxb3hTWllBTG1ZSFpBaFg3blFYVUhYYXY3Q3lyODhDakRMdjNYRi14NjdCZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-25 17:38",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团多款新车亮相2025上海车展 传祺与华为合作车型受关注 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93MVJsel8tc0pCbDNyRDF6cW11Z1U1TTFLaWlGOWNDdTFybFhlZ29INU1LOWQ2ZXpxclB1YzVrTnBrRGtYNGlNRXUyNEtacy1KRzlkd1FSTjVtWXBiZ0ZQdm00QzVqTlk?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-25 17:53",
+      "relevance": "直接",
+      "match": "广汽集团",
       "emotion": "🟢",
       "emotion_hits": [],
       "signal": "🟡",
