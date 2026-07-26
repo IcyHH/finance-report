@@ -1,0 +1,256 @@
+{
+  "generated_at": "2026-07-26T17:00:04",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 50 条 / 相关 9 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 2 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 3 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "4500点！高盛上调日本股市目标价，看好日元走弱提振企业利润",
+      "link": "https://wallstreetcn.com/articles/3777951",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-26 14:33",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "SK海力士下周放榜：Q2营业利润或突破64万亿韩元创新高，同比增长近600%",
+      "link": "https://wallstreetcn.com/articles/3777948",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-26 13:46",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“大空头” Burry加码做空英伟达、美光",
+      "link": "https://wallstreetcn.com/articles/3777945",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-26 11:53",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周“加息”并非“天方夜谭”？飙升的油价、“不给指引”的沃什，这都让市场紧张",
+      "link": "https://wallstreetcn.com/articles/3777938",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-26 10:03",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
+      "link": "https://wallstreetcn.com/articles/3777856",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-26 09:28",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+      "link": "https://wallstreetcn.com/articles/3777930",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 18:19",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+      "link": "https://wallstreetcn.com/articles/3777925",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 15:09",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+      "link": "https://wallstreetcn.com/articles/3777926",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 13:59",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
+      "link": "https://wallstreetcn.com/articles/3777924",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-25 13:11",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "周末要闻汇总：中国证监会原副主席方星海接受审查调查",
+      "link": "http://finance.eastmoney.com/news/1345,202607263821212088.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-26 14:00",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "明日上市！长鑫科技中一签能赚多少钱？",
+      "link": "http://finance.eastmoney.com/news/1354,202607263821181218.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-26 06:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+      "link": "https://36kr.com/p/3909358392988806?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+      "link": "https://36kr.com/p/3909033052722310?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
+      "link": "https://36kr.com/newsflashes/3912076178789766?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
+      "link": "https://36kr.com/newsflashes/3912076178789766?f=rss",
+      "source": "36氪-快讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
