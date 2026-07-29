@@ -1,0 +1,928 @@
+{
+  "generated_at": "2026-07-29T18:13:36",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 56 条 / 相关 22 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 93 条 / 相关 6 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 30 条 / 相关 2 条"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 39 条 / 相关 10 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 6 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 43 条 / 相关 3 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 2 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 70 条 / 相关 8 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 中无人机 中无人机2026年半年度业绩预告的自愿性披露公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-07-24/1225438746.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-07-24 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "爱马仕Q2营收超预期，但汇率吞噬逾3.6亿欧元收入，股价狂泻10%至2023年来新低| 财报见闻",
+      "link": "https://wallstreetcn.com/articles/3778209",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 17:46",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+      "link": "https://wallstreetcn.com/articles/3778176",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 17:31",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+      "link": "https://wallstreetcn.com/articles/3778220",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 16:44",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板探底回升涨超1%，大消费集体爆发，长鑫大涨12%市值超3.5万亿，恒科指一度涨超3%，小米大涨9%",
+      "link": "https://wallstreetcn.com/articles/3778182",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 16:42",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "多空头激辩：AI当前的核心争议，以及赢家和输家",
+      "link": "https://wallstreetcn.com/articles/3778207",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 15:26",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI改写全球劳动力阶层：白领学历加速贬值，韩国高中生进三星获270万巨额奖金",
+      "link": "https://wallstreetcn.com/articles/3778205",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 14:07",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "聚辰股份赴港IPO，定位深耕非易失性存储，AI与车规芯片驱动业绩增长",
+      "link": "https://wallstreetcn.com/articles/3778203",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 13:49",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德业股份冲刺港股IPO：单年营收破百亿，海外收入占比近九成",
+      "link": "https://wallstreetcn.com/articles/3778202",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 13:47",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "多年来“最不确定”的一次！今晚的美联储会给“惊吓”吗？",
+      "link": "https://wallstreetcn.com/articles/3778189",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 13:31",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "加息还是暂停？新美联储通讯社：今晚FOMC三大看点全解析",
+      "link": "https://wallstreetcn.com/articles/3778192",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 11:59",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI股暴跌引发追保潮，高盛摩根大通向对冲基金追讨抵押品",
+      "link": "https://wallstreetcn.com/articles/3778188",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 11:06",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“AI能源妖股”Bloom单季营收首破十亿美元，大幅上调全年指引，CEO电话会放话：芯片没电是库存",
+      "link": "https://wallstreetcn.com/articles/3778179",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 09:09",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "狂飙"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "希捷电话会：全年每季毛利率都会涨，近线产能锁至2028、客户还在抢2029，存储需求“不是单季爆发”",
+      "link": "https://wallstreetcn.com/articles/3778175",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 08:50",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+      "link": "https://wallstreetcn.com/articles/3778080",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 06:57",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "恩智浦Q2营收与Q3指引均超预期，但盘后依然大跌｜财报见闻",
+      "link": "https://wallstreetcn.com/articles/3778158",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 05:16",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "xAI推出AI编程产品：Grok Build模式可通过自然语言生成网站、应用",
+      "link": "https://wallstreetcn.com/articles/3778155",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 03:20",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+      "link": "https://wallstreetcn.com/articles/3778137",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-29 03:13",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "康宁电话会：“订单正在加速增长”，全光纵向扩展将提升10倍光纤用量，但落地节奏不确定",
+      "link": "https://wallstreetcn.com/articles/3778144",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-28 23:41",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“风险事件”无处不在！本周美联储决议、科技巨头财报与油价齐聚，市场波动显著升温",
+      "link": "https://wallstreetcn.com/articles/3778141",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-28 20:57",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Meta为AI\"烧钱\"付出代价：125亿美元新债利率跳涨，华尔街开始\"消化不良\"",
+      "link": "https://wallstreetcn.com/articles/3778134",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-28 20:15",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI泡沫的金丝雀，刚刚死去.....",
+      "link": "https://wallstreetcn.com/articles/3778131",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-28 19:01",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "芯片股跌出“机会”了吗？机构泼冷水：AI交易仍拥挤，抄底时刻未到",
+      "link": "https://wallstreetcn.com/articles/3778129",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-07-28 18:26",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本熊本7.1级地震冲击硅岛 半导体及化工材料或受扰动",
+      "link": "http://finance.eastmoney.com/news/1354,202607283823846878.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-29 00:34",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "显著放量！截至7月22日当周 投向中国内地股票的基金资金净流入创一年多以来新高",
+      "link": "http://stock.eastmoney.com/news/11791,202607283823813037.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-29 00:19",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "闪迪、美光、海力士全线重挫！韩股跌完美股跌 “下跌循环”何时终？",
+      "link": "http://finance.eastmoney.com/news/1354,202607283823860862.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-29 00:07",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储议息在即 市场为何仍不敢排除加息？",
+      "link": "http://finance.eastmoney.com/news/1351,202607283823813142.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-29 00:04",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "商务部就世贸组织发布我诉土耳其电动汽车和其他车辆限制措施世贸争端案专家组报告答记者问",
+      "link": "http://finance.eastmoney.com/news/1345,202607283823845522.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-28 22:36",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数集体收跌 白酒与食品饮料板块逆市走强",
+      "link": "http://finance.eastmoney.com/news/1345,202607283823462913.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-07-28 15:00",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+      "link": "https://36kr.com/p/3913321294369924?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "英国央行据悉评估主经纪商对亚洲股票的风险敞口",
+      "link": "https://36kr.com/newsflashes/3916533010722177?f=rss",
+      "source": "36氪-资讯",
+      "tier": "T3",
+      "published": "时间未知(待验证)",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：公司海外隔膜生产基地按计划积极推进项目建设进度 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVSZGM1a0lZNzB3RlhEd1FMOGRSam1tTUh6VkdYTmZwd1N5SUxuYlZxeVRmdzA1S0dZUjY2X0IwaWFGbUNmWEQzRDA1bGhzN1VQeUJFc1k1d0lNTEM4UklROHQ2LXN1LUV6Z0RGT3RPVDNTNGt0cWZOWUxEMEYzWkdERDNQX055VmlXeg?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-29 15:28",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：上半年主流湿法基膜价格明显修复 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNRERrQXU0UVlhcFdGaEgxaG5oTDlldDQ3a2pfZTdHQWhGbjZNSnlIWTFzSmY2eE1HYkc3cnJPeVhiM3d6M2lVRUM3N0l5QQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 22:59",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【调研快报】星源材质接待Citadel Internatinal等8家机构调研 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zb1c3bVBWcm54N2JSNWtQZ1RJMVJodjJ5UUxCdUFXbXdkeUh5bVZQUGQtZm9VSjE5M1VfelVhU01rMUpBN1ZjQUpDNkVyalU5bVB6c1A4aVlUTFRQN2o1VA?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 19:46",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(300568.SZ)：海外隔膜生产基地按计划积极推进项目建设进度 - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWpmdGJTWlNOdjdJRGxTY2tSR1A2cElYZDZzd3FJa0gxOVVXMmNtUlJFV2Y4ZW9PRW1rVzB4aEpJaHlfOXlRVTVWcTlzRzNaOXF5azVnUzlzdF9XVjd5NmJ3S0d0MTlwZlVTM3NaU19LWmYtUFREeldGY2R4c3RPeGxGbHl6VmVNWDFXODFUVTgwNWJGa3h2U3BuZGdBREZBb3gyc2d5TEFQNzVLbHd0RQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 23:14",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "股票行情快报：星源材质（300568）7月28日主力资金净卖出1194.19万元_主力研究 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EWHMxRXVwNHNSUmtwei15ZEVQdTc0bGJaWHdDbUxJWFExM2R1TVFic05IVHNfTWxCNWZ1TWp5X2EzS2lBd3Fxdzd2dnhoT3JCYUp3ZGRHZFl4ZUFKWnRXYzdn?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 20:07",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "7月29日星源材质涨7.02%，申万菱信新能源汽车主题灵活配置混合A基金重仓该股 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjlaM0tQUE5nSjc3MzJ6U3FNdVNrY3ZDM2dzOG1lLXBQMm1NelNEUi13dk9VRDNhVEVzZ2c4czZfazJGX2V1a1dvc0Y0ZE13Mlh4M3NidV83ZEFHNlVaeEpRLTloT2NVbTVkSl9ndHpFX19Kc0xWZDJHQlJ3eXRMNGdhOW5sOGd6?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-29 16:45",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质创历史新低 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yQlJCMFRRTGVuUU1xUnVTRmhPNktIOWlSZ0k2RlNaTVFEU0RSMUZkNWtZOGFfVHREV2tKSlNtT3V2c1JHc1NxbWZtNkYyUGIxR3dFaVI2MEtic1lGelNMWFdYbkVBYWRPUFJj?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 13:35",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：上半年主流湿法基膜价格较去年底明显修复 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3V5VWQxMEJSMjFOaGZZSE1yR1FDZ1p6WDR3cVN2OWRoNDB6NFBYTFY2UXFqT3Jpb2I1bElybjRjaElhTnViZk1pRm1mZE1jU19wTUl6X1VIaDJJS0ZiUEVoUC1FcVhpYjJCV3pzRExhVGZTc0d1VG9ESUpVNXdSbU84bW9FN0di?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 21:46",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：2026年上半年主流湿法基膜价格较去年底实现明显修复 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlRveWFpb2xXUE5DcThMUkxrSURjaHhya2RuQXRsUFZpZWZKV3c4SG9zd1Z5d3BWLTVZUEZWVUxWY0plTXFWb21ESEppaWNITWFZUldweDhhSXpiWWJYQTdTZTBONnRHbzIxUGx4bElhWTFFa1pGMUpDQTc2RWw0Q1RKTGpFZlFqUkVWaw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 19:57",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：上半年主流湿法基膜价格较去年底明显修复 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGo0V3dNRnVTVWlaMFAzaGpVQ2xWN1g2STJ3eDBtdW1mdTdQcWo4XzVnSmV5NVYtTzZKNmNMM0FfVmF3TW5IVl9mQ0IxdlJnNnhHZ1RGZ3Q2VDFCZlAzVGlXZ0EwVzJZWmdLd05tSHFNeXhDdkV0dVFhRTJHbW1qeTd3VWpGZWZX?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 22:44",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：多家机构调研，隔膜需求强劲，海外基地建设加速",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2fwww.sohu.com%2fa%2f1055919401_121885030&c=14180759736854859053&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 23:01",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）7月29日主力资金净买入7917.40万元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2598%259F%25E6%25BA%2590%25E6%259D%2590%25E8%25B4%25A8-300568-7%25E6%259C%258829%25E6%2597%25A5%25E4%25B8%25BB%25E5%258A%259B%25E8%25B5%2584%25E9%2587%2591%25E5%2587%2580%25E4%25B9%25B0%25E5%2585%25A5791740%25E4%25B8%2587%25E5%2585%2583%2far-AA28Xkuj&c=13061872007762038032&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-29 09:09",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(300568.SZ)：预计短期内隔膜供需紧平衡状态仍将持续",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fbxjj%2f2026-07-28%2fdoc-inikknrz0343888.shtml&c=8883035093277461331&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 23:22",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(300568)成立南通坤盛半导体材料有限公司",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E7%2583%25AD%25E9%2597%25A8%25E8%2582%25A1%2f%25E6%2598%259F%25E6%25BA%2590%25E6%259D%2590%25E8%25B4%25A8-300568-%25E6%2588%2590%25E7%25AB%258B%25E5%258D%2597%25E9%2580%259A%25E5%259D%25A4%25E7%259B%259B%25E5%258D%258A%25E5%25AF%25BC%25E4%25BD%2593%25E6%259D%2590%25E6%2596%2599%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8%2far-AA28WMeL&c=12444608255650129275&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-29 07:19",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "昨日估值：星源材质 市盈率（TTM）989.55倍，处于分位96.8%（2026年7月27日）",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2fstock.10jqka.com.cn%2f20260728%2fc678481535.shtml&c=17603820092295628142&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 13:16",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：上半年主流湿法基膜价格较去年底明显修复",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24a8ca6476d9d9666060d39b43a&url=https%3a%2f%2fstock.stockstar.com%2fIG2026072800039151.shtml&c=15865468701978764647&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-07-28 22:39",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "航空ETF富国（159392）开盘涨0.00%，重仓股万丰奥威涨0.30%，中无人机涨0.69% - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjNybDRoN3NuTU1GVG4zbU1nNko2dGpFNzJZTWI2LUhSMlF1TWdpQ1otakVoYWI1dkZTUEVZT3FCRmdQak5VOEZlZHpDVTJ3a2NvN3Z1WWJmRUl0anA4R2FUTzRZYVQwdEhJMlpENzZGNXVqME01NUxVcGRVVDVqS0VmZU1CdGlfSERfUQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-07-29 09:38",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁将占据珠穆朗玛峰…美中无人机展开极限竞争 - 朝鮮日報中文版",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnN0UGlMNDAwT2M4b0RNVUpwaXgzY3pGV3RNcGFfcDFqWGc3WHFnbjZxTXNkV0o2Zlhkbk9UdnJWdHB5a1Ata2sxTVRLVXRIejJRejNRNUk5VFpSTzZTZ0JSdWZya3F5aFZONXhNWmlPWHJieGxyM3J6NHJtQ2ZsdzMyM1lnQ3hNaHN0RjJJVzktSmRn?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-07-29 14:08",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国家邮政局：“人工智能+”赋能邮政 无人机无人车加速落地 - chinanews.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yTmR1MF9lMWVSUExxNXE1T1NVeHlreWFYZVQtcjUxbWIxc0w0azg3cXVqMWs4MkVWc0dVc0thbmsxYVozR29YRU1tUVlzalppaFN6ZnJRSzlvd1Z4R3g0RWNZT1lmcmhj?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-07-29 15:10",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团成立飞行汽车制造公司 注册资本1亿元 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWVjdHhQLW1WcmM3TUY1WHhxOUxHTHNvdTNyakJYYUIybW5xZzhGZnRQLW02WmFjYXlPd05SRWc2cDh2cHJneENlQTBOZ0hYM0IyaUZqRjd0YjRnZWJ3R2t2aHZneXczU0RJTkU2d0t1S1hlOGE0SWJnOUFMWlNTM2ZxdXhNQndl?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 12:31",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团参投企业长鑫科技IPO，硬科技投资版图再结硕果 - 上海热线",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVYy1XYzlhQUtRNGVfSnNtZE9EQlBTZlUxWlVDMHRQYU1BTGFaa05wa3VVSFY4QlFqanBJUmtObEVfZ2JnNHQ5aWktTTBtMUJyTGozUkNVWUZlMzltRTFYaDRFcjA5MmM0bVR3OS1wUHpBcmc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 09:05",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团持股公司成立飞行汽车制造公司 注册资本1亿元 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54TllWeVVCX2l6SjE1S1E1LTJ3OERQa3dCYUFLUjNQWHdFMVhGMm9OcXRGWFNSUS1oSXVkdkRqeFJERWVCM1NOMmpsTUdvdlNWb3d2cEhCRHZ5WVE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 17:41",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团持股公司成立飞行汽车制造公司，注册资本1亿元 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFJcVN3RkpLUElkLUFTd09tbVdKd25rQnNGTFdFZFlWdTRCMGoyTEFkMjNLQ2pSNHZoNS1rbWJ6ZGJBSnNubGF2V21SLXFFaWJ3dkxBa3pBNXlBRU96OG5FeGZHeEctRDRValdzY29LX0VkUTdGSVoyYkc0c1VWWGN3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 11:27",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "同比增长1.68%，广汽集团，3月销量176855台 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtUmF4aDNKZUFHZGt3aE1OUmFfQndzeHM0c3Y2T1dyRzJFOW5HV3kyeXptZ0djZVp6aFhudGdpQU5WLXBwRjBaTVd6RW5EOHJkcGJPODFIVERMRnM?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-28 19:31",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "参投长鑫科技，广汽集团强化芯片布局 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2JtN2VhejVQX2RrMnpkNEFVVG43ajRMdnREUEJrR0x3U1E1YnpyR1hZNHJLQ2k3QzVuUlNYaG43WkJDRldVejE1QVAyWEJMX25zejhxMWQxTWt3NWFNaVltRXI2RFhzajJBNldBdlFpV29HczhNb0R0djcyUkhtYkJGaUpwbmVvTlZDcg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-28 17:57",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【视频】用车全场景覆盖，传祺打造无里程焦虑的新能源 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aUXo0UHNCVk1VbEFRVnFweUhuWlZlSVloYXQ3WHdRQUVadDFLRDl5Q25hT09TVVpSOVl2OHFSMzFpRnJfVC1CYVp2blpyMUcxQm9lT21tdWJLc1dZclE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 05:08",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【视频】股东双向深度赋能广汽本田全速冲刺智能新能源新赛道 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQ0VkOW00dWdUWW5mdkpsZm02Z0todmFpeUJmOFgxZkcwUmxyRW5URGZ5UEQ3LTJKMTJ0UEJpTVpmekM0bE5mTUstU0lyLVItS3pPWHNyejNsZHM?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-28 21:45",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽押中3.28万亿元IPO：长鑫科技上市 汽车芯片版图浮出水面",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a69d24fcd6d40d28d745ee42871ebd6&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-07-29%2fdoc-inikmqct5964177.shtml&c=1793563595604245828&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-07-29 02:28",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中节能风电华北区域公司怀安100MW风电项目顺利完成全部风机吊装 - 国际风力发电网",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMm5KdF8zRzUzd3AyMGhkNFM5QUNoZm54eDVsclgtdDhqTFUtWms2bk1KYS0tMnZoUG80ZTU5TktXX2NfUkhkOFFXR04xSlRLRkhyU0VJblJHUQ?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-07-29 13:49",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
