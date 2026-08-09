@@ -1,0 +1,465 @@
+{
+  "generated_at": "2026-08-09T09:24:09",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 58 条 / 相关 9 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 99 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 2 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 5 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 47 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 9 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 75 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 17 条 / 相关 3 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 北京市金杜（深圳）律师事务所关于深圳市星源材质科技股份有限公司2026年第四次临时股东会之法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-06/1225461866.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-06 19:24",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 2026年第四次临时股东会决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-06/1225461865.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-06 19:24",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 第六届董事会第二十九次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225453707.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-03 16:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 H股公告-建议采纳2026年H股激励计划",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225453706.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-03 16:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于全资子公司增资扩股引入投资者暨公司部分放弃权利的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225453708.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-03 16:36",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团2026年7月证券变动月报表",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-05/1225457434.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-08-05 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团2026年7月产销快报",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-05/1225457029.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-08-05 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于申请注册发行债务融资工具的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225454653.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-08-04 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
+      "link": "https://wallstreetcn.com/articles/3778987",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 10:59",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日元只是暂时稳住，中期选举后怎么办？",
+      "link": "https://wallstreetcn.com/articles/3778986",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 10:35",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+      "link": "https://wallstreetcn.com/articles/3778982",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 08:31",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
+      "link": "https://wallstreetcn.com/articles/3778981",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 07:20",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月8日",
+      "link": "https://wallstreetcn.com/articles/3778980",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 07:08",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%",
+      "link": "https://wallstreetcn.com/articles/3778924",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 07:05",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
+      "link": "https://wallstreetcn.com/articles/3778978",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 05:53",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+      "link": "https://wallstreetcn.com/articles/3778975",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 04:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储9月加息概率再降？经济学家料核心CPI创五年新低",
+      "link": "https://wallstreetcn.com/articles/3778973",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-08 04:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华创证券：就业数据支持美联储继续按兵不动",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3507371",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-08-08 23:36",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华创证券：7月出口保持高景气 AI、新能源车、船舶三大链条或共同支撑下半年出口维持偏强韧性",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3507370",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-08-08 23:35",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机秩鼎ESG评级较上年上升至AAA，位居A股同行业70家公司第1名，与中航沈飞等同级、高于航发动力等 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzlxOFJlc1VPN3JhSW9SVGJ3YXh6bXJNR0w1NU8yZGEtd3U4b09lS0lmaUZwNGNBZk1wbzVfel9zdS1KMTdoREI2bEZlcEhMcVp0WVpPdExtMWRUTFMzaHZSVy00d3Iwa3BVSDlGT3p4QmpDeVpuSXNNYkViVVdXYjhpUWZ6RE5lZ0F0MnVB?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-08-08 11:32",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机：独立董事候选人声明与承诺-赵吟- Futubull - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZnTk9uRzBaV1M2Q05DVF9HM2xJN0doSGFmMHNfZzZvVGRad1ROUnhwUV8zX3c1TnBzWXJhRVQ4MlJKaVJPLTFNTUhoUmFScm9JSmRBUXUya2p2UE1lX3hfREs4bWhDLWhMX2ZtUmNZa25mRVdocHNKOU5xNW9sZTlRNmxoeTNfdDFYUURBUHU2T1JsRVh6RUFUUnhCRFRVQ0F5YzJmOTFQcGFvZURZcThPSUJDcnZQVnpuUFdJSQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-08-08 20:07",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团秩鼎ESG评级较上年上升至AAA，位居A股同行业26家公司第1名，与比亚迪等同级、高于宇通客车 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGJIMjVDUFlCUHU3S19oWXRMRkNESXR1N0YzMFkwNDVSZTlWMDJ2a0xyWTNYc3RTeDdudFFBWWszM1l4SUs5YV9KLWtBVE1QWFM2dkZNMjVJVmQ1WHFQRTNhcFZ6LWE0M2l1b2YxUjdvb291NVkzdzc1OU9ialREbkJGeldvb2d3MGVqQg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-08-08 13:11",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电秩鼎ESG评级较上年上升至AA，位居A股同行业48家公司第7名，与长江电力等同级、高于陕西能源、低于太阳能 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODdNWXcyMFlnSnN1TGtDN1pLeHYxYkw5Z0twajBsX0lsRWdYN0lDVFlsaXBpR3U2NTBRc0paYjBlejlZMlBqLWpTUF9KUFExUVl0QnlCYWY4bHZYTXQ4RVJzM19YOHZ0U1c3cWczWkNuWU9NVkszZHVGSGc5QUhJcERJelp4YW5OdkdpZkdB?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-08-08 07:02",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "陕西能源秩鼎ESG评级维持A，位居A股同行业48家公司第39名，与永泰能源等同级、高于宝新能源、低于银星能源等 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlByMHBIRXlsOHE4d2dnMHhiOXE0dTNFYmpadXplUDRTLWlWWFN3allfeUF0STJLRWdpUFI1ODRmSVJDQjZ3NG5kbmNTcXBNbDREU0V4blJYblNsTXozVzNiUDdtUFJZSldiLS1Ra0hKdFFDV3pEbGR5VF9jVXhqMC1SQlFhR1kwOU9Ncg?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-08-08 07:50",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "宝新能源秩鼎ESG评级维持BBB，位居A股同行业48家公司第44名，与闽东电力等同级、高于湖南发展、低于韶能股份等 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS1qUktEUlBWd3BCelBQY1R3UXNGWGczOGR5Q3NCWDlkdkJJYnFoRV9nN2pncGZ5Z0hqX2lzTVA5aWxTeVI5SzZpUDhOLWpibEVoT01rYndhQnMzbHgtX3pNZFh0S1hJWDd6SC1NM0cyOGxGX0h2a25WbGFBMU9Vb0thRVp4MmlsRGZhN1FB?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-08-08 06:32",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
