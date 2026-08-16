@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-08-16T09:05:56",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 59 条 / 相关 9 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 5 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 14 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 18 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 6 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 9 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 28 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 德赢（福建）会计师事务所（普通合伙）关于邦瓷电子科技（盐城）有限责任公司2023年度、2024年度、2025年度及2026年度1-3月审计报告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-13/1225472031.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-13 18:54",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 上海东洲资产评估有限公司关于深圳市星源材质科技股份有限公司拟进行股权收购所涉及的邦瓷电子科技（盐城）有限责任公司股东全部权益价值资产评估报告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-13/1225472032.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-13 18:54",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于对外投资收购邦瓷电子股权暨签署股权转让协议的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-13/1225472030.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-13 18:54",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 第六届董事会第三十次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-13/1225472033.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-13 18:52",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于召开2026年第五次临时股东会的通知",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-08-11/1225465474.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-08-11 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "林肯调整美国供应，中国市场仍是关键",
+      "link": "https://wallstreetcn.com/articles/3779516",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 21:53",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
+      "link": "https://wallstreetcn.com/articles/3779514",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 19:58",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "爆仓前最后一个月，“AI股神”加仓美光、闪迪",
+      "link": "https://wallstreetcn.com/articles/3779501",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 11:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "崩盘"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本周市场的“核心逻辑”：美联储9月不加息了？",
+      "link": "https://wallstreetcn.com/articles/3779497",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 09:14",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月15日",
+      "link": "https://wallstreetcn.com/articles/3779496",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 07:34",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+      "link": "https://wallstreetcn.com/articles/3779437",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 07:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "甲骨文一度跌5%，“星际之门”关键AI数据中心配套天然气管道延期",
+      "link": "https://wallstreetcn.com/articles/3779489",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 06:57",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic Q2营收飙升至逾115亿美元，同比涨超14倍",
+      "link": "https://wallstreetcn.com/articles/3779495",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 06:56",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定",
+      "link": "https://wallstreetcn.com/articles/3779492",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-08-15 06:41",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "锂电企业跨界半导体，星源材质2.42亿元控股邦瓷电子，溢价率284％ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmJJaW8wMWxSb3BNSUFGVzFyM3hXS1U2R1BPWjdzRXQteTZLeVFJYzF6SVlfWnV0djUyb3VkcTQzSkotWlpONHZoYzdldWJqMXJxVmx6aVEyRmJIbGZGcGZQUmJOb3lYMXhkcXBrUFNSVXZUWW80MDhlQUpCMmtkMHZSd3I?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-08-15 20:22",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "收购近60%股权！ 锂电隔膜龙头拟切入半导体新材料赛道 - en.gasgoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaakpoWTl0eTZTM01BYnRtLUpWUjRTX3ZoZTRyc3ZETm9mbWU0cDFpT1YzOF9sUlpZVXRLdEk3SGpNMTlYeFg3TjJ6SlFtbUFZ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-08-15 09:09",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "锂电企业跨界半导体，星源材质2.42亿元控股邦瓷电子，溢价率284％",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a810cefb3f34e1a8aba0f8421ef8eb1&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260815A03N6900&c=5565262638048411717&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-08-15 08:23",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普总统签署对进口无人机征收关税公告；台湾：适用相对较低税率有助维持竞争优势 - 美国之音",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZl9rU1BvdnA1Qkd2MVVsS3hUU2xzdFBHT1NWei1YNGFYc0lhU3VoNmdEVGdqNmVMUHBraTV5VTN0UlpyNDRzSmlaQ1gxdDR4a25fS0x0UjdWa3NHaEtNc0Y1aThqYjlMOWpfWU1DWEFFME0tRHNjS3k2OG9kUzFMbEUzcWs4ZmVEZDhMSzc1T2tldW9mcFlSZGRhdFd5UjZNdUliWGhCd29WeV9CeFB2Y1dEYTlBVk9HaUwyMFU4U3JWX1M4ajM00gHHAUFVX3lxTE9mX2tTUG92cDVCR3YxVWxLeFRTbHN0UEdPU1Z6LVg0YVhzSWFTdWg2Z0RUZ2o2ZUxQcGtpNXlVM3RSWnI0NHNKaVpDWDF0NHhrbl9LTHRSN1Zrc0doS01zRjVpOGpiOUw5al9ZTUNYQUUwTS1Ec2NLeTY4b2RTMUxsRTNxazhmZURkOExLNzVPa2V1b2ZwWVJkZGF0V3lSNk11SWJYaEJ3b1Z5X0J4UHZjV0RhOUFWT0dpTDIwVThTclZfUzhqMzQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-08-15 04:31",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：8月14日获融资买入548.25万元，融资余额19.04亿元占流通市值比例5.05%，低于近一年10%分位水平 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEVhWmh3Vzd3aUxxcFJnTXdFTXhvUWQtNGtSd2F6YkxVR1M5bkQwUHNrRmlEc3RmM2Q4Y1FZVDFjVmFCQjhRY3pidmZlWTk0bURYUkFfc2lKTmo0OUxWa2t3Vld4NEg4ZGN1RWFva3lENjItMV9kMS1lYUN2TERJRzZn?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-08-15 08:44",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "森林覆盖率51%、新能源车6.4万辆……生态日泸州亮出绿色答卷 - 四川在线",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTFMxOTJodXpiZnotZk5STlVVS2pQcklRZGNpak4zNDFvQlh4ZTFudmNzWHdiMzJZYk1kSVFWcXVZNk12c0ZtVk5wU21TLTl4QVFhUzM2ZDN2NU5LcVBN?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-08-15 22:22",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
