@@ -1,0 +1,537 @@
+{
+  "generated_at": "2026-09-13T11:00:00",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 56 条 / 相关 9 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 94 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 5 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 52 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 5 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 4 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 7 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 39 条 / 相关 7 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 8 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 关于公司及子公司为子公司提供担保的进展公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-08/1225552744.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-08 15:54",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 中无人机 关于聘任公司高级管理人员的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-10/1225555780.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-09-10 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 中无人机 中无人机关于实际控制人的一致行动人减持股份结果公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-09/1225554636.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-09-09 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 中无人机 中无人机关于召开2026年半年度业绩说明会的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-09/1225554635.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-09-09 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 康美药业 康美药业第十届董事会2026年度第六次临时会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-08/1225551249.PDF",
+      "source": "巨潮公告·康美药业",
+      "tier": "T1",
+      "published": "2026-09-08 00:00",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 康美药业 康美药业2026年第二次临时股东会决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-08/1225551258.PDF",
+      "source": "巨潮公告·康美药业",
+      "tier": "T1",
+      "published": "2026-09-08 00:00",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 康美药业 广东信达律师事务所关于康美药业股份有限公司2026年第二次临时股东会的法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-08/1225551255.PDF",
+      "source": "巨潮公告·康美药业",
+      "tier": "T1",
+      "published": "2026-09-08 00:00",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 康美药业 康美药业关于选举董事长、变更法定代表人暨补选董事会专门委员会委员的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-08/1225551257.PDF",
+      "source": "巨潮公告·康美药业",
+      "tier": "T1",
+      "published": "2026-09-08 00:00",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于第四期股票期权激励计划第三个行权期股票期权注销的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-12/1225560018.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-12 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 北京市天元律师事务所关于广州汽车集团股份有限公司第四期股票期权激励计划第三个行权期注销事项的法律意见",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-12/1225560019.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-12 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团第七届董事会第29次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-12/1225560026.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-12 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "死敌罕见联手！马斯克、Aaltman支持Dario Amodei“全球放缓AI”呼吁",
+      "link": "https://wallstreetcn.com/articles/3781639",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-13 10:05",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "末日"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“超级周”来袭：美联储会加息吗？霍尔木兹能达成协议吗？",
+      "link": "https://wallstreetcn.com/articles/3781558",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-13 09:46",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛TMT大会第三天：黄仁勋回击“循环融资”质疑——“投1块拿回100块？那就多来点”",
+      "link": "https://wallstreetcn.com/articles/3781630",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 17:04",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "戴尔单日暴涨12%创新高！被甲骨文点名为千亿资本支出“核心供货商”",
+      "link": "https://wallstreetcn.com/articles/3781615",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 10:53",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本轮AI牛市两大“网红”合并！SemiAnalysis收购Citrini",
+      "link": "https://wallstreetcn.com/articles/3781619",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 09:46",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储一旦开启加息周期，“连加3次”是合理预期？",
+      "link": "https://wallstreetcn.com/articles/3781618",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 09:16",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛也“改口”了：下周美联储会加息！",
+      "link": "https://wallstreetcn.com/articles/3781616",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 08:59",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+      "link": "https://wallstreetcn.com/articles/3781549",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 07:13",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机（688297）9月11日主力资金净卖出4515.58万元_主力研究 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9POVNad3Q5NFFISlZfUG9NdkdiVGlnX09ob283bWpUc1pJNGVzdHNMZzhKU0hITDR6b0ZsLUNxUUFRVElkQW1ocnA3QXAwNGZzS29SM2hjeUFJQjNubTNMS2R3?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-12 08:17",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机今日大宗交易平价成交161.64万股，成交额7197.82万元 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXNYdllLRlFnMGRkMnhERjlncllKa0hCalNmX3ZTNFJ6eXc2bFZmOUV1dlo1VU5tMTlSbE9sczFXMDBCRDRqSVRoLS1ydloxeExCRjlYLUxSajJKbF9lcDJVTW4tT05CaUtLTjlzemZ1VS1BaU1nRm5TekxrRHRlNU00SQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-12 17:48",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团(601238):广汽集团第七届董事会第29次会议决议 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OVG5JdjczMnZSc3pXdkhMaVVRTHhLS2k5dGJrOGg0Z1o4TDc1a0NMaTFfZVFiUGdyMXNtV0hQbHlSaVRuTTZFc0FadnJvWmJmd293Wnd3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 21:47",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团(601238):广汽集团关于第四期股票期权激励计划第三个行权期股票期权注销 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xRURsNmZGRDBWQ1FhZjNoMzR5bTI1TVF0cVpNMjlZcHZVWVlsVjhjVHE5bEtwbWVhdHROSTFSS3VnaFI4OXhoTjhnYm52LWJGVnNqeDl3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 22:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团取得自动驾驶决策规划相关专利，该方法提升自动驾驶复杂工况下决策安全 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeF8tSzN5N1FheVBYQlNkRG5RZnZ0SGJqajJURVVvNkhkYzVmQXE4TmpGdlVMRU1ZSm5sQlgtbDFSQjVSSEg3UHZOZ3RxNDhhUUpyYmtQNjJZa2hSaU1JVFM1dWlBbEItNFdCZEYwNFFyM3YtVExiVkVYbks1bmVVZ1lR?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 09:09",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团(601238):北京市天元律师事务所关于广州汽车集团股份有限公司第四期股票期权激励计划第三个行权期注销事项的法律意见- CFi.CN 中财网 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4a205NFdYVkRLR1pZZFF3YnpmX250bGxkNWRjVjFUckcwUFRnZEFmNWppckFTUDlXRWxXaXJTUUhsT2gwSjBsSTVHbloxdUhGZnVDYU5n?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 22:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：9月11日获融资买入850.45万元，融资余额18.68亿元占流通市值比例4.97%，低于近一年10%分位水平 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTRiVGhBN0JFRi1IdFRneTNHT0x5R0N6MFdlSElWSWtrNUFWLUJZeW0tSGswQlpVRW1UdHozNzdSaVhFNWphUnhQWVc1THBmX01lTkVvOXc1b2g4LUoxcUhlZTNtQTE2RDRjbUUxY0dUamt1MmxtOFNURVpqaWhsOWRn?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 08:23",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团取得车道线识别相关专利，车道线识别评测降本，无需依赖外部传感器 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekxQSmN1UU9iRldSTEQ3emdDTE5Ia1NRaFA3SzFEMEV4M3A4ZS1zaEN3N0lROWQ5X0xTMXB2NkdzckR3Yzc0b1d5YUlrZ3I5dWlFdWpzVS1UdGdvLUMzNmRRYzl4R003Tlk1ZEwyODBkN25lMmxOemRzU0NrN0ZPdHd3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 09:22",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团取得车速确定方法相关专利，双源车速加权融合，提升当前车速准确性 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDRFZkhOUG9rVlJXSUhYWVgzbFBNZXhremdjRmdEc0NrY003T3ZobDdSSjB3V3ppcERXbkNfUkZnVHltNXNFX1ppdHVqWmJxM2g1RTZrQUpzQnVCdHJKUXVSNUl4WXU5VncxaTBENGp3dDg5V2xlQWlzSzdhUEd0OGpB?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 09:22",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广东省委书记黄坤明调研体验广汽集团创新成果",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa611afb1d94022910236a9a5fff922&url=https%3a%2f%2fwww.sohu.com%2fa%2f1075226325_121124479&c=15538942656685086283&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-12 17:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "交易员警惕线上移：10年期美债收益率破6%，才是个人投资组合的真正红线",
+      "link": "https://wallstreetcn.com/articles/3781625",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-12 12:50",
+      "relevance": "主题",
+      "match": "CPI",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "飙升"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
