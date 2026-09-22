@@ -1,0 +1,625 @@
+{
+  "generated_at": "2026-09-22T11:10:49",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 15 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 94 条 / 相关 4 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 5 条 / 相关 3 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 48 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 86 条 / 相关 5 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 6 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 关于2024年限制性股票激励计划预留部分第一个归属期归属结果暨股份上市公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-16/1225568483.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-16 18:34",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于召开2026年半年度业绩说明会的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-19/1225572683.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-19 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于筹划重大资产重组事项的停牌进展公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-19/1225572692.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-19 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "最强国产AI芯片、10万亿参数模型、20GW数据中心—阿里云栖大会“火力全开”",
+      "link": "https://wallstreetcn.com/articles/3782272",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 10:45",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "黑石：我们正处在“1870 年的拂晓时刻”，抓住“AI时代”的“牛肉”",
+      "link": "https://wallstreetcn.com/articles/3782263",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 10:36",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板涨超2%，算力硬件、芯片半导体爆发，恒科指涨1%，腾讯大涨6%",
+      "link": "https://wallstreetcn.com/articles/3782269",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 09:57",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月22日",
+      "link": "https://wallstreetcn.com/articles/3782256",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 07:38",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储Goolsbee：回到2%通胀目标“不会毫无痛苦”，就业、工资或付出代价",
+      "link": "https://wallstreetcn.com/articles/3782229",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 06:50",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "加拿大央行最强滞胀警告：关税或令四季度增速跌破1%，油价高企加剧通胀",
+      "link": "https://wallstreetcn.com/articles/3782257",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 06:48",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "标普：未来数年银行对AI的应用将影响信用评级",
+      "link": "https://wallstreetcn.com/articles/3782246",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 05:38",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "贝森特：OpenAI黑客事件要怪管理层，责任在人、别“甩锅”AI",
+      "link": "https://wallstreetcn.com/articles/3782244",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 01:20",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德银：三大央行同步加息后，市场可能再次低估利率终点",
+      "link": "https://wallstreetcn.com/articles/3782237",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-22 00:04",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "软银寻求超110亿美元垃圾债融资，OpenAI押注与Arm抵押贷款推高杠杆风险",
+      "link": "https://wallstreetcn.com/articles/3782214",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 17:07",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大股指齐涨，沪指涨1%，生物医药爆发、创新药掀涨停潮，房地产大涨，恒指涨超1%，光模块走强",
+      "link": "https://wallstreetcn.com/articles/3782184",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 16:13",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "IMF：全球债务2029年将超GDP",
+      "link": "https://wallstreetcn.com/articles/3782193",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 14:40",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "英特尔携手友达布局Micro LED先进封装，瞄准CPO与高密度算力整合市场",
+      "link": "https://wallstreetcn.com/articles/3782187",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 11:33",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "摩根士丹利提出“关键问题”：沃什打算如何实现价格稳定",
+      "link": "https://wallstreetcn.com/articles/3782173",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 11:29",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁是黄金的神秘买家？",
+      "link": "https://wallstreetcn.com/articles/3782176",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-21 10:11",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球市场：纳指涨超2%创收盘历史新高 芯片半导体股大涨 国际油价跌超4%",
+      "link": "http://stock.eastmoney.com/news/11784,202609223880398061.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-22 06:15",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行：实施好适度宽松的货币政策 稳步扩大金融市场双向开放",
+      "link": "http://finance.eastmoney.com/news/1350,202609223880396389.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-22 04:59",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "警惕AI交易引发崩盘！英国央行副行长：正探讨设立“紧急停止开关”",
+      "link": "http://finance.eastmoney.com/news/1351,202609223880386247.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-22 02:10",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "崩盘"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "湖北宜化大手笔加码锂电正极材料 项目预计总投资约11.52亿元",
+      "link": "http://finance.eastmoney.com/news/1354,202609213880281896.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-22 00:40",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "芯片股强势反弹，AI策略提前布局数十亿美元人工智能投资机遇",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3576828",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-09-22 02:43",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（06067.HK）：9月21日南向资金增持26.7万股 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEoxdzBBV2prUzJiaVhXdURwNzlsOF90Q3JiQzY2OS1fUE1aR0g0RmdRRGhrSHo2VXhETVVxVm15RUt1cjdpeGZmZDdFVTJFamd6M05yTkZkSGNYc2lJQUk4amE2clNSSXdwMXVia3kxTUZTa3dnWHJBR0xvYThYaWlGNDZjYUdkTFJmWA?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-22 03:24",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(300568.SZ)：固锐系列产品于2025年在全球率先实现量产 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hWGozdUwyaENuanRVaVB0TTdaWFFOdjhhaUkzT210cVd6NldoVUVmTG9BRktTRHpqd0tDUkRpQm1MVkV4R1g0VzJla3ZtTnNjTnpJVWozQnd5TG1LS01fN09DOUZaTGQ5Z0kw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-21 15:05",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "新能源车ETF平安(515700)标的指数涨超1.2%，机构预期2027年电池出货同比增长约20% - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YdDFzQm1KbHZYV085NGttbllfaWVaWVV3WDktVmRCLVlQdUZDQmxGQzRBRnVtVjJMR0RjalA2OWRhNktmY0FFR2JZSmMtOEtJMmhoOTlIeUU4OG5IeDM1TXFDOGJDY2NnMzI5X2l2dw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-22 09:54",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "产融对话探航空新质生产力 中航成飞联合中无人机举办投资者开放日 - 新华报业网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jck1Rb1k4LTZhYWpIeEdneEFvaGtJUFlVb3ptWDhEeXI1YXEyM2hUUWpfUy02M0xxdFkzc3BSdldRUVVLa3VoVUFKZ2VncjEtRlpyLWxEMkZJRW0tcHhTaUstZ040cmZoV3Jr?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-21 11:50",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁将占据珠穆朗玛峰…美中无人机展开极限竞争 - 朝鮮日報中文版",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0p4UzhENFBHWThPVVlvTE1fYmhxcjZQX3oyR2FXcjhMeFRkUFlKZ096WFFkcV9hVF9UbWM2Z0tLYl9YemI3OTdKZzJwQ0d3a1N4YnhZSG82MHdEdFQzQWtGbUxhU2FhT3NsaGdLaERJdkRkbW1qMnZRNzUyZjVmT1NuUjFyV0JLZjBaWThrbVVhOFhDM0x4XzA3NnZjODYt?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-22 10:09",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团传祺越7将于9月22日上市 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3bWNJaGdGYmdIbjBlOGhlUzlsemF5Z2tKWXJweV9ISnpUWUtaY3RKWThmUFJKMnBOWmNyb0JCd1V2czZmclBvc3dnODJWaGVjOVFxaVpuTlJQQXFxWGtZeEVn?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-21 22:50",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团柬埔寨KD工厂投产下线，东盟本地化制造再落一子 - 国际充换电网",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yaG44NnlZZkVaU1BNUG53VW9OajN6SkxSNy0zSzJ1emYwVEk1NV9oNTRaRGNhMXBBdVU0UE5PWmhHNy14eGhVa3hyS2pUUUhVWHdfOWtTNA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-21 16:40",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团计划2030年前在法国推出12款电动车型 提供者 Investing.com - 英为财情 Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HS3hUTTlEU0JpLWczQWdianRDY0dDRmZzdUQ5b0VSTGJhUGZ1N3hqZG9PQ2pMendXSk55TDgwVmF4MjhHQzFqSnkwZnAwVGNQWWl6TmVwVUVjRk9UYmFYYXE1YVFlVFNmc2ZyQzJfZG5DUXhvRnhn?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-22 00:57",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "汽车早报｜广汽集团柬埔寨KD工厂投产 智界RX新增81度电池版本车型 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLeGZVaG13MnNpcGxYaElYZkJZejU5bWdyUzQ2Q25zWFNtZXRtUFFTb1BnSHU1b0JlUnJyeWZFR3FaUktIOVJiRzJ1cVJCTlNjaS15V21ULVh6MWw5ZDhpZFlrZm1MMW5ZdllvNmo4MA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-21 08:33",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "比亚迪海鸥2月销量暴跌78.1% 跌出新能源轿车销量榜前十 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aM0RmUmdoaHFSdmlpX0ZvSndYNF83NmY5a0FvTGxDTHhabmR6NGx4WXRKRV9ILVl5TEtjUnZpdFVma05QYkV0U044ZVctV0JUenpvcV85SnE1dGs?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-21 10:30",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "汽车早报｜广汽集团柬埔寨KD工厂投产 智界RX新增81度电池版本车型",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1f1b7baec4c43bb403bfbb866e947&url=https%3a%2f%2fwww.sohu.com%2fa%2f1078830837_313745&c=6541145617483664686&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-21 09:34",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "新能源场站调度数据接入密集招标，单机信息采集成行业刚需-招投标 - cpem.org.cn",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EeHp4YUk5M1FJOURoTEtDdHF1YmFzeEI1LXRWZ05qSWZnN1NhS3FsMzRTeGhJWm9zejVfQzdTRFhRUGgtQmFsN25DcDRFalhIVUtIVA?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-21 17:12",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "工信部征求意见！常压碱性电解槽额定电密≥4000A/㎡，电耗最高4.7kWh/Nm³！ - 国际新能源网",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0R3ZIUm05c2xHUG1NODNfR3VHSFpET2xKUi1Lb0xVdkE3SmsxcUVIOFdLNkpSOS05eHowNFpQUzBYeWtBeURBOW9yV2Z5UDFqWU1OSGliSEl1ZWtmVHJCelJpVWFHeFE?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-21 10:42",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电（601016）9月21日主力资金净卖出3095.11万元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1f1b906cd471b9754bd442b3ef0d1&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E7%2583%25AD%25E9%2597%25A8%25E8%2582%25A1%2f%25E8%258A%2582%25E8%2583%25BD%25E9%25A3%258E%25E7%2594%25B5-601016-9%25E6%259C%258821%25E6%2597%25A5%25E4%25B8%25BB%25E5%258A%259B%25E8%25B5%2584%25E9%2587%2591%25E5%2587%2580%25E5%258D%2596%25E5%2587%25BA3095-11%25E4%25B8%2587%25E5%2585%2583%2far-AA2cEwoj&c=15145441573992740143&mkt=en-us",
+      "source": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-21 08:44",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
