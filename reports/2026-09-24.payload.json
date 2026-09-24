@@ -1,0 +1,940 @@
+{
+  "generated_at": "2026-09-24T11:01:19",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 58 条 / 相关 18 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 99 条 / 相关 3 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 6 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 3 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 51 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 19 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 3 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 5 条 / 相关 3 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 1 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 北京市金杜（深圳）律师事务所关于深圳市星源材质科技股份有限公司2026年第六次临时股东会之法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579158.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 2026年第六次临时股东会决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579157.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于召开2026年半年度业绩说明会的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-19/1225572683.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-19 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于筹划重大资产重组事项的停牌进展公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-19/1225572692.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-19 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "A股低开低走，创业板跌1%，机器人、商业航天逆势拉升，CRO、PCB下挫，港股权重科网股普遍调整",
+      "link": "https://wallstreetcn.com/articles/3782428",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 10:13",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国PMI火热背后：价格压力创2022以来新高，供应链瓶颈严重，企业成本压力加剧",
+      "link": "https://wallstreetcn.com/articles/3782423",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 10:03",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "加拿大总理：美加贸易协议仍有可能，但渥太华不会放弃与欧盟深化合作的权利",
+      "link": "https://wallstreetcn.com/articles/3782419",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 08:44",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
+      "link": "https://wallstreetcn.com/articles/3782417",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 08:16",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "警示AI信用风险，穆迪：美国五大巨头表外义务3年翻至8倍，飙升至2.8万亿美元",
+      "link": "https://wallstreetcn.com/articles/3782413",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 07:17",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月24日",
+      "link": "https://wallstreetcn.com/articles/3782412",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 07:12",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI与Anthropic联袂呼吁AI放缓与国际协调，与特朗普立场分歧",
+      "link": "https://wallstreetcn.com/articles/3782411",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 07:08",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic的CEO：由于安全的缘故，公司将放慢AI的研发进度",
+      "link": "https://wallstreetcn.com/articles/3782400",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 04:52",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "报道：台积电明年1月起上调晶圆代工价格3%至6%，订单能见度延伸至2030年",
+      "link": "https://wallstreetcn.com/articles/3782403",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 04:28",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美债抛售加剧！5年期收益率2007年来首破5%，10年期站上5.1%、逼近高盛警报线",
+      "link": "https://wallstreetcn.com/articles/3782397",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 02:26",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国9月综合PMI初值大幅超预期，创五年新高，10年期美债收益率再破5%",
+      "link": "https://wallstreetcn.com/articles/3782392",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 23:24",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "5%涨幅？欧洲央行紧盯德国薪资谈判，新一轮加息压力悄然浮现",
+      "link": "https://wallstreetcn.com/articles/3782381",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 20:39",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "以史为鉴，全球加息周期开启后，哪些资产表现最好？",
+      "link": "https://wallstreetcn.com/articles/3782374",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 18:51",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普要利率降至1%、沃什以“通胀五年超标”回绝：3.75%与1%之间的央行独立性对决",
+      "link": "https://wallstreetcn.com/articles/3782351",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 18:09",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "大空头Burry加码做空美光、Nebius，逻辑是“内存供应激增，价格将面临下行压力”",
+      "link": "https://wallstreetcn.com/articles/3782343",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 11:12",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "高盛认为“美国通胀被高估”，主因“暂时性的关税”和“AI统计偏差”",
+      "link": "https://wallstreetcn.com/articles/3782341",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 11:06",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月23日",
+      "link": "https://wallstreetcn.com/articles/3782327",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-23 07:22",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+      "link": "http://finance.eastmoney.com/news/1344,202609233882761064.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-24 06:03",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数收跌 成交额不足1.8万亿 复合集流体概念股逆市走强",
+      "link": "http://finance.eastmoney.com/news/1345,202609233882402270.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-23 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球市场：美股三大指数涨跌不一 纳指创历史新高 费城半导体指数涨超2%",
+      "link": "http://stock.eastmoney.com/news/11784,202609233881639648.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-23 06:15",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(06067)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBKbXkzVWpNaGh2NENtZDN2RmZycFlPUk90QjlJRGVOWEZ4V0ZLcTlPNUFMVlpnY1VpYzljRlFWaw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 17:06",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：2026年第六次临时股东会决议公告 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VUFpZFFiTTdTSVphVWp2dDR5NmhzQzJPMXpTRjdGdXNEQVZNRjVvNVFId3Y5TjBaN3pYeExSRWtBbzFhQ3NuNVdqYlJZUEh3TDVEc0h2Mjh5UVI4bXRMOQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 21:40",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国汽车品牌8月欧洲份额近12%创新高，新能源车ETF平安(515700)交投活跃 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxODY1WWd1dVY4a3NKdzFIYkpmOXdHOUpTX3N5ald5eHJ4cHdTVUZkYzhmVzhHc0NSRTdyRUNTT0dvNGtWSzY0aUxJSXJxUHJLQzJSOThISGRBYUhhUi1wWG16V0F3QUdjdk5UWU82TQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-24 09:46",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：9月22日融资买入3831.17万元，融资融券余额8.63亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbG1PY3RIekt2WlBPMnVTQ29udzE5eGFQM0FlUnRzMkh5M1N3VnhrYWxTR1R5bFNRWXlpNEpWSFcyTERGNGVqYXAtT1FST1p6VzQ2cVppN2JOeW1IZnlWVDljZUNSLTlSLU9Cd2F5Sk81RV9iWjVzTEdyM2ktbXpwQ2RjRUZKLWlQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 12:48",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质9月23日盘中涨幅达5% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMzdQQTVrUENnbFNrb1huRWZNU3ZFdUxvU0xFbk9aRjY4V1NoNjJBTm1QY2YwVmR2YTlHS19ic0llUVNKY1ZGbDh6STBBWHZuUXoyRU43SlJBQWs3dXdWMm1GMzlrZw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 14:06",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：将于2026年09月23日召开2026年第六次临时股东大会 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SQ05aNDJwazQxc2tYekhQUzl3QU44eVJ4MGhkWk5Lalk1R1FhSHlhdTdjaUxaWGpWdm1DUFlPdnF6dU45RWxMbWlTeURncmNpazYyMWxqWHhIZGp0WGt0Xw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 09:18",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质召开2026年第六次临时股东会，审议收购邦瓷电子股权",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab492791d764fbe95e2abc1ef1bbf3c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080104606_121885030&c=12287983982453939325&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 22:41",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（06067.HK）：9月23日南向资金增持17.95万股",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab492791d764fbe95e2abc1ef1bbf3c&url=https%3a%2f%2fwww.sohu.com%2fa%2f1080175511_122123195&c=479552384261746840&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 14:26",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：9月22日融资买入3831.17万元，融资融券余额8.63亿元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab492791d764fbe95e2abc1ef1bbf3c&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fnews%2fother%2f%25E6%2598%259F%25E6%25BA%2590%25E6%259D%2590%25E8%25B4%25A8-9%25E6%259C%258822%25E6%2597%25A5%25E8%259E%258D%25E8%25B5%2584%25E4%25B9%25B0%25E5%2585%25A5383117%25E4%25B8%2587%25E5%2585%2583-%25E8%259E%258D%25E8%25B5%2584%25E8%259E%258D%25E5%2588%25B8%25E4%25BD%2599%25E9%25A2%259D863%25E4%25BA%25BF%25E5%2585%2583%2far-AA2cNFJ9&c=6973473851378657234&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-23 05:06",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁将占据珠穆朗玛峰…美中无人机展开极限竞争 - 朝鮮日報中文版",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0p4UzhENFBHWThPVVlvTE1fYmhxcjZQX3oyR2FXcjhMeFRkUFlKZ096WFFkcV9hVF9UbWM2Z0tLYl9YemI3OTdKZzJwQ0d3a1N4YnhZSG82MHdEdFQzQWtGbUxhU2FhT3NsaGdLaERJdkRkbW1qMnZRNzUyZjVmT1NuUjFyV0JLZjBaWThrbVVhOFhDM0x4XzA3NnZjODYt?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-23 11:19",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "东莞材料所携手广汽集团实现非晶电驱产业化落地 - 中国科技网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzRm5oc0tOWUhBYkZ3dVdfZVhXakVocURKdTRKelZxbkI3SzRvS2NGdVZLaHR2Z3owQzJHWEI3YnU4MnZiTVkxOUppNWpsMVAxZ2FDZ1JGQktaejViVnZsaU5JU0k4b2xwUzhsZS1IOTY?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 20:25",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟在欧洲新增整车产能 - 盖世汽车社区",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JLV96akxhcEctNHNqZTFCdVJQbzFURDZ0dVhSSUMxZDhHN2dIUVptOXFsR3lrNkc0blU2UXpUWGRJbjVOSURkdTFFOFNUVEZW?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 17:23",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团累计投入超2200万元帮扶纳雍 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVNYOS1SeE04aVMxZkR2VWdud2VCX2pONWhDQ3FvQWlZckJvMkE5ci1pRHkyMUd4dVItenBnS3c0bkJGZEl4TXJmOVZsZEwwQ09DYkdIbHNrUjhMSXFNeHNzdHVJa3QzLUFxQ05mT3VHNmliaTZ1MTZTVUVDRURqYm0xVGtyNU14R19NSVZnRU9WSmhOR0F0QQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 06:22",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟在欧洲新增整车产能 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTUJfMmE3ckxNLUNPR0pkc2Z4Y2FUOE5EMjVXeDVITXZuUDRKUlN3V0FQZi1FR0x2YzNhbFF4MkJZZGhBdG5VaVhyWnlBemRGZXBoZ3JPbGdXaUk?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 19:29",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团计划在欧洲布局新增整车产能 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yU2Z2RzdHc2cxUERSRVdfT1NaMWNnQ1JxLTdmcW03VE9kOWdYaUJIbHhiNDVjUC16LUg2T2pDZzNWS18xRm1QbDVYelJlUEJTRkJscnFXVTZQTnc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 17:23",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团因合资品牌销量骤降筹划重组 上汽广汽十年千亿现金分红时代终结 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fSm1PSEZacUFUWi1IeGE1azNOMmRFN1JkcjR2UHhKQjVSajdDTFZaT0tlMW96WjlaQWV1Rkh2Nm1ZamVJNHhENlNTa0REWFc0SzhUaA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-24 07:54",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "彩讯股份：中标广汽集团超级程序员一体化平台项目 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDA0MklaRFpwZE9uTnpFdGdpSzN1NFkzQ1pzOTNubGEwazdxYjBERU9MVVprcVF4UnFlWkNzeFBqRUZ0VEdLY2RUSjVkTWhxNV8xQ21sWDR6aW40eWc4ak9vMWhqanpzVmg5aXFqa0FiQW5taDBqX1pxS1RsU2NlSzdzdFZlZ3NyQ01rUnJPeEwzQnRfTTVV?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 20:13",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团与中国科学院东莞材料所签署战略合作协议 非晶合金电驱实现量产 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rQTkzX19nWlA1U2pJUldJYjRwbDdSaTFybTRfSmM1LXdyUFdzcWxQSlhrWjRBMlhhR3kzcFpudFlMY2MtaUkxdVJCel9qQUNXYUF1TlQ3OE1oM0U?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 15:31",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "变祖宗之法！丰田加入增程阵营，以汉兰达之名卖广汽新能源 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbmdBNjhyNjlSVjg2TW1NUUszS0doTmdLQ01sVlZSS0hoSGVidG53WTZtY2ZjbWYzNXgtR0kwS1JXZGxCSEpoMnR1cm5VNFZYVFVTaWhPamFWbGM2OWk0OEh6VEk0T3JLMzhaZWdHR1JNN0MtQUY5M2VqcWVCX2s?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 22:30",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "在越7 正式上市之际，把其设计思想完整的解读分享出来，供深度品鉴。 #传祺越7##越野车# @广汽传祺 @广汽集团 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBON0p3TDdycjNBZTBDVVZWZ0VmYmc3Q2lvT3UtQUFVaXZpTl9mN0VZZ0NCZjVRenpiMWlrazFlN1ZvX1BpMC1mVEtWaFcwcXRpSGE2ZmdEcV8zUzVQanBWUXZQS2RQX2I0Vmt2YmVGX18wN2s?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 13:51",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "继8月24日，广汽集团董事长冯兴亚与华为创始人任正非在深圳再度会面（双方围绕启境品牌发展、下一代汽车产品路径以及双方合作机制深化等议题展开深入交流，为启境品牌长远高质量发展注入强劲信心）之后不到一个月，9月22日，东风汽车总经理、党委副书记冯长 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBISEpWZ1pwMXhxOWh0dWhRQnRORWRab1dKTU8xOXFxMExjLVNCaG1lVG5MejZxOEFXdU5RWkRJbnVNVkhGNnRIVmR6SkU2MDVyMmktX0FPLWRISmUxcW14TFRJdw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 22:55",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团孵化高域科技完成A轮融资 规模8亿元 - t.cj.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbm5Yak0zV2NQWDVOUVFtbEp6a2poejVDMENVRm11eDlZMUNRX2xJbHI1ZXl0dFctTi1uT3Fpb1JQN05fcHNHNEVtZ1VMOG42T1FNUTRFdmdWTVVpTUtZeWhzdGlDNTBLTUE2QVdkRGI?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 09:48",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "#启境GX7加入华系阔家族#启境汽车成为2026《财富》世界500强峰会官方指定用车。9月16日，以“增长的新方程式”为主题的2026年《财富》世界500强峰会在广州开幕。由广汽集团与华为乾崑两大世界500强携手打造的启境汽车，担任本届峰会官方指定用车，为出席嘉 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HY2VCbENaS3o0SGdsdE9oNEJzemMxZWRhTDVWNlBWQnBUemtOdXJ4NG1qYTBLd2FZdXdGak1lUnJfT0hNV0lld2FTcnk3dGh1UnlkWTZLNlZmX2hOVFNuOThRcw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 19:06",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "如果说过去的大五座SUV是在比“谁更大”，那启境GX7是在回答另一个问题：车这么大，除了坐人，还能干什么？来我们看看#影视飓风Tim评测启境四折叠床车#广汽集团与华为乾崑这次给GX7的思路，其实很清楚——**把空间从“参数”，变成“生活”。**20秒一键变2.56米 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13a1NpcVYwN1VCNnUzSDdGeHBpcmVwY0xhUk95RlFiVnBGd3VIbXJDWXBRY0dwOUQzRmRnRTBnTEE4dmpiNWtTOXd0YnUydE5BdmVsNTR2ekFkRGdaMGtrR1RJZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 20:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本田懂事！新能源车的主导权交由中国现地解决9月份这次Honda中国的媒体沟通会，很有含金量！从2027年起，接下来两年共有11款新车会推出，Honda会结合广汽集团平台的优势，研发适合中国本土市场的车型目前Honda已跟Momenta、华为签署战略合作协议，活 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LY2NydXU2YnNYQUN0aF9USGsxR1JCX19tYTU3MC1xUHd4c3F2amlVWDJDb0R3aE5KY0gxamY3Rmd5M2U0b0c0ZEtxVlZ3QmlTck5MNGdmZXozWmRYNEdJMkVrcw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 19:28",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9月23日，广汽集团与华为乾崑携手打造的行业首款阔五座智能百变SUV——#启境GX7#亮相#WMA微博音乐盛典#，将展现启境GX7“明星座驾”产品实力。作为“阔五座”品类的开创者，启境GX7市场热度亮眼，新车主打四大核心优势：首创20秒一键纯平大床，适配多元出 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SY0dIRUJlREt3WXdIeGc0eVc0c0xCTEN6QXhMLVprNnNPcTN2N1AwaUVpX2VvYnRMVmVoM2ExQXdxc2U4andqMUtLLVJEandLTkVtQ0hhVC1UanMyTk05YW4zSQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 14:35",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "启境GX7正式上市，限时权益价22.99万起，由广汽集团、华为乾崑联合打造，属于华系面向未来的智能阔五座SUV。很有特色的20秒一键纯平大床，座椅一键展开形成180°平整空间，自带按摩、通风加热，搭配多种空间模式，午休、露营、带娃等场景都能适配。车长5099 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xcEZwYUUyZmxSbFFid1RzQVd1MTZaR2ViWm9uNFFiU3JlemMzSUJnZzVwc3JRU3kweXo3STl6ckRCbF8yTTMzTWROY2kwSGhLd1gyQXNxYnh2amZVTmJxR0JoYw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 21:03",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "产品技术协同创新等议题深入交流，并就奕境X9等联合打造的战略新车型交换看法；此前8月24日，广汽集团​_新浪新闻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRU3JLMlprSGc2RS1SamxNZW9NYnZLLUFzT0h3dUthUEYzZFJaMVU5c09kc1RMRUtobzJZNkxGOExjR0xueVFmcUJMSFpkcC1YUWJ1V2F2bXBEd2RTUnZzbUN1Zw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 17:49",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华为创始人任正非近期会面两大车企高管。9月22日，东风汽车总经理冯长军赴深圳，与任正非及华为高层代表会谈，围绕深化战略合作、产品技术协同创新等议题深入交流，并就奕境X9等联合打造的战略新车型交换看法；此前8月24日，广汽集团董事长冯兴亚已率队再 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80Q1g2U3hwUGZxbXR5aFFQdDFTa2x0QmFYZ19WTkhYSnpEWUZfUUxLbmdGM2x6MWN1Y2g4SVBKeEJzOHZodTVLdUxTNm1TVFVnQTV3TVJKRkgtVUY5QldfeVIwYw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 17:48",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟在欧洲新增整车产能",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4927ee1bd46eaa88ad255d87efa1d&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fautos%2f%25E7%2594%25B5%25E5%258A%25A8%25E6%25B1%25BD%25E8%25BD%25A6%2f%25E5%25B9%25BF%25E6%25B1%25BD%25E9%259B%2586%25E5%259B%25A2%25E6%258B%259F%25E5%259C%25A8%25E6%25AC%25A7%25E6%25B4%25B2%25E6%2596%25B0%25E5%25A2%259E%25E6%2595%25B4%25E8%25BD%25A6%25E4%25BA%25A7%25E8%2583%25BD%2far-AA2cNXbn&c=17679530110003966871&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 10:23",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "启境汽车刘嘉铭：启境是广汽和华为乾崑双方“All in”的一个品牌",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4927ee1bd46eaa88ad255d87efa1d&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260924A050IY00&c=14658176959631971169&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-23 20:42",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "启明信息：不存在与一汽股份和广汽集团意向协议相关的应披露未披露重大事项",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4927ee1bd46eaa88ad255d87efa1d&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2fother%2f%25E5%2590%25AF%25E6%2598%258E%25E4%25BF%25A1%25E6%2581%25AF-%25E4%25B8%258D%25E5%25AD%2598%25E5%259C%25A8%25E4%25B8%258E%25E4%25B8%2580%25E6%25B1%25BD%25E8%2582%25A1%25E4%25BB%25BD%25E5%2592%258C%25E5%25B9%25BF%25E6%25B1%25BD%25E9%259B%2586%25E5%259B%25A2%25E6%2584%258F%25E5%2590%2591%25E5%258D%258F%25E8%25AE%25AE%25E7%259B%25B8%25E5%2585%25B3%25E7%259A%2584%25E5%25BA%2594%25E6%258A%25AB%25E9%259C%25B2%25E6%259C%25AA%25E6%258A%25AB%25E9%259C%25B2%25E9%2587%258D%25E5%25A4%25A7%25E4%25BA%258B%25E9%25A1%25B9%2far-AA2cRkJ4&c=5252828012983572898&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-24 02:30",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电：9月22日融资买入2511.32万元，融资融券余额5.52亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejRndndNNWk0eTNXV1YyMzVGMTM2TEJUeUtXME5Ebkc0S200WHNKbGtrTU5mcXZURjJ5eXdELUk0VWlqcFU4M1d0QzdGQUhoUVFtLTBXaEY1ZkFpYktrekNMbHhIWGNlVmpWWERvc25IV2JKeTBQQWVGb3JGcGRESzNrTExyNEhJ?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-23 10:16",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中能建南方公司/宁德时代/中节能/海南创维新能源/中广核风电5家企业入围！海南海口江东新区100MW电网侧储能开发主体公布 - 国际储能网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54alpUUzFtN0FNVXI1UWxJWTh4VTB6eEdzVDVzVS1GQlpHU0FUVno5T0xnVmp5RFk4Q0JsQ0wyT0dMbjJ6Q0dXRzdaOWxBTXh4U19pZTRuUWRWaVk1QWhTOQ?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-23 08:49",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10个月近60人次董监高变动 新能源行业调整期的人事沉浮录 - 中华网财经",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lbDVJNXduX2JVSDd1eEVhWFNOQmt2LXdsallYNWRvdDctSVNhX1hQVEUwdkpLMXJ2MFk0bGphX2dYNmc5eUJFdUN3THRHTWFUN0lHRUJVMEZYNExlTklSS01UblNOY29oUTlKQXJJSkFXVzA?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-23 10:04",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电（601016）9月23日主力资金净卖出6230.71万元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4927f8c7a48f3b356c9ed9d590643&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E7%2583%25AD%25E9%2597%25A8%25E8%2582%25A1%2f%25E8%258A%2582%25E8%2583%25BD%25E9%25A3%258E%25E7%2594%25B5-601016-9%25E6%259C%258823%25E6%2597%25A5%25E4%25B8%25BB%25E5%258A%259B%25E8%25B5%2584%25E9%2587%2591%25E5%2587%2580%25E5%258D%2596%25E5%2587%25BA6230-71%25E4%25B8%2587%25E5%2585%2583%2far-AA2cNCOb&c=1815015056171937220&mkt=en-us",
+      "source": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-23 08:46",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
+      "link": "https://wallstreetcn.com/articles/3782354",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-24 06:01",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "飙升",
+        "血洗"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
