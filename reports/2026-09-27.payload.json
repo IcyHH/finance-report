@@ -1,0 +1,309 @@
+{
+  "generated_at": "2026-09-27T11:31:19",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 57 条 / 相关 7 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 99 条 / 相关 1 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 2 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 49 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 2 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 北京市金杜（深圳）律师事务所关于深圳市星源材质科技股份有限公司2026年第六次临时股东会之法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579158.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 2026年第六次临时股东会决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579157.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "三季报在即，三星电子和海力士面临“极高预期”，考验“全球AI交易”",
+      "link": "https://wallstreetcn.com/articles/3782590",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-27 09:04",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制",
+      "link": "https://wallstreetcn.com/articles/3782583",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 17:55",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险",
+      "link": "https://wallstreetcn.com/articles/3782576",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 11:47",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元",
+      "link": "https://wallstreetcn.com/articles/3782575",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 11:08",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
+      "link": "https://wallstreetcn.com/articles/3782519",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 06:51",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "血洗"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI披露：旗下AI模型可能干扰了包括政府、高校在内的数十个机构网站",
+      "link": "https://wallstreetcn.com/articles/3782566",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 06:32",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本财务大臣：高市早苗并非\"再通胀主义者，非常尊重央行独立性\"",
+      "link": "https://wallstreetcn.com/articles/3782563",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-26 06:19",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "假期要闻汇总：中美达成八点成果共识",
+      "link": "http://finance.eastmoney.com/news/1345,202609273884428846.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-27 10:00",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "亚德诺半导体首席财务官Richard Puccio Jr出售价值$573,285的公司股票",
+      "link": "https://cn.investing.com/news/insider-trading-news/article-93CH-3584504",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-09-27 03:01",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "谁将占据珠穆朗玛峰…美中无人机展开极限竞争 - 朝鮮日報中文版",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0p4UzhENFBHWThPVVlvTE1fYmhxcjZQX3oyR2FXcjhMeFRkUFlKZ096WFFkcV9hVF9UbWM2Z0tLYl9YemI3OTdKZzJwQ0d3a1N4YnhZSG82MHdEdFQzQWtGbUxhU2FhT3NsaGdLaERJdkRkbW1qMnZRNzUyZjVmT1NuUjFyV0JLZjBaWThrbVVhOFhDM0x4XzA3NnZjODYt?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-26 08:28",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团计划扩大欧洲本土造车产能 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQY09kYS1vMFd6eklJWFpITXdMdlIxTjdXX2lPdE1NT3VJdVdMbkg3eDB5dW41R29fLUxrSDNXNG9vdkl1eHBvU0hsT3l4SGJPeS1JM2owZzhKT0Z1aUgxU2NmWHFFSUtpVTlmdmZ3RFRYRWpQeUJwZg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-26 09:15",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
