@@ -1,0 +1,1918 @@
+{
+  "generated_at": "2026-09-29T12:05:05",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 60 条 / 相关 12 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 9 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 8 条 / 相关 4 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 4 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 16 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 68 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 11 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 7 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 北京市金杜（深圳）律师事务所关于深圳市星源材质科技股份有限公司2026年第六次临时股东会之法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579158.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 2026年第六次临时股东会决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-23/1225579157.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-09-23 18:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586260.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易履行法定程序的完备性、合规性及提交的法律文件的有效性的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586262.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于停牌前一个交易日前十大股东和前十大流通股股东持股情况的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586264.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易信息公布前20个交易日公司股票价格波动情况的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586266.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团第七届董事会第30次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586270.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易前12个月内购买、出售资产的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586265.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易采取的保密措施及保密制度的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586269.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团独立董事专门会议关于公司发行股份购买资产并募集配套资金的审核意见",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586267.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团发行股份购买资产并募集配套资金暨关联交易预案（摘要）",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586273.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《上海证券交易所上市公司自律监管指引第6号——重大资产重组》第三十条情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586272.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于暂不召开股东会审议本次重组相关事宜的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586274.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易预计构成《上市公司重大资产重组管理办法》第十二条规定的重大资产重组但不构成第十三条规定的重组上市情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586263.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586268.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于披露《发行股份购买资产并募集配套资金暨关联交易预案》的一般风险提示暨公司股票复牌的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586271.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团发行股份购买资产并募集配套资金暨关联交易预案",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586275.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于公司不存在《上市公司证券发行注册管理办法》第十一条规定的不得向特定对象发行股票的情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586261.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "A股三大股指午盘翻红，地产爆发、万科涨停，固态电池拉升，恒科指跌超1%，新能源汽车普跌",
+      "link": "https://wallstreetcn.com/articles/3782706",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 11:51",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“大空头”Michael Burry：AI泡沫或将“早于预期”破裂，以看跌期权替换空头仓位加大杠杆",
+      "link": "https://wallstreetcn.com/articles/3782710",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 11:51",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10月美联储加不加息？就业数据难改预期，关键看下一份CPI",
+      "link": "https://wallstreetcn.com/articles/3782704",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 11:15",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "贝森特从华尔街挖人，“卖方策略首席”进入美国财政部，此前曾候选美联储主席",
+      "link": "https://wallstreetcn.com/articles/3782703",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 11:05",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic递交招股书：去年亏损420亿美元，收入增长12倍至46亿美元，风险部分警告“威胁人类生存”",
+      "link": "https://wallstreetcn.com/articles/3782697",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 08:53",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月29日",
+      "link": "https://wallstreetcn.com/articles/3782676",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 07:19",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
+      "link": "https://wallstreetcn.com/articles/3782633",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 07:18",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI从“降息理由”变“加息论据”：库克称2万亿美元资本开支仅花一小部分，电价水价已涨约5%",
+      "link": "https://wallstreetcn.com/articles/3782683",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 05:10",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧央行加息预期降温，拉加德：长端利率上行将抑制增长与通胀",
+      "link": "https://wallstreetcn.com/articles/3782679",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-29 04:17",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Bill Ackman“炮轰”美联储：加息可能是个错误，AI热潮将让通胀更难控制",
+      "link": "https://wallstreetcn.com/articles/3782656",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-28 18:29",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“新美联储通讯社”：特朗普的举措事与愿违，利率和通胀不降反升",
+      "link": "https://wallstreetcn.com/articles/3782647",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-28 17:29",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "金银集体杀跌！高油价与美联储高加息预期持续压制贵金属",
+      "link": "https://wallstreetcn.com/articles/3782648",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-09-28 16:38",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球市场：美股三大指数收跌 半导体、光通信板块走低 国际金银价格跳水",
+      "link": "http://stock.eastmoney.com/news/11784,202609293885612223.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-29 06:15",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "停牌前大涨！三峡新材筹划重大资产重组",
+      "link": "http://finance.eastmoney.com/news/1354,202609283885521132.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-29 00:10",
+      "relevance": "间接",
+      "match": "锂电池",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国轩高科海外“落子” 深度绑定大众汽车集团",
+      "link": "http://finance.eastmoney.com/news/1354,202609283885511360.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-29 00:09",
+      "relevance": "间接",
+      "match": "锂电池",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI热潮带来强劲现金流 英伟达宣布追加1500亿美元股票回购",
+      "link": "http://finance.eastmoney.com/news/1354,202609283885534470.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-29 00:03",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "复牌！广汽集团拟收购一汽丰田50%股权 “南北丰田”整合迎来关键时刻",
+      "link": "http://finance.eastmoney.com/news/1354,202609283885566089.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-29 00:01",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国30年期国债收益率刷新二十四年来新高",
+      "link": "http://finance.eastmoney.com/news/1351,202609283885544882.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-28 22:55",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9月28日晚间上市公司利好消息一览(附名单)",
+      "link": "http://finance.eastmoney.com/news/1353,202609283885388665.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-28 20:38",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9月28日晚间沪深上市公司重大事项公告最新快递",
+      "link": "http://finance.eastmoney.com/news/1345,202609283885348716.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-28 19:32",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数集体收跌 汽车整车板块逆市走强",
+      "link": "http://finance.eastmoney.com/news/1345,202609283885170096.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-09-28 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "港股异动 | 中环新能源(01735)再涨超5% 公司拟更名为“中环智算” 战略聚焦AI智算赛道",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3586988",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-09-29 03:35",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）9月28日主力资金净卖出1.07亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzBfTGJwT2NDYm9hYTFYQVlFaV96eEdCbGZSU2JEb29YZk5YRUtsdkthYlVpak85eFRJQ2o2QjNGRERacXJaRzNNTXczOWcwdFNnSDQyMjNtN1FCWmJrYzBxcHRvSUhiMGtDUkM4aG1qdFM1bGdGcjgzTXNlWlh0OV9rNG54UVF3?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-29 09:16",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：产品涵盖干法、湿法、涂覆及各种功能膜 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0lFWnNNa2RnUnFHRGI4SUNfTDNEOTdYQThGV01xWlowY1NGT1BKb1ZGaUFzVW9OM1ZScTBxU0pTTHdEQkQ4ZVZEM0Q2RVRjTy1KOGpjTjlGU05Jelg0SHZKX1ZkRlYwN1Y2N3RrdklsOGhoeEZHRHFBUzJkQkZQa0F4OVd3ZklLbWVHbg?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 13:41",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "锂电池板块受压 龙蟠科技跌5.82% 机构指下游需求承接依然偏弱 - moomoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Zal8yYWdHT29Dc0dCTFlJZFhYaHFqX0UyV0dGX2h0TDZPRE1TeVhmUDBvVHAyMFdYZmRtc0V6dTR6SklBclI2bUZYaFNCZ1FPLXJEZmlTanhZQkh4?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 10:24",
+      "relevance": "间接",
+      "match": "锂电池",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "9月28日星源材质跌7.89%，申万菱信新能源汽车主题灵活配置混合A基金重仓该股 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDVabWMyUnc2LVNCOWFPMU9QSC1TU09tX0NwZWdUZGZpMmk1bjZwcGl4d204ZDd3eV9SS3BsOWx2VG81Y29xYjZSSFlfU1Y0YWZPaEZCZVplbHlrZk9TX3BkRDBjMU43WHMzSWJ6TGU2VmdQb1NUb2hqckdjUjF3ckdjY3FQQVhw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 16:55",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：产品涵盖干法、湿法、涂覆及各种功能膜",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38e96b724232b2d33512a98cc683&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260928A06GF500&c=9484169671402512767&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 14:38",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：深耕涂覆膜领域，满足锂电池厂商需求",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38e96b724232b2d33512a98cc683&url=https%3a%2f%2fwww.sohu.com%2fa%2f1081771353_121885030&c=9667691125580056533&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 14:40",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（06067.HK）：9月28日南向资金增持82.3万股",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38e96b724232b2d33512a98cc683&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082009400_122123195&c=16443181885253201053&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-29 04:24",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）9月28日主力资金净卖出1.07亿元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38e96b724232b2d33512a98cc683&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E7%2583%25AD%25E9%2597%25A8%25E8%2582%25A1%2f%25E6%2598%259F%25E6%25BA%2590%25E6%259D%2590%25E8%25B4%25A8-300568-9%25E6%259C%258828%25E6%2597%25A5%25E4%25B8%25BB%25E5%258A%259B%25E8%25B5%2584%25E9%2587%2591%25E5%2587%2580%25E5%258D%2596%25E5%2587%25BA1-07%25E4%25BA%25BF%25E5%2585%2583%2far-AA2d6cRO&c=6539334472682547913&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-09-28 09:13",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "航空ETF富国（159392）开盘涨0.99%，重仓股万丰奥威跌0.22%，中无人机涨0.29% - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmdwNWxWMlZCbzN4c0NqN0s2LTBybU1rWjVNa2tLR2xvdzhQWFN2WGVYdFlXVUdvS2dadXNJc2IwNGIzZi1SUW9Xb01TS0RXclh5WHREczNmN2pmS2o0cXhKT0tvVG0tSUgwajhyV3pWVHJRRmlEblFjOGV4RDQzd01Uam51bnZRekFEN3QzdENOVGVMNGZEZg?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-29 09:35",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "通用航空ETF华宝（159231）开盘跌0.21%，重仓股万丰奥威跌0.22%，中无人机涨0.29% - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlZ5VVZJVzBLZTJTQmFrNW4xdl9sYlljdFpodFl6T0h6QlhGRkx6RTlRVmo2ajU5aF9zcFp3S1JoVE82XzdYXzZPZlF6UVNQZjhGRUJtQkVfSHYtX3d1SE1TM3F2aGowUGNkZHVaTzZGWUNHNEZSa1VOZG9xNU5UeTcyRmRRQ182U3R6SV8tcjQ1dGFySnd6Xw?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-09-29 09:35",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团A股今日复牌 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aNWVSaFc4RkU5akpZWmNfd1BsSUtXRDZXM0E4aHJ0a1E5VEQwV3JSOV9RSm5QdUNTNG9wS3BjSmRfcXRVTFo3ZmhnTU1aUmRLTlR3WUhWeThoRDZyVHFteGllSmNtUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:03",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团竞价涨停 拟发行股份购买一汽丰田50%股权 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKcDRXZHlGRktGcDcwSGtxc0c4a1p3NEJJM2RRUzc4WlBLc2pRNTlqd1JVSFdFUFNxUWNyWThsczJnXzdQWDNPMVJ5WjJVQQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:37",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 拟发行股份收购一汽丰田50%股权 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUxhVVJYbk5aWDEtRlVXeVZrQkVjaGo4Y3BBTHhoakl4SUhFY2ZrdG5kaWFxMDV5MTBES01vVGlQOHIzQlRVcW9aZ3J2WTBUTHdIckpmeUd1UG5mMG1XNW9uLUlLVGtLMjlJQjFyN0FxNnNIX2JZd1JoTFJwcTUxQXEtZUFmNXB5RHMtaG1ZRjRvcTNyNl9jVTJXY2lvZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:43",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "拟发行股份购买一汽丰田50%股权 广汽集团复牌一字涨停 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjNaTXRVX3dZVTJwZHJZLXo0cWttc185dmNGZ29wREJJb3VFQzQyd0x1NE91c3l3MEMzd0NockpTRE1wNEJZeVd4Qkx0UTdjQzZPRzg1dFg3eGRhMlhkYUVKQkpjSUdEYTV1WDBWdzNQemlYQ1dsLVg5YXRfaTZoeDJGUVBxYWkxb0g1SW1uRQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:06",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权，推动“南北丰田”协同运营 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmcUtBNUpYQUtBWlFBVXNBakJzdmFGMjZhbEQ5d0s5aFlXc1p1by11eVdFcGZWMUxzSjlVcDh1SnlnaVBOTVFuOU0tVnRLVWE1cmdoWFRpaGw1ZUlRVmxVSTNqdkxZNVEydDc2NGNjUjdsZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:16",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtd1puUDh2LXpUQTB1cUlBN1AyZzJLbVJsbXhqZG54aFJ3NkQ2SHY0bXF4V3REU3lKNkxOeFU2REpmZ1NfdXk5T2FGU3Bhamx0V0Rz?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:11",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团“一”字涨停，公司拟购买一汽丰田50%股权 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sZFNMdS04VllPZ3Y0cnlXU244QnlfNWJ0a1A5YVJaRWRNRnZDYlBsUmVxeUVjVlpwRGJVMFllcmJuWTA1bi1ZTFN6QlJIaEtoNHBJVEpkUkEzNDZSWFc0ell3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:29",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权 股票复牌 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hMmIzZTZkcDFDa3VKM29CMFkxYUxtX1h5V0RvOWZhcXE3a2l1eFNYTkk0Sk9zRGRFM2tuTWxQZHFDQ3ZkYTNhSnNaVEdYMy12RGZBUzl1c2RTNWdZV1l1Ug?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 06:15",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟购买一汽丰田50%股权 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckVxLUkyY1YzS2hUNTdaVml4QzdQcHpDOEFaVUFxZkY3U0dNcVFCcUR3UEYwY011YkRPQ3RMR1RrTC1PaXpjQkd6bnRHUGRBN2tMVDc0UDRJS2VJUE5NNkl1LWh5eUxydXR3c01nRHpsSUtVUDUzX1VVWEMtLVdqemRNV09WV2gya21ZVGlsblRpYjdBR3lFcg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 08:47",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟发行A股收购一汽丰田50%股权 9月29日复牌 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yTXc4V2NHUHVkMG5yZVdIVDJnV3VDMUc5VjNmck5WTUVSSFNQclhqWk1HSzIxNF95a0x4SlVnbm5BVFZDMmFUNEthQlBldENkOWpLalhMLXZTclBPQmJpWHV3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 08:22",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团一字涨停，拟购买一汽丰田50％股份 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wV0JFS1NrX0taNkRiM3BPUTJBSm5ldHQ2T1I1VHBwRkltUXZVcElxSmg5RndVZXl0Y09wYmlBWkFqV281SEtMZG1Iak8tNTBQUE1ZamdKQzJuck43cmRnZTZJSHJodw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:43",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "异动速递丨拟收购一汽丰田50%股权 广汽集团复牌一字涨停 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYy1hU1JiODMzTGRIN0lIMlpBRWtCYkJIUG1ibFhlM1czNE9vMGlleTNRUGdlNXFiU3Bza3YwejQ4VU1GdFI1X0RfRmhlOXNwa3VfRkFvY2NRazEwUnI5WEhWVzlTSVpXeDhWNURKSTRmQXhfVkhMd1FMNU1rVmR0TWZlaFFCWWl3cUxybVk0NA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团盘初涨超5% 拟收购一汽丰田50%股权优化国有资本配置效率 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWFFNkE3aGxGWmV0SERudF9CMFZFN2RtU3p3ZG5UV3ZKMnUtai1HQzJVNnlLUFJlaWNiQm9HR0VoUHpvandLTWhHTmFTbUktci1sZ2tlaVJBQmtEYlVOUXpobHoyempmaUlwMFpPc1F0eVlHVzBQZFNtUk16eUsxMWFNdzltdzZjX05rXzBuSW9mSzhiVVE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:45",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团收一汽丰田50%股权：1086亿营收不并表 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSlpfZjR0OFpfU3lwWTM3bWZnN0Ewa2ZxRHhRS0RBUm9wRy0wdDB3T3dfc2luT0FIc0lEcEZqbVJaX1loSy1uQ204bW9HRUFqTktBUS1GXy1uN3dJUzA4OENlWTRqQ3k0TExNLVkzU3hSR081cXltUjJ2OTVBQmsyd1BDZWdtRW8yTVhn?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，重大资产重组预案来了 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWZnREwzNGJrbFJqQlN4Y3UtOERpcEJoU0lIYW5pVVBYLWp6SmtWQnFzb05sN1c3ZUt4Rnc4dVI4bVBNVTZSZEdsd1JvcmhVTElrM1J2cVRnemU3NjI4N0I1Z1FNWDFzcnVGallQSEh0NXpOWkIyRklIWFJFejBtVg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 07:33",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "拟收购一汽丰田50%股权，广汽集团复牌一字涨停 - finance.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MOHh5TWtrWVVWZ2czaXNyUHlPbnB4LWhvN1RjcVZOX1VOREFTOEdiMnRzdmVFZ28yZm9yTlYxS0xfVkwyVHhqY3FhM3NKa0xt?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团重大资产重组预案出炉 股票复牌 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzQURCalh4SktLR3BNNk1RVTVBcWlIY0k3RS1DN3lvcnBOVUZPbGtpYmVfY1QzVHZZUllDQ01UVko3N0pSMWVvcFdsR3ptclVWWVhhSlkzMGdVMkJybjI3dQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 23:58",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟发行股份购买一汽丰田50%股权 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaN3JKWmdpbnh6UDJINW1PX1o2QnpaOXBHOXk2LUltUk1qbzZvMXBoOG9JTW1aTDIzV1ZDbGVCSVFzc2pnT2ttbWZTWVNTRmZVWE4xN2FIc2F1VzNVUXZ3T0lEMA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 08:19",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，最新公告 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GLWk2bURMNUNVTEZNY29tWDBYalhMVHI4RkNTS2RYM190NVpPa2JWZHRWWjlmcjVQcVRQTi1aZ0l2N2JvaDBVLTlGSkNRb2VCb25ycjdJcUVZcllxdC1Ub2lKSkR2RXhwaEg4OXF2VFBydVdSanc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 23:22",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团明日复牌，拟购买一汽丰田50%股权推动南北丰田协同运营 - 证券时报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xVFpNaWdFd0dWX2tWSDlBbkFkdWxYMDJRS0Y1dWJ0NE56ckQ3bWhWYWJKRlFiektRZ2Y5MzRXbWoyN2pCNzNvVlpuWHpBQTVLUnF2cEtoTEVYdTYtN0E?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:48",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟收购一汽丰田50%股权，南北丰田合并提速 - finance.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yVGNlZWRHd0g1WmhYdkR3eVBaS2Q4dEpKdVl3RjZYMmdJSzFxSWsydmxDWDlyaTZtNDBCUGVRRlFuRncybS1HV2RVbWJad0x1?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 06:09",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权，9月29日开市起股票复牌 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCN01DR1h5RnpOLTU5S3dOY2JWZnM3TGZyRkllcDZiUjh0WE1HNVpFd2dIWjAzc28wUjlOZWNtVWhfSW12d1poTjlCZGNUZGJDWms4bURsLUdSSm5fWW15aDFpTQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 06:43",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：股票将于9月29日开市起恢复买卖 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yTVpPdjJ2dkVhZXhNTm54R0s2MmdxT1Q3QXdSOVFTUTJZMjJOWDZiSldnSmJpM0pEaWoyT0pQeUlVSm1HMWtmNklxdHoyam1lMXh1SjdoQjZnc3dEWFRXVmZPVQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 05:08",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团竞价涨停 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OYjB5SlJhMnpoLXRQX0VfNUhVWlpsenVQMTNUMkVtNExOeWVZUVNkT3RWV184S2tUcS1RaHpaUXpVMGZPcDU4RGJJcw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:30",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EWFcxZHhkaWFrRGRIUkFjOXJhVWRGZ3ZtazIwb0lLNFhJRDlVa211bndEZkFNRlhDOFQtN1RydG1BVmhwaHNVM1V3N1p3TlduV01GeGpkSG5Wa0F3MnVyTDkwSFFmSVVwb2NHeUtNQmJyY1ZjanNHTA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:29",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团9月29日起复牌，拟发行股份购买一汽丰田50%股权 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXTllpcjM2XzEyMWNRcTJCQUhWN2N5RUk4SmFmSUpYZ2ZQeEdtSkdidUZsaW5La19EdEtDdGV2eF83ODg4TEN0Snkwb2s?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:09",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "个股异动 | 广汽集团复牌一字涨停 拟收购一汽丰田50%股权 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWJDbFhDc1gzWGFoUVE2c0pTOVFfRExPcW5Mcy1oMHVtNURMeVB3VVUxVlljV1N2MlJNbUZnMGN2QWVDQ3pwNno4M0l4M05wWTFFbGFjZXFHUGlYLXlSWVlpb1pOdTNZUENxTm4zb0k0dGEwQngzU3dENnZRNTVrS1lSNHp2OEhvZlk0bg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:58",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权，股票明日（29日）复牌 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajdPLU9Cem11M3pNYzg1WjFMR1BmM2xTV1VXdUhWanhFbDgxQjB6VWlsYXUxRUtGazJrQU1DakljU1ZBQjlTMHVWMFEybzA0Ukk4NFE2NHJyMXBuOEgtOHNtLUU0VXB6bGxtM3ZqVGZpR2lrNldFMGJJRE1za1VRQm9yRQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 01:13",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团一字涨停，拟购买一汽丰田50％股份 - 大河财立方",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iajZpdEFuQWJQYmF0TG5Fa0lDbjFDTHlFdzJlTU04SmNaSllCVTNZTVdFT2R0eHlXam5TMzNBWm9vNzREZ19JMi1oN3VYLVRtUV9IN0djeHZtM2VIOWZnRHZ0ekNfU2s0TWc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:30",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟通过发行股份购买一汽丰田汽车有限公司50%股权 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5cV9nbENuZzBYMjFGOG9NWUh3dmhTTHMwVTRaNUVGTFhSamRBWWMtRmlESEZfbU9POTI2Y3Z0cGJJX0R3eUR2NEpwZzA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:45",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ocW9jS25SNlpuMlFnZDRpeUlLUXBzVjk0WTZGVmdUUVgzYVY4dHlSRFZSeEdhbzBUYi1Rc0pDX0ZyeEg2RUpJYnRPOUhxRkpSUzhjbjZFdTBqMmR4Y0FGcUVhM2l2WmM5ZlBEWnVlQXlweUIxQmRGdA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:25",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团盘中涨超5% 旗下飞行汽车高域AirCab全国智造总部落户台州 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihwVBVV95cUxQbVA4R2FuWGxkVm5NZ1QxRlpZMkJsZE9ibEhkcUVSbHdhVjY0Q201akZXNnpSUHBrcDZGZEUtNVM1UG9xcDBPVmpjYWhFME9MQ1VVZ0VtTXZ6MlpyeDdIMUFzOTJOQzJhblF1ZE5ia3JnOVhNZ0gycFNkc2k5S0oxbEF2emJaTC1veFI3Yk9STnU2ZVVIdU0yZjBjWGU4X0Jqd0NOMUlvdG9EbGQ5VzE4dC1hb3dmSkJNcXhES2NwQVViOHpQMjN4UlhOWEJRSWZSc0FhcGdDWmFVM2U3d28zRTl6TzB1UHhSemx6N2NsanY2djlKbUNpc3pveXNlUm9XN015UVc5VVFxbm55ekJFb1BqYVh1SlFrdndVM1M3dHk2MGhUaTRDTTFkSEd2VC1oOElHM3BwSWZHNW5LQjdGXzJUaFluTENhWjJkRW9qNFVFU0FJZWkzOFNEZnpYU1AwUVg3X1ppSlVFS3BMbzZ2YWRaRGx5dms3YzlRQUlWcjlWa3V6NWlYS19Xb1lQSWZuR1hLNV9wSnBGdDQ5RlRmTFBkUlQ2SFJtNWI3ZkNBUEJWTlZSZnkyRG5vbjVBM0w5STQ5S2hQcFlVd1JUX1VNN040bmp2U2JtMTN4clBHVWlWZ21rUzN0T3V4dnF4VXBRUDExV1FuUTlXTG4wSjJpSVNKMi1iZHdZcGZLT1M2ZVNxM3N2QVlGcWJzczdMbHlLU0s3aDYwNHdSLU5Fa3JOMkJlVUI4ZUhHaVRSc3hkeVczYUJmY01GakM4dUlXNUd5Wk03Vk8yWUgzbm5DUjRWaUF1LU95Y011MDl2SU1NZTVDby1mNFpndDRLZ1lQX3FJZi1fNy1tUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 23:10",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团A股涨停！广汽工业宣布与中国一汽签署战略合作框架协议 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckJ5eThQR1hwTnoxS0FmUzJsU29jU3RHVG1IeHpXTE4ybEhPYUhtR1FrNkVSMkVZWmlmSjlpakkwaVdza1BsS0UyY3FNbF9lUXVZZko1bkJKQXNJTURTdFZGNlpGZ1R0OTVyQlpCSjQ5OWhOdFctdEx6eTMzV0hVUXZTSEFPZjZU?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 11:37",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ycDJjbVh4R25hQkROaVV5Rk1fcHBlak1lWV9nWDM5OE9oS0sxSzYxTmZWUWNZblhiYVllbFFCaV9ndUVrX1RsQUN6NVplVTVYdXRGVDBTcWdvZTdSWm15d2lEaUNXdnVCNG1QRmVBano0cDNPMzNGZ3dQT1FPcDg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:25",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "百万封单，一字涨停！广汽集团抛出重磅重组预案，南北丰田迎整合-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwMXZReU9QVVYybDdIa2ViUmJTSzZlZ2V3d2xRLW1xcVdYWUVQdDVNSDM3TGRXV0hvazYzUnBfZHNhNGVPZlFTRmhNUUZTYWFyQ0RYZGx0YXN6aUwxdFE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 11:28",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "重磅",
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，重大资产重组预案来了，购买一汽丰田50%股权 - finance.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NY2pFQ1gzMk9Ia3Nzc2NJbmswUFZVM0lXZm4tTHpyekdWTVN2S0dYU2U1czV3cWI3Q2p4Y1VtTVNaRkIydWZtR0dHa1BCZ3Fy?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:55",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权 股票29日起复牌 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LOTNraG9WZzk5MGo1YTVYNjE4WnJUakxVVU14MmFnclhTLXVRTHZuMVNWQkpZTEtVS2w4MDhrWVhQZWZSRFZ3NlBQM3MyRUJQQlM5Rmdvcm9HU0xLRGp0SUNaZ0NkRzZvT082ZjZZZzg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:34",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【视频】广汽集团复牌涨停！今日开盘封一字涨停，封单额超6.5亿元 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0V1c2VDVWRlBLRGg2TUplanN0b0R6Q2xNN1pFS1FlR1E0S2J2LXJOZXhmZ0tzYzdLdWVOb3JfdDN1SXExOWYxUXdDMW96Rk5JeTdJbm1ucEgwR0k?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:50",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "拟发行股份购买一汽丰田50%股权 广汽集团复牌一字涨停 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGRVSGhNZE0tQXNjUzV3VVZ3ZVI2ZHlsNXBXZVBEUlhoUTd3S1pNVVRsZ2pDeG00bWRPYlBNWUgtNGlUMFhWOXZ1MlF5MkVlTm96UnVRVHAyM2tVNldBYTFoMnNhZnhyX2k1dXpGMWxYaV9kSnM2OGQtT1dncHFxUGlHbEY5a3JkZjk1Qw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:40",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 拟购买一汽丰田50%股权-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUVZKRUQ2WC1xY2VtTGhmazB0ZHdVUTNseEI3bU9mT2FwMGhQZWJQWndyYVpaV2RpT0oyRHM3dldwaWFnMUJkTk9CRVJPZUJaTExFSnFpdG45cWRvc1E?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:46",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌涨停，拟购买一汽丰田50%股权 - 新快网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SalloVUx6bkQzTVdSS0p5ejZNV09jUlNFOTlIaTN3enRwYlgySnRadW5nUnZXckVCUXBKcm5qNGQzY2tfZWFnMWhkYl9pR2JYRFlENHJB?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 11:26",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 拟收购一汽丰田50%股权 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTZsdGstTW9nX1hvWkl6WGtxYjF3ZUtnVXpaWnJSZjhtaTFpZGU2UmVMaktienhvQ09HQkhKWWh3Vkw1MkFuT2JRQm5vWHlPM2RIdDRXYmlBZjA5aGFGWnNWWkk4RDlfQ3d2aUFoN2x4QmpRMVh3Z09aZExNUGtRWUJsb29YdFpU?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 11:29",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟收购一汽丰田50%股权，复盘一字涨停，南北丰田合并加速 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHNpT2FOd0pHVzBZTEJyZ1BmS0lRdlpFNFZETzVneFNqcVJYV1RQWnl6T3VVTVViZkEwVHJfNXlodTduTWZTemtDNnoweDh3SVpaLS1jR1JVY2kxODNvYUhTMGNrSGswLTNTeWJrQUE4VGtWRC1zdmN4Yy1XdmlqWDVvOU5hZEZD?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 12:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【网通社快报】广汽集团拟通过发行股份购买一汽丰田50%股权，股票9月29日复牌 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OVnRsV2k5YlFOaXJMc3FpRDBablgzeEdKaHhvT1U3Nkd2a1lhdkV3LWllSXY1QjU3REEtajVMR0VaVllNY0JYTDFmdVE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 20:55",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌后5.75元发股接盘，一汽丰田中方股东换成广汽 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUGd0SWNINURubmtXSE9wMk1SRUo1ZWxTbTB1YzBWTTZyaDU2b3NtRm9hZEtiOWNxWW5jSkdDUHA0YkM3TVQzMnBzNmphQ0NRbW81WFRJcG1KUW8?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:49",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "拟发行股份购买一汽丰田50%股权 广汽集团复牌一字涨停 - 南方财经",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzbU1LZ2J4Q0dUck56UTRBQzB0UHltNGg4YkRZSXFkMzNzN3lGa2VYYjZac0hzRXgxdmRFRVF3dkkxaHZxQlMyNkFtYUJqRGRlV3dfdC1SWHdPc055Nzd0SWpPYlU0QQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:06",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停，公司拟收购一汽丰田50%股权 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0hpWmtiZ0JwRDg1anU3TUM1bWh5SExwVGstNElOejBRNkJPTXhBaDg0ZDQ3OTZXR2taa1dGWS0wSWFOOWxqU0hmZnR5c2RxRUdtX0hvMUFhdnpuSkk4TDRpZVNYd2hvRGlTVm1PSWFXOFV3UVgtQ0FZR2pUTXFGaWRlYXI5M0Rjc2NBbw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:53",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团（02238）涨超4% A股涨停 拟发行A股收购一汽丰田50%股权-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5COUN2d3pzVE1seklEbkc4MXZkazVyNDFZWUpUSDZOSnhyaEFyRzRfX21sVjlMWXNHaHNaZ1dxckRjcTJZTWJXY1RvS2JROTI2SzY0dXJXQnU4c3N3bVE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:51",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "港股异动 | 广汽集团(02238)早盘涨超5% 拟收购一汽丰田50%股权 优化国有资本配置效率-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aXdVWk5EZEwxeEtsYWlXSnZEajJlQlNtdHFHRUtWdjJ1N2pWTG9oYTdlLU9CNVNvQXNwZkdweXZ3OFNobjJ0MDZkdmIwQ3IzTzVmaTJhdllqZkVfWEE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:34",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，重大资产重组预案来了！购买一汽丰田50%股权 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RUSjctYXREaHJxclZERGFFTU5Lc3VtY0JzWVRFQlI4UWFLYWtFcHdNbHlPeWRmaGtsQnlqSldtQTBKVDV5eUU3dEYwU3JPbUtlWmNnVXVtdGlMT3FtWWFia0plbGIxTjJhcmxkekVlWThoQk5mOGlwaXJsSktUWTBPUHQ5MjA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:47",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团（02238.HK）拟以5.75元/股发行股份购买一汽丰田50%股权-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQ21waVRZNVVKX09sSThnN1BibGI3ZHBvQ21iRXJFZ0lqVmtKTDV6UnVPVkF5ZmRLNndXekxiUElUU0p3dlFnUDh2WUttNnR3XzhpYk1JTTQ0dkdQNVE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 06:36",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团重大资产重组预案披露：拟购买一汽丰田50%股权 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nTmxUbEpLM3hnUERweWJHS1diTC00dlFfN2xNaWpwR092UVlCM3RsVk9qZTV2VGxVM0VyVGFvZ3hkLXM4aDMxNGVFMXBhWVQ1TkNYY1M4VF96SjFiTC1fZmlobHpwSTZ6b0MzTXV6YTNWQQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 01:48",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团竞价涨停 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGhDUFgydzhaNi00ZXVyRVpfMzhkVENwQkduWHZmRjI1ai1DY0QxNk5TYUNMZ2FwY1pVSTc3aTQ0dnVKbXBGN1VxQmV3UVkzZUJEZTZ1UXY1V25ial9ESnVRcy1hajBrV3pCdDV2ZjdnTHZ3cVJyVXF2dHBMb0pRSHNR?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 10:12",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟购买一汽丰田50%股权 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGFBU01rYmxFamhQbk9Nd2hkRFZJd0Jyc1Q0M2xqTVM0UHNOWmZSR0RrYlRHT2hhOGJKYWZyT1FqdzZRSjc0ZGZPUDBMRVF3Tk9IdFJFelVKRjAySldaQVozZFd3b180SVRXVWhHZURZQTBpZ0ozUXNsUXFBNGdaR0szTzRLb2ktRGNF?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 07:42",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团(02238.HK)早盘涨超5%，截至发稿，涨4.54%，报2.63港元，成交额5239.1万港元-证券之星 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0walZDWWFrQkRhbC1YMkhRV3VvdGF4QW1VaXNoR1JadGtwdURBRkJpdWVlUUF1RVM0NzZ5anZrVGd5bzJzeC1yR1JyeEdINl9uQmhsZTBELVRZNWxhMGc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:40",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSW02bkM3UEJGclUxSWk3bkxzMUs3djAxWTJVVml4SjcyVnZNZE9BM0VGWnFLbG8ycklpUmc4aWhaTW9hcDNJQ2cxbGxfRG5DVGg2VEc5YkJhallqRGtTZENGRG5nUE9uT2pFR1hRbmlzVjJTTTBBRDJjZUpUYkk2bVUzTDZqM3ZnOXlodA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:42",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟发行股份收购一汽丰田50%股权，发行价5.75元/股 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EaldNTjdvN0JpdUVIZldEMThucnpXQzJlVHNHZndZeFdTbGVwTk9KWlVrTTJvYjZIQmR5NnNmZXE0Q2hYY3gtTA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 22:16",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟购买一汽丰田50%股权，公司A股明日复牌，南北丰田协同运营 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VMUl6QXNaYkhleTJ0NVJXV3g4Z0RpeGpNN1ZzNUtjV3JlaGJ1THh5aTRPN0Q0eExkN21PV3VMajU2bUU3X1JPZW80WTlNQTkyUms1My1UNWVZM3prZjNKaWNrNA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 22:18",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "拟收购一汽丰田50%股权 广汽集团复牌一字涨停 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbktMZHgxNVYyZFRpMl91WmRla01wWnJMa2V4TlBIT21aczBoMFR5Zzc3OTRWSFR4ZFVLS0RFUnBMOUlINUpRcmlKX1U2R1lMYVdUNER5WnFHcTlfSjhPVmtqUy14dGM3VVF1aGlGbUhzVzBEZzZ4SzdOYTdONTE4R01mdzhqdjFVdC1Qcg?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:42",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停10%，拟购一汽丰田股权，南北丰田协同引爆 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3UtY3dwSE05dG5MUWVDRXQwQjFoNUJmZWFvT0h4ZU5UZFdYZVlQeXBLQTZKcUdIdkxLM19KVnptcndTT2M3YWVwcmlVUHQzSTJUUS1jNUlBb0FkVnVaMlFKdVJQZ3I1cmduYmlFaUlfcXc1TF9kVU91aWY2aWQ1TGh5V2RQQzlP?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:47",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【#广汽集团拟收购一汽丰田50%股权##广汽集团复牌#】9月28日，广汽集团（601238）公告，公司拟通过发行股份购买一汽丰田汽车（TM）有限公司50%的股权，并向不超过35名特定对象发行股份募集配套资金。9月28日，公司董事会审议通过本次交易预案，相关审计、 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VaTlteEZiNV8xcEswaC1tMC13eXhMVE53eGliYnFnSEJBX0FsTlNZYVFOY2dZb1JWZmVrS3BGR0hfYzl2STVkeWc4RjktdVhsY2ZtRi1lNWcycXd6V1FXMFBLNA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:18",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟购买一汽丰田50%股权 股票29日起复牌 - finance.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sd2VLWDZ0UGktNmlfOHptVFFoSWxRWmhkaTBBNGF3aFZBcHpxRjlpS2EyQWQ4dk13LUk2UUNvTTY2eGlzTHNtS1ZqeVFlQ2Z3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:04",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：拟通过发行股份购买一汽丰田50%股权，股票明日开市起复牌 - mrjjxw.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84MTN3NjlUSzJTckxmT2hzOVFXRDVXc3lmZno3OGtfQTFjb3hXYU5RelZMejkzbDJXbFEyUzg2MDNjZ0JTNUVaeGtvR2xRLU5ZM19Qd0lVRzMwQ05qUGtPQVp3X1lwUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU29NdGhBZU5sZ2MzYm1SSEtQQTJmOFNPdm1mWHFpbi0wZW50b1NTdGNCekpnZHZMNU9fZ3RfZjZGSkpQZ2pwRF9hazB3X1lTTDlxLVFpcDFTZmtPX3h6R1U0UWtaajlsWnB4OVNNaHc3RmpIdHZSaVBrRnFiMk50X0dsRUZyREZP?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 09:39",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：第七届董事会第30次会议决议公告 - zqrb.cn",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HXzc3WENmOWNnWE1BRzRWUnFwMHRNWlpRekViTEI2VV9DZGJqMG1hVWRqTXV4S0QtNVFmX1B2UUhzcjBZVnlvbEZRTFd2dUJxYzk1Y2VJTUJ4MHNvd2tmWnRJTUdPckJER3pv?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:44",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "昨夜今晨全球大公司动态 | 广汽集团拟购买一汽丰田50%股权；长安汽车推进深蓝和阿维塔两品牌整合 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODRpcm1oMDNpUkwzeWhnMmtkWUFRVWk0a3MtNHdXVGRfaFhtTk1DcGpadzVPQkpmZzh3U05DRk90NTVESGdPTFVPX3pGR2UzNjM1NVVGZWlrUE5WWEgtX2tQdWhjbHE4bzk1OFAwc3ZiQjdJNGNZZnNWTUpHWG1ydEN6VVIzQnhCOVFPVA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 07:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟收购一汽丰田50%股权，南北丰田战略合作或破解合资困局 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZUDVtZVc0SEJLMlctNXo3ZTdsSUtCV2dZdU1UV2daUElkNXNYb195TzZDSl9xQWZkWW9DcW5HNzA4Z3NGMl9vVzdVTkc1cjJ5YTBLNw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 11:55",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "南北丰田协同运营！广汽集团：计划购买一汽丰田50%股权 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDhYa0ZLSlhjSktFaUpjcWpWX3ZBWGJrWk9mVlZsaGluNFJwOGVSZlMwQVRWQjFtcmxOaVByU0EwOUQxVDN2SzQtWXJyWU5MLVJycHhrT3JvckdFWEhVMTFkMzRMYVo4dnpaSzhIMTFxTFpyb0JFQTEwYTZRdm9QbXpZOUVQdWVOT2ow?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 22:20",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟收购一汽丰田50%股权 一汽退出!南北丰田合并",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fautos%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%25B9%25BF%25E6%25B1%25BD%25E9%259B%2586%25E5%259B%25A2%25E6%258B%259F%25E6%2594%25B6%25E8%25B4%25AD%25E4%25B8%2580%25E6%25B1%25BD%25E4%25B8%25B0%25E7%2594%25B050-%25E8%2582%25A1%25E6%259D%2583-%25E4%25B8%2580%25E6%25B1%25BD%25E9%2580%2580%25E5%2587%25BA-%25E5%258D%2597%25E5%258C%2597%25E4%25B8%25B0%25E7%2594%25B0%25E5%2590%2588%25E5%25B9%25B6%2far-AA2d9S2c&c=12913087085863875587&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:03",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团停牌10日抛重组方案：收购一汽丰田50%股权，南北丰田开启协同",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fwww.huxiu.com%2farticle%2f4894500.html&c=2892395495595489998&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:59",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团A股涨停！广汽工业宣布与中国一汽签署战略合作框架协议",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fnews.sina.cn%2f2026-09-29%2fdetail-initnfqm6143952.d.html%3fvt%3d4&c=10541166771735230601&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 22:38",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团拟收购一汽丰田50%股权 一汽股份将成为第二大股东",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2fother%2f%25E5%25B9%25BF%25E6%25B1%25BD%25E9%259B%2586%25E5%259B%25A2%25E6%258B%259F%25E6%2594%25B6%25E8%25B4%25AD%25E4%25B8%2580%25E6%25B1%25BD%25E4%25B8%25B0%25E7%2594%25B050-%25E8%2582%25A1%25E6%259D%2583-%25E4%25B8%2580%25E6%25B1%25BD%25E8%2582%25A1%25E4%25BB%25BD%25E5%25B0%2586%25E6%2588%2590%25E4%25B8%25BA%25E7%25AC%25AC%25E4%25BA%258C%25E5%25A4%25A7%25E8%2582%25A1%25E4%25B8%259C%2far-AA2d9PPq&c=8328195858889192820&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 01:18",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌一字涨停 拟发行股份收购一汽丰田50%股权",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2fmarketresearch%2f2026-09-29%2fdoc-initmzhp3097158.shtml&c=7398074687097732572&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 20:31",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团收购一汽丰田50%股权，股价飙升至涨停！未来将如何影响汽车市场？",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082128107_122066676&c=1763360449629806674&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:56",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "飙升",
+        "重磅",
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "百万封单，一字涨停！广汽集团抛出重磅重组预案，南北丰田迎整合",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609293886302695.html&c=4583362524719904538&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-29 00:59",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "重磅",
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "重大资产重组预案来了!广汽集团拟购买一汽丰田50%股权",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fnews.bjx.com.cn%2fhtml%2f20260929%2f1514643.shtml&c=114851800796368645&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 20:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【涨停直击】封单近百万手！广汽集团，一字涨停",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202609293886289633.html&c=9719479193038479907&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:49",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团复牌首日涨停，拟收购一汽丰田50%股权引发市场热议！",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fwww.sohu.com%2fa%2f1082100174_122066676&c=6899239754017251526&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 21:05",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "重磅",
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，一字涨停",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb38ee37de41ad87ebf8d5e21e68ae&url=https%3a%2f%2fnews.southcn.com%2fnode_812903b83a%2f479de468cf.shtml&c=5814612295278394822&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-09-28 22:15",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "涨停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电：9月28日融资买入719.58万元，融资融券余额5.46亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnJEeThsZmEyYVZCNXU5eWhTTTIwZmtJaEdDbFZtT0xVY1NraTQwZzRDZWRzaGFIdFh0aF8wNHIxZjRBSWFVOUxUOUpfd3dtRjRMRVB4ZE1BR2FtLURydGJEaFh3cHRRYkhRRkhsMmItdHloWXhCcF9rWXBPLTI4VnBacmhLeVhX?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-29 11:40",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "昌润新能源公司首个工商业储能项目成功并网 - 碳索储能网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RTB1eTZuLWdNbGNMX21nbEp4VHhFMzhQWjVQQXhZemJfN3g2c1g2WEptWDFPVjFuMHRtOFFDNTF4bVR1X3VYdEZZWHBCcVV0cVBjLTZ5eVV6TDFQOHRSSg?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-09-28 09:09",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
