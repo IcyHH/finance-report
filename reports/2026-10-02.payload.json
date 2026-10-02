@@ -1,0 +1,740 @@
+{
+  "generated_at": "2026-10-02T11:56:13",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 63 条 / 相关 19 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 1 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 50 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 6 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 18 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 5 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 2 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团2026年9月证券变动月报表",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-01/1225590933.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-01 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团2026年中期报告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-30/1225587906.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-30 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586260.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易履行法定程序的完备性、合规性及提交的法律文件的有效性的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586262.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于停牌前一个交易日前十大股东和前十大流通股股东持股情况的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586264.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易信息公布前20个交易日公司股票价格波动情况的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586266.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团第七届董事会第30次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586270.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易前12个月内购买、出售资产的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586265.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易采取的保密措施及保密制度的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586269.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团独立董事专门会议关于公司发行股份购买资产并募集配套资金的审核意见",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586267.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团发行股份购买资产并募集配套资金暨关联交易预案（摘要）",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586273.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《上海证券交易所上市公司自律监管指引第6号——重大资产重组》第三十条情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586272.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于暂不召开股东会审议本次重组相关事宜的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586274.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易预计构成《上市公司重大资产重组管理办法》第十二条规定的重大资产重组但不构成第十三条规定的重组上市情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586263.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586268.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于披露《发行股份购买资产并募集配套资金暨关联交易预案》的一般风险提示暨公司股票复牌的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586271.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团发行股份购买资产并募集配套资金暨关联交易预案",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586275.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团董事会关于公司不存在《上市公司证券发行注册管理办法》第十一条规定的不得向特定对象发行股票的情形的说明",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-29/1225586261.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-29 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司关于公司高级管理人员离任暨聘任公司总会计师及副总经理的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-30/1225586597.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-09-30 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "港股低开低走，恒科指下挫超3%，权重科网股集体下跌，赛力斯逆势大涨15%",
+      "link": "https://wallstreetcn.com/articles/3782911",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 11:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“表面平静”的美股：指数距离新高“一步之遥”，但几乎所有板块都遭重创",
+      "link": "https://wallstreetcn.com/articles/3782909",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 09:52",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美债跌到位了吗？高盛交易台主管：长债“仍然完全无人问津”",
+      "link": "https://wallstreetcn.com/articles/3782910",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 09:52",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
+      "link": "https://wallstreetcn.com/articles/3782895",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 09:10",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月2日",
+      "link": "https://wallstreetcn.com/articles/3782904",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 07:09",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
+      "link": "https://wallstreetcn.com/articles/3782859",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 06:44",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美光财报炸裂，股价却“无动于衷”！华尔街仍看好，最高目标价喊到1625美元",
+      "link": "https://wallstreetcn.com/articles/3782889",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-02 06:08",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "炸裂"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美9月ISM制造业指数继续扩张但连降两月、成本压力骤升，标普转跌、长债承压",
+      "link": "https://wallstreetcn.com/articles/3782890",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 22:08",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普：中期选举后或升级对伊打击，美联储不断加息“非常糟糕”",
+      "link": "https://wallstreetcn.com/articles/3782887",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 20:10",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "欧元区9月制造业PMI创52个月新高，需求回暖引发通胀压力重现",
+      "link": "https://wallstreetcn.com/articles/3782883",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 19:37",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "日本央行纪要显示部分决策者认为有必要加快加息步伐，政府罕见发声施压日元走低",
+      "link": "https://wallstreetcn.com/articles/3782881",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 19:15",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+      "link": "https://wallstreetcn.com/articles/3782880",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 18:37",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
+      "link": "https://wallstreetcn.com/articles/3782875",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 15:56",
+      "relevance": "主题",
+      "match": "降息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩国出口“爆了”！9月半导体出口同比激增263%，单月出口首破1200亿美元大关",
+      "link": "https://wallstreetcn.com/articles/3782865",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 10:40",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "追求“跑分”但“实测”平平，谷歌“新旗舰”Gemini 4被内部员工质疑",
+      "link": "https://wallstreetcn.com/articles/3782861",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 10:40",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点",
+      "link": "https://wallstreetcn.com/articles/3782858",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 09:14",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "狂飙"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普称鲍威尔应该辞任美联储理事",
+      "link": "https://wallstreetcn.com/articles/3782857",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 07:18",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月1日",
+      "link": "https://wallstreetcn.com/articles/3782848",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 07:16",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储6比1投票通过压力测试改革：资本要求波动性减半，唯一反对票警告韧性受损",
+      "link": "https://wallstreetcn.com/articles/3782854",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-01 06:17",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "债券交易员笃定美联储继续加息，今晚非农降温恐也难撼紧缩前景",
+      "link": "https://cn.investing.com/news/stock-market-news/article-3592530",
+      "source": "英为财情-资讯",
+      "tier": "T3",
+      "published": "2026-10-02 03:35",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团给国内车企打了个样 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sS0VkWUJBV2xTQUJMaUFKMTRhRFJLc2VFUm12QTlybno3REYtazJlcFphQjVpWUJQVWJGd0FUdDN1UTk0ZVN6bS1vdWd0WlN6eE8wWXhGNklHRjh1VVJRdWNJRUgxeHRvaEl0ektONA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 08:30",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "花旗：广汽集团H股目标价上调至2.7港元 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3N6LXNfNWRJa0U0clNScldpWTJuQ3dIODJEbjgxYzlzTVc1bjNTOE5LUEZXX3B4azJpd2hoVnhWTno1Sm1hcFlOS1ZUTG0wYmxCMmpCTFNvQURxRnkxM2N3OW1qZjQwbDJqLVFobDhOWEl5TXZmLU1TZVhnTUcwSTV4RXBGYS1xMUF0S1lVVVIwSTBrY3lRUnpkOUoxaHdvX21kbWF0YkJBUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 08:18",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团上半年亏损扩大七成 加速布局海外市场 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUnE0VHh3al80RkNob3BYZEQzSEJCYnAwVldDcTlXVlBxeW9IZVF5OERoYUV4dnEtUGxKdnk4SjNFbnBnQjJBWlNzUnYza0lLV25j?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 11:50",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团，今天全天停牌 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzUnZCR1BEYTZKTGdXQ1dyNFp6QlZGWFlhY1IwSkNsaHlLR19PTzdXZThoa3pKem82ZlItYkNlaVJpNHFUUDAyV0plWWZ4bjYyaUg4?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 11:13",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团8月销量解读：自主品牌表现良好，广汽本田处于末位 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05TFdjZG1zWTllQ0tRaUN2MU5uQXR5ejBoeDEyOW9NUFJldm40WUM2Nl9RRjlMRVhRYmZIQlVVTkI4dTNwMDAyWHNEaHFpZlptNEpv?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 09:34",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽、比亚迪、零跑、上汽、小鹏，中国汽车加速“欧洲造”",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf2b5cadd140ac97fbcfef4e441d74&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261001A09JOY00%3fid%3d20261001A09JOY00%26path%3da%26app%3dnews%26redirect_pc%3d1&c=13260715766724814894&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-01 18:02",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "#其它# 节能风电：总会计师郑彩霞因工作调整辞职 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsbDhqZ3VhRG5xOWhubkhIVmx4cEVfSmUtcUEwaXJLcXlTZmtqd0JtOGxpc3pTeFpWNzdSZXVxSUpCWUYzWUNQYnFKUFlac0lJdGNzY0hFbGNaYVZ2aF9xTjN0c1VUQlU?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-02 00:17",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
