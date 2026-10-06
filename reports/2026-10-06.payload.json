@@ -1,0 +1,456 @@
+{
+  "generated_at": "2026-10-06T12:43:52",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 52 条 / 相关 11 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 3 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 3 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 40 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 35 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团2026年9月证券变动月报表",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-01/1225590933.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-01 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团2026年中期报告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-30/1225587906.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-09-30 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司关于公司高级管理人员离任暨聘任公司总会计师及副总经理的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-09-30/1225586597.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-09-30 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "台积电抢英特尔市场、磋商与马斯克Terafab合作，股价创历史新高",
+      "link": "https://wallstreetcn.com/articles/3783037",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-06 08:16",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月6日",
+      "link": "https://wallstreetcn.com/articles/3783038",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-06 07:01",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美印贸易谈判陷入僵局，印财长：“已到平台期”，让步空间极为有限",
+      "link": "https://wallstreetcn.com/articles/3783027",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-06 03:32",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "今年只有科技富豪在赚钱：AI热潮推动身家暴增8450亿美元，马斯克独占近四成",
+      "link": "https://wallstreetcn.com/articles/3783029",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-06 03:22",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "价格指数创四年新高！美国9月ISM服务业扩张放缓，与制造业通胀压力齐升",
+      "link": "https://wallstreetcn.com/articles/3783025",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 22:28",
+      "relevance": "主题",
+      "match": "PMI",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街AI招聘从“造模型”转向“部署落地”，新型工程师成最抢手人才",
+      "link": "https://wallstreetcn.com/articles/3783016",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 20:24",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "复刻“半导体时刻”？AI制药版的“瓶颈交易”正在成形，谁是下一个“卖铲人”",
+      "link": "https://wallstreetcn.com/articles/3783019",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 19:51",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“AI教父”Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
+      "link": "https://wallstreetcn.com/articles/3783020",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 19:26",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "鸿海9月营收同比增长38.4%，前三季度累计增幅近四成",
+      "link": "https://wallstreetcn.com/articles/3783011",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 15:55",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华为与高通达成重磅专利许可协议，覆盖5G、AI与计算",
+      "link": "https://wallstreetcn.com/articles/3783008",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 14:48",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“高美债收益率+强美元”考验新兴市场",
+      "link": "https://wallstreetcn.com/articles/3782998",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-05 14:04",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10月6日港股午盘：恒指涨0.78% 恒生科技指数涨0.87%",
+      "link": "http://stock.eastmoney.com/news/11770,202610063888741791.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-06 12:10",
+      "relevance": "间接",
+      "match": "生物制药",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华为5G、AI专利授权取得突破 高通付费获得百余项专利",
+      "link": "http://finance.eastmoney.com/news/1354,202610053888667468.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-06 00:11",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "总统选举首轮结果出炉 巴西史诗级暴涨",
+      "link": "http://finance.eastmoney.com/news/1351,202610053888685540.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-05 22:07",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴涨"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质9月A股新增18.5万股，股权激励效果显著！",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac47c825a7e4e84a7e20bc70b573330&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084284532_122066678&c=3365082087668196008&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-05 22:01",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质2024年股权激励计划归属 行权发行A股18.5万股",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac47c825a7e4e84a7e20bc70b573330&url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-10-06%2fdoc-iniuezxv4084537.shtml&c=13615600544016102112&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-06 01:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(06067)月报表截至2026年9月30日止股份发行人的证券变动月报表",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac47c825a7e4e84a7e20bc70b573330&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084282293_122014422&c=1801290652382235372&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-05 22:01",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "北约将公布东翼防御计划，拟用无人机与人工智能应对俄军进攻| Mezha - mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lRWx1b3k3LUgyeS1iaGVaOGtRdFZhTEc4aFVpTnBkMWd5LUlwQVpuZWtKY3QzZXNqOC1kUHdyV1M1VUlXRHpVMHk0cUZLU0k3cVlsS3JsbGh0ZElSOHdZeVVzby1JN25U?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-10-05 13:46",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "北约制定东翼防御方案，拟用无人机和人工智能应对俄军可能进攻| Mezha - mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZkdfQmkzaXdlR2tkcWNYUVZjMFF6enhSOWJDNFFFS29kRU45eWYwNEFsTGU4MFZPRGhKeExrTHVmOUx6cW42cC1ZdGZQczFOVmdFejhLUE1MMHJkOGhYaF9HYWd4UQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-10-05 13:46",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "网传“一汽丰田要退场大甩卖”，官方发声澄清不实传言；此次风波源头来自9月底广汽集团公布的股权收购方案",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac47c8680064cedac0b44fbf5586014&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084237493_121119253&c=14311006693617622069&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-05 17:12",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "清仓"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电：中节能风力发电股份有限公司关于为子公司提供担保的进展公告 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZk0zelhRVURjemdwcmVWRlJISzNZblZKTHJuOWZiY0ZNOU5ISkhEajIwTlc3TDl4N2hKQUhOaFhQWnItSUd3Ym9vaTRORlp6d3IzSGhTSTNIajE5d1BFa0hUMGZwYl9sR3owREVfeldFc0luYTk3S2NwamdKSUt5YjgzNVBuRF9ZUW9sclhIemdGS09rT09LTGVCWGpNMDZaQUlMMDBBTEd0RUNsdWdNQW1pbGxaeGV0ejFrVXZKbGVLRG8?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-05 23:21",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
