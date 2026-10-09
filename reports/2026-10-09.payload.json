@@ -1,0 +1,981 @@
+{
+  "generated_at": "2026-10-09T12:26:40",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 61 条 / 相关 18 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 6 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 54 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 28 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 3 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 中无人机 中无人机关于新增办公地址的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-09/1225597202.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-10-09 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司可转债转股结果暨股份变动公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-09/1225597218.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-10-09 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
+      "link": "https://wallstreetcn.com/articles/3783240",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 12:10",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+      "link": "https://wallstreetcn.com/articles/3783232",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 08:39",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国预算赤字飙升至近2万亿美元，占GDP比例将超6%，高利率、减税加剧赤字恶化",
+      "link": "https://wallstreetcn.com/articles/3783229",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 08:04",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
+      "link": "https://wallstreetcn.com/articles/3783173",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 07:32",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月9日",
+      "link": "https://wallstreetcn.com/articles/3783217",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 07:23",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI芯片越造越多，数据中心电却不够用：半导体出货预期面临考验",
+      "link": "https://wallstreetcn.com/articles/3783202",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 20:01",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "韩股跌破关键均线！与费城半导体罕见背离，回购支撑也在退潮",
+      "link": "https://wallstreetcn.com/articles/3783199",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 19:43",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "卖一台亏一台！内存涨到三星都扛不住，手机被曝减产30%",
+      "link": "https://wallstreetcn.com/articles/3783200",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 19:28",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "德国大幅上调2026年经济增长预期至1.3%，制造业复苏成关键支撑",
+      "link": "https://wallstreetcn.com/articles/3783196",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 19:20",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "“光资产”回撤时分，国有大行再现“避风港”效应",
+      "link": "https://wallstreetcn.com/articles/3783197",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 18:24",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "法国勒庞阵营的财政蓝图：整固力度够，但轨迹偏乐观",
+      "link": "https://wallstreetcn.com/articles/3783188",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 17:06",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储理事沃勒：加息无需在连续会议上进行，点阵图反映2027年初加息后再降息",
+      "link": "https://wallstreetcn.com/articles/3783187",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 16:59",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "花旗：三星Q3营业利润超预期，半导体业务复苏势头强劲",
+      "link": "https://wallstreetcn.com/articles/3783178",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 16:53",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高，恒科指跌逾2%，科网股集体低迷",
+      "link": "https://wallstreetcn.com/articles/3783152",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 16:23",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "跌停"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储9月纪要释放重要信号：“保险式加息”正在回归！",
+      "link": "https://wallstreetcn.com/articles/3783183",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 16:05",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美光目标价被投行大幅上调，最高3000美元",
+      "link": "https://wallstreetcn.com/articles/3783174",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 15:30",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "加息25基点难阻资本外流，印度卢比逼近历史新低、基准债券收益率创近三年最高",
+      "link": "https://wallstreetcn.com/articles/3783181",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-08 15:19",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+      "link": "http://finance.eastmoney.com/news/1344,202610083890018228.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-09 06:03",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10月8日东方财富财经晚报（附新闻联播）",
+      "link": "http://finance.eastmoney.com/news/1353,202610083889845678.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-08 21:00",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "10月8日晚间沪深上市公司重大事项公告最新快递",
+      "link": "http://finance.eastmoney.com/news/1345,202610083889805035.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-08 19:31",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "央行阐明人民币汇率政策立场：中国从不搞竞争性货币贬值",
+      "link": "http://finance.eastmoney.com/news/1345,202610083889734044.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-08 17:51",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股三大指数集体收跌 电池板块逆市走强",
+      "link": "http://finance.eastmoney.com/news/1345,202610083889577351.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-08 15:00",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "三星电子第三季度利润、销售额逊色于市场预期",
+      "link": "http://finance.eastmoney.com/news/1351,202610083889037538.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-08 06:47",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质(06067)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBKbXkzVWpNaGh2NENtZDN2RmZycFlPUk90QjlJRGVOWEZ4V0ZLcTlPNUFMVlpnY1VpYzljRlFWaw?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-08 09:42",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "申万菱信9月8只主动基金跌超10% 新能源汽车规模42亿 - 中国经济网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYk1FOGhZdVlFV3lsUVNWcTNUcGUzRjFCNWxLMnlIejh6bzE2ZjhXM2ZKNk5CQkpzVzRmbkVyeUtYVmlhYTJLckdnSG5Ub2R4bjJVd19tY3R6Uy1YN1JJNWd2bkk2ZWtNcUdGay1ub1c?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-08 16:44",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）10月8日主力资金净买入4887.23万元",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac86cf963f9467280150a33cbd72c29&url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2fmoney%2f%25E7%2583%25AD%25E9%2597%25A8%25E8%2582%25A1%2f%25E6%2598%259F%25E6%25BA%2590%25E6%259D%2590%25E8%25B4%25A8-300568-10%25E6%259C%25888%25E6%2597%25A5%25E4%25B8%25BB%25E5%258A%259B%25E8%25B5%2584%25E9%2587%2591%25E5%2587%2580%25E4%25B9%25B0%25E5%2585%25A54887-23%25E4%25B8%2587%25E5%2585%2583%2far-AA2dO0xd&c=13173794304540977871&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-08 09:09",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中无人机(688297):中无人机关于新增办公地址 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XWm9uYXV3dmdiUkhWSm03Sm5EamJBSXZDNnFGRVk3V3FmS2ZaZ3BHRzNaNkh5RzRiMENnN3REU2NYRXBYYnRDLWh2Q0xFNklLUkx6clF3?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-10-08 18:32",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1czJfRUxlbU1SY1JHeTV2eHVuc0RIVnZOejZ2VkFIOGtEYmIybUt3dDdoLUVOM2g0VjdVb0ZTZGRnX2JSSU9zQQ?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-10-08 14:55",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "康美药业原董事长辞职17天后孟君接任 总经理欧国雄职务没变 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42VHVrMnBrQ2tsT3l1Yk1mMG9CWDFfTjI0c2xhZ0JmMjVCOHFSSUtfdDBidW1iYU5NQ05UdzRmdFRydWFYLUw3aWVhV0NtY3M3Sk0xMjBaNERwOGZJNnVQLTJNMHdvcm9QUlRwb09TS0Q4cm1kRTMxUDVnd1M?oc=5",
+      "source": "Google News检索·康美药业",
+      "tier": "T3",
+      "published": "2026-10-08 10:24",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "康美药业原董事长辞职17天后孟君接任 总经理欧国雄职务没变",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac86cfda8b34f7cac43b53fceb76676&url=https%3a%2f%2fwww.sohu.com%2fa%2f1084966051_121146933&c=9377984583553799321&mkt=en-us",
+      "source": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "published": "2026-10-08 11:25",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 新华网",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnN5aEpMd3lZczVKZ05oc2RzcHk5UV8yMGVjRFlDZ25JajZRSFM0Z0JNXzRybVRlUm45TEpma0xIRk5obmdpc2twVU5pZjZIay1XQk1iV0JMM3dUM0xMeHpEZmk2WlF3aGg2WVdlUXhVWm9VWmtkOURlX2pkTGM0OGNKaU0?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 20:03",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署战略合作框架协议 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTVZWVEFkd0M3MG9QTF9JX2p1anU2X0ctSS1TbF91VTk2d0hYRkYzcU5CdXBSS0U2aWdMRW5GeDNWV3FaSFpFSWZvR2VxaEJMalNzNHFyVXl2Y0NQM3JFVldpUllJRURwYUJ6QU9wZGZVUnBCc3RpNQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-09 04:49",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 温州新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxd2lQMUQ0V1FXUEJTaEdVU3RjZUJzTnk3eE5rMVJqYWkxbkVBSjBjYzFwd2pjR1NBbFN5NUVGN2tUOGlyV0FLWFJvSWxPcXNMMWFtYjh6MWlwaTdBOWp3djdYZ3M4Zw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-09 08:44",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署战略合作协议 - 中国新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2hPY2h4aFlDQm53TWdpUjd1cm9lMEM3Z2ttUVVrUUJscXJKYTVXbkU1RktLOUxjNXJaYTV1Z0VUTmRKN1dBWkxWSlFLUDl3cEFodHFzSUh5a0tMTUpQeUZ2ZkhJS21M?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 20:27",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwbm8wbWhPUUNqNWU5OS1TclBJR3ZveG9GUHJDaEFGOE9UblJTZERwT3d4WmlZblhDd0dDQmRUYkpTTEZyczdTQ3FmV0RTY2ZKSlpiTGxtd0RCT1pkQ1pDQXdDUUtWWDFWdVN0N2NwQ2NneG5LREFHNQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 22:15",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广州市委书记冯忠华、市长孙志洋等见证签约，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50V0hUNkVlY21uT01uTlZmZnRUM1N5UHZWMnJaemxKVHdPb0ItR1BOb1Nfc0NuOGhmZ0h5ajFtZVZEdmxfdF9WOVlXZWlSa19lRWR0RTNoN2piZWJzX3J6a1ZMcmZMUEllWUtPMDhMc0ZjQQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-09 09:30",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团在广州签署战略合作框架协议 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pLUk2M1JzSUF6c2ExNWJVdWg5R0tMb0NLOGQ2TEFjbzBYaVFpQnRlN2FWb01fVUpfS1FsUERLNG9xZ0tLTWpCQlRYM1Rsdw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 17:31",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，开辟车企合作协同新路径 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUJCRnVfZ0RrVXo3Rkx4MU1KbjItb3poS1ZZRU5KZHNXc0xCVk1MVmNwR3RCMENNckFLdm93WjFlOVltdzRIaElJajZLRjFrQXNVdk55ekZHRmJWc2JJTTBSTWdBQWJFckxlZjBibFlnUE5lYkJTZzhURG14UllBZmNBMExpeDZoWW1feXBB?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 19:07",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署战略合作框架协议 - 新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlVjYWE3NG1TR3hhSGUteEtNamY5RWlvUE9wU2x2SlI2cXlfc0p1WmctVDNxX2FiT1Z3OTRJbUw0bTZKOFFqbDJESE8zS0ZvZ0tTNFl3ejlIWmtVOVRqczY0TUc1b19pMktKal81eW9ZcEdJalF4Z3FfSHNSTlM1dTZ2Vkprak4yRVoxWDgwcjJOUGsxOHR0Vw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:17",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【网通社快报】中国一汽、丰田汽车、广汽集团在广州签署战略合作框架协议 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lUjlXSG03bUxGZkFFcGRFaXVvem1pRnlZUE13TGZET1FTWFdZMTBvYW1BdlhLLUh5YzA3MXlIWENuTXdxMHE4RFVQTks?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:45",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "尊界回应“刹车时踏板断裂”，懂车帝称网传暴力测试为谣言；中国一汽、丰田汽车、广汽集团签署战略合作框架协议；小米澎程上市单月锁单破7万辆 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VTGJKQWxkUmQwY3NDQ3RrSGRPTmpMdVVrUzMzaWNrWGFiQjNGdU1IcUxWLTk0aFVBcDEwaHctQnJVZ2FNVEl5aTRMbGRBdDdKZkJ4VUhoVllPdjA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-09 08:33",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署战略合作框架协议 一汽丰田仍将独立存续 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DV1JubVJGNHFxUFFoNVlyTUEtc1ZwdWw5Y1F6ZWEyYWxlVWJ6bHJ0c2VDQUNaMXNqTWdKQVk5OGJzdERiN0Q3MUM5SjNZQ1RjN1QxVDFkNFZWU1FyN0VjdThJal9RcGtGRlhXYlQ5UHhhQVhaX3NfTw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 18:09",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，一汽丰田仍将作为独立运营主体存续 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kdGFjQ3ZEYUtLejVqZDhvMHZQaVZhSkhQdU94RmRtdXgzNUVtRkh6VTlfa0o4djdwREJmQ0xsTmxyX1FsMFRTSjZxa0I?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:53",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 新浪广东",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Mi1RRTI0dVpjM3hEUmRILWlhR21BVUFDWk95Y1JDQ2NUOENlZWJTMXd3SHZDWGVJNWE1Ymh4Skd1TGpHZjFpdFMwT3o4ZzVjYnF4T01JVGtPTlhFUTVBem8wdzhuMlE1dllmbGxobjg2eTZsdnJmWVpXUUI4YkU?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 18:08",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "每天车闻：小鹏Robotaxi定名“小鹏悠游” ，保时捷将裁员30%，一汽集团、丰田、广汽集团签战略合作 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YR1cxUUlqT09LeHVlZy0wLUc4SC1WVU5ZaTFiN2s4X05GVWlxT2VXY094SWZETjd6VWpjbmRHMzFaYlVWZXQ5c1B4Uk0zNTFpQWphaUJsemZlb0xQaURjWDZNaHIwaFVSZ21vZDFmd3I5OEpkd19LYw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 21:16",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署战略合作框架协议 一汽丰田仍将独立存续 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVhneU5PZ0h1aWFZajh0TE10VVE2bUpWUnV4TWZqU01fT0U1Vm01ckR2ZDJwdlFoclMxTVFNU3B5QWloeF9uTGZ3U1NFSHNZUmhGZ2tfVDhNc1h4YkIyYWlPYWZUOElnaUJpc21pZjEzd21VMVFraXU2SmlNUmpTVDlfbjQ0M0dIblNZYllrYw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 18:09",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - ThePaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JQnlzZm9pXzYtNmFTYzhMMkRFN2FWNDRYQnZXVG5LWWJ1d1JIV3lpWGltUVl5OVQ0cWdjSTl4dmhVVVJZRzN5UEp1Tjc0Zw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 17:18",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议_7x24快讯_新浪财经 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HdmlyV2JqZnVvcTMtMXphOUFzX3VKQTVpQnM0UnFxTUgwLTU5ekhYWnoxeTBZYUdaN28zUHBSU2kxSW5zcWwxS1dLTVQ1VXM?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:51",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国产车开进斯坦福桥！切尔西官方：广汽集团成为球队合作伙伴 - 企鹅体育",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xcTRPM1NrQXk0ekZoZWRqUDBKakhleVlISUFESmJicERvMll6LXpITjA4SUFKbDEwd0JjVUxUQVZHTWl1Zm14QjJQd0pqbDdNOTR3QXVuNmE?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDVlY09qQ1RFeEhfbVJqOVVoeU9pdEtFTnRhTl9kS25GR0ZpWUk1VWtnbk5fQVRlWW5qcFlZTDhRQUpqNWFtcWlVYnNLNGMxVTVDT3ptMXppLV9maTRRMVl6dE5uRFZLbFlKaG9zVTlTT1R2YVJLMkhFU0kwZi05eHFWbnZ6c0tER2I4?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:52",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nLUJMNi04eGZvNDNNdFE0SGdSeXh6QWZTckUwVEpCMG5BblpsNUdXdlV6WTkyVnFCOFAtVUhrS0puUzRVLTItY2xiRGNnZXRvZEtMbGJkOXVuRXM?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 17:28",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "切尔西官宣：广汽集团成为男足官方汽车合作伙伴 - 懂球帝",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1USDJ4WFVmZDhXeG4wSERpRWd3ZjJ6Z1d0YmthZDM3X0tMOEhYSF9wdmJoNVFmNnFPbVljOFJPSjk3aVdQWEx2blp1bmtDdzB3eVhOQzdTVQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:32",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【视频】广汽集团跟华为达成合作，高端智能汽车将迎来新鲜血液！ - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNkZMS1pUMnhIeW9adGFyT0t6UGFMeHpCTXkwdVV6RmhYQklNOUNVYjdPX0RMWTdiT05aLW9Qbm9BeHJtTVYwVVR0N2tLbVc5RXRFQkx4MFpFQU0?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 14:54",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "南北丰田整合落地，广汽集团签约日A股港股股价大跌 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW00Rk9vT3RGOU0yckNhR3JWTy1INU9ZXzhFQ1hheTFmMk1peHhFUTQ3Yl9jcW56S1Q3aGpTdW1NejlrWkl1a21GTU1sNlpMZ3U5aGE5cGJNUVRpVWFqUGlEeV9ack1jSTRXLTNVZjFKMG56WV9rLWtwUXg1WEZOOXBjTXlzNENF?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 17:14",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "启境GT7高开低走，刘嘉铭首战折戟 广汽集团高端化再遇重挫 - 风闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrclkyRVdCMWdpa0JDZE9Ga1d1WTM4TWVpU2wtZm80al9tMTJVZDBNdE01WjZYdklJdGtaMUtvNXVhNTJtZmZ5Um9kazhVblBGdWNvOWFBRjQxTlVXM1ByOVhTMVRIZkNoaDNraDl3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 09:04",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团在广州签署战略合作框架协议 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR0RXWkIyVmtVTUQ4Z0U4dUdkMkV4eTJ3RTZCVVJyVUl4MHZoemtDbWlON2VpMkZiU2RqcW81UDBDZ2RtUVlfbHFXU0JlM3c2dldCanNha09WUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:45",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "启境GT7高开低走，刘嘉铭首战折戟 广汽集团高端化再遇重挫 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00THlXQ1pQOURFeTJGNEVsZm9RbklHc0xBR185ZDNwcl9aV0hsckxIV281cEhteUpjWTU2ektyQTNqbnNneXFaUFA1TWpreC1LUDRCa0t5UHlRU2VEcE9SZDJFbVdVWk5pTFJj?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 08:55",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车、广汽集团签署全新三方战略合作框架协议，拟推进一汽丰田股权整合与电动化智能化协同 - SmartHey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LNzhaNVhDbm4zdmtYXzc2ZkxKd01RY3M5T0NaSWVlTHpWakZSRXdxaEJ6RmdMUFNqY2l4dzFFNEZyNkNjQzZxYk9GSlY0aWdsUWhQUTZwRzZGYUVjT2c?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-08 16:34",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "陕西公示520MW风光项目 - 国际新能源网",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sd0xMa2pIUksxeEt5SlhrdnBEN21HNkxFck9YMG1BZTQ4T0gzakVVWWM4V1R0RlU4cE9zemtFelZlZkhUWGRkLUVJUG1oRFZOQ212LUFPY1c4elh3eV9mTU5CSGNKb2c?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-09 09:23",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "520MW！陕西公示2026年分散式风电、小型地面光伏电站项目 - 我的钢铁",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SDNBOGZxWTh0ZE03ajZHdlFuUlFLN1c5QkZ3QWYtVlVGOFZBODhCSzBHZENuY3plRmg1T2d0LWtwSVlrb2pORU1oRHp2TkVhWkM4QTJqZDVVVV9yU1ptdjZ0b1puV3hW?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-09 09:35",
+      "relevance": "间接",
+      "match": "光伏",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电：9月30日融资买入1022.86万元，融资融券余额5.44亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSG8zUzdHVm5xdkdKb1Jydkk5SFdFVHJ6QUxpWjVoSTg4TUJGa0JJZTV1dmtMLWFqVV95VGczMUhmN1Uyak1sVGdyNjg2ZVFwREtMVUVlVmh6VmI0RXZacUcyZ2lFd05EaGh2TUpaQ2l6MnJiUHgzZ3d1OG1yM0F4U2Q1R2lDQklU?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-08 10:56",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%",
+      "link": "https://wallstreetcn.com/articles/3783237",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-09 12:07",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴涨",
+        "跌停"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
