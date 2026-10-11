@@ -1,0 +1,426 @@
+{
+  "generated_at": "2026-10-11T11:49:57",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 51 条 / 相关 6 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 97 条 / 相关 0 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 50 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 100 条 / 相关 10 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 中无人机 中无人机关于新增办公地址的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-09/1225597202.PDF",
+      "source": "巨潮公告·中无人机",
+      "tier": "T1",
+      "published": "2026-10-09 00:00",
+      "relevance": "直接",
+      "match": "中无人机",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团2026年9月产销快报",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-10/1225599309.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-10 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司可转债转股结果暨股份变动公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-09/1225597218.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-10-09 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "“只剩一笔交易”的美股牛市",
+      "link": "https://wallstreetcn.com/articles/3783355",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-11 10:40",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周重磅日程：中美CPI、沃什讲话、Anthropic投资者日、台积电与ASML财报",
+      "link": "https://wallstreetcn.com/articles/3783242",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-11 09:35",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
+      "link": "https://wallstreetcn.com/articles/3783324",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-10 16:27",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
+      "link": "https://wallstreetcn.com/articles/3783323",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-10 15:39",
+      "relevance": "主题",
+      "match": "加息",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
+      "link": "https://wallstreetcn.com/articles/3783320",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-10 14:01",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
+      "link": "https://wallstreetcn.com/articles/3783254",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-10 07:05",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国信证券:《电力设备新能源2026年10月投资策略：海上风电加速修复，锂电龙头价值回归》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WcUZ4aENtbl9tdDJzQnNrNURyeHpjaTNSbndIMjQwblp1VEUwWWsxMW0tU2JHMFZqanYxTmJqZTBvY2MySFE3ODhhczBqWjZV?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-10 18:09",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "无人机侦检、人工智能辅助研判、救援机器人应用……智能化正推动应急救援加速转型 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TR181ZC05UDRNQ2pPQTRQQjVIRVd6N1ZMUDVJc0NoZGwzV1hUV2EtdUpYLWN1SS1WTjY5dUZyWHB2c2NnV0ZyaVpFd1lmcnhiMUNoSEVKNmtEXzNOaTlfWEFNSllmSXI5dlhiTkw1OGpraTlXT1RBdA?oc=5",
+      "source": "Google News检索·中无人机",
+      "tier": "T3",
+      "published": "2026-10-10 18:56",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽、丰田汽车与广汽集团签署全新战略合作框架协议 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSDFQbUdwc0FWYjJaRU1hX2g5YWVGQ0hFOU4xSzBSMGFyQjRjbGlRSDlaTjhSQ1Q0WHhsbnFCMHJuSUxfTUZMc3lEaDU0VXVsUEppbmVHWDltdjA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-11 07:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团持股公司在宁波成立通用航空公司 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1RSYzFpdjZydlFnQ2NVMjF2ZDBTOWIzeGRTeVhacm1vMXBlVEJUYy1YMWgwVUZyTW9feTFTaUZuWGxCWEFiaGRBRks0VGRTVjExQWxlYkI5SFhWVUtXZUZFcjQxR3Bxbm9xNThGbmFJTnVWSVVVUjZnTF9kUG9PeGJ3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 22:28",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "【网通社快报】广汽集团2026年9月汽车销量128634辆 同比下降25.72% - 凤凰网汽车",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52S1FaT0VYaEF1SkR5VmhGb1o4NHNQVkUtMm9jczRPTURacENCcFJkV1BWaWFxSDA1NkZxMnZVTENCb3NWRnRuOEwzV0Y?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 09:36",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团9月销量12.86万辆同比降25.72% 新能源增50.90%|本田|丰田|产量|程新|新能源汽车 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2xzd3lKdmIxM0oyWE5VY1R4a08ydGVDWXBVS1hiZkVPclF6VGx5ZmVVNHlVSXdMWkVtMENqM25RRkptSmxiQmdYdURseWxUbV9HdDNTV3BfYXE1SU1mbHUwQmxfb2VIUDZLZnNGUXBrdkI4YTBmbk9oS0E2OE9PVUcxdzFYdEpCSXc?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 15:10",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广州汽车集团股份有限公司2026年9月份产销快报|广汽集团|广州市|广东省|A股|H股 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xMFFUQzFQYUxDV29IdWRzZGc0UnZ0bWI3T3hlYmtxd3ByUU4zWEtEZXBiV2hxRU93YW5VdHQ0WWdtOGF2ejViSkdWYkxWMjhRLUJRWkVmNS1tLXhucHZKVV9qYi00VDg1VWUyNjVXZ1VhRjRvWnZWdA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 15:46",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团2026巴黎车展阵容发布 AION UT Cross将首发亮相 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xZHYzZTgxaVg4Tkdia1RPUjNfX2Y4TzZmSjF3UkUxTmNFTld6TFRUOWtaNm1wUFo0UEZaMnI4MUROcm02VVBXT1NmYmItdkRpUzdQUDdnR1pGMTZHMlFjQWdpS2hMZlFOMlNTUGZRbzA?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 14:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团持股公司在宁波成立通用航空公司 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oZ3ZGa3d1ZzVVRDdBdXE0SzhFRTdDc3hpUnE3RTdhVktSZmJ1RXY2NDlyYlNfOHFsdTFjU1duUE11ODRwei1aUVdndXRoV1N4REpkR1FVQTFtVnAtTzhxZEJCWERMTERaWVh0bjJMYkltZw?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 13:26",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团：10月9日获融资买入2932.00万元，融资余额连续4天增加，市场人气旺盛属强势市场 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekdvR1JvWWlGYllwUUZ4V2VfYmxFaUNMR3Z2UmFEOTdFbGdzTWNnRW9JMEIwelFyMHNoWVVQQXg0WWJsY2ZIbU9wODQtWkVVTm96Y19Hdjc3MXc5V1lSQ1Y1dE40eG1yWVVudTQwNEowaHFBa0Y5bHlqMGJRU0JLTVp3?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 15:21",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广州市委书记冯忠华、市长孙志洋等见证签约，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYN2Q3N1B5YlN1cm4waUpMaTdsTmpETm10TzkxU0tBdzRfa2p1RGYtSGtmMFl1cXhHcDZfcEJfVFg2V1ZHOXB1aFFTX29IUGJNSnQweVBjYlVCZHNyT2x2ejdPNFVXZVAtZ0FlbVZ2T0tfUQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 14:27",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团(02238.HK)9月汽车销量12.86万辆 同比下降25.72% - https://m.capwhale.com/",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmM5SUJWMVloY2hDY3VudXRQdWdFMHR1S2VFTHBMYnZQcThjN25XZ1plT0paYzMzcXRKMm41cHA5MTRJbzlBd0k3alM5YlJRZzI1akk0eTlwMGZUbFd3Mmx2ejEtdXoyOTUxYWN6UGRLUFg3S2ZXTG1NNFU3T2xaVHE2Q3k3THVlSEh0eDAzb3JwQQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 15:01",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团前三季度销量114万辆，海外市场提速",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0762ecd94e5b85a8982fcc96ff31&url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20261010A09QIN00&c=5006378753907639204&mkt=en-us",
+      "source": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-10 18:17",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
