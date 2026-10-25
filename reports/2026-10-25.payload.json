@@ -1,0 +1,644 @@
+{
+  "generated_at": "2026-10-25T11:04:42",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 55 条 / 相关 8 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 93 条 / 相关 13 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 8 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 17 条 / 相关 2 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 1 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 21 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 9 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 1 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 34 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 2 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 关于2024年限制性股票激励计划首次授予部分第二个归属期归属条件成就的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615519.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于作废2024年限制性股票激励计划部分已授予但尚未归属限制性股票的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615523.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于2026年第三季度计提资产减值准备的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615524.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 北京市中伦（深圳）律师事务所关于深圳市星源材质科技股份有限公司2024年限制性股票激励计划调整首次授予价格、作废部分已授予但尚未归属限制性股票及首次授予部分第二个归属期归属条件成就事项的法律意见书",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615522.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 2026年三季度报告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615516.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 第六届董事会第三十二次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615518.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 关于调整2024年限制性股票激励计划首次授予价格的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615520.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 星源材质 董事会薪酬与考核委员会关于2024年限制性股票激励计划首次授予价格调整及首次授予部分第二个归属期归属条件成就、归属名单的核查意见",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-23/1225615521.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-10-23 00:00",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于向广汽汇理汽金提供股东存款的关联交易公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-22/1225614115.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-22 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团第七届董事会第31次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-22/1225614124.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-22 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 H股公告-广汽集团董事会会议日期公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-21/1225612437.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-10-21 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司2026年第三季度发电量完成情况公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-10-20/1225610226.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-10-20 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+      "link": "https://wallstreetcn.com/articles/3784282",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-25 09:10",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
+      "link": "https://wallstreetcn.com/articles/3784387",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 13:02",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
+      "link": "https://wallstreetcn.com/articles/3784382",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 11:13",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月24日",
+      "link": "https://wallstreetcn.com/articles/3784372",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 07:11",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+      "link": "https://wallstreetcn.com/articles/3784279",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 06:30",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普政府扩大对加拿大商品关税豁免范围，助力中期选举",
+      "link": "https://wallstreetcn.com/articles/3784359",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 05:46",
+      "relevance": "主题",
+      "match": "关税",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "全球投资级企业债利差创一年半新高，AI融资潮冲击信用市场",
+      "link": "https://wallstreetcn.com/articles/3784362",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 05:30",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美国将氦列为关键材料，半导体制造是重要考量，全球供应中断风险上升",
+      "link": "https://wallstreetcn.com/articles/3784355",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-10-24 05:29",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "电动重卡步入“电电竞争”下半场？市场瞄准空白的干线领域",
+      "link": "http://finance.eastmoney.com/news/1354,202610253907143122.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 07:55",
+      "relevance": "间接",
+      "match": "新能源",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+      "link": "http://forex.eastmoney.com/news/1131,202610253907135366.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 06:03",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "暴增194倍！A股龙头最新公告！840份三季报已交卷",
+      "link": "http://finance.eastmoney.com/news/1354,202610243907094895.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 00:56",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "重磅会议来袭！美联储加息大消息！市场关注三大问题",
+      "link": "http://forex.eastmoney.com/news/1131,202610243907098131.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 00:40",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "人民币汇率创4年新高！汇率风险管理需求飙升",
+      "link": "http://forex.eastmoney.com/news/1129,202610243907109451.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 00:06",
+      "relevance": "主题",
+      "match": "汇率",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "飙升"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "国际大行发声：亚洲股市极度超卖！花旗：中国互联网板块估值仍具吸引力",
+      "link": "http://finance.eastmoney.com/news/1354,202610243907106779.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 00:06",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "茅台“稀缺”之辩！飞天茅台多地动销增超10% 节后批价未现跳水",
+      "link": "http://finance.eastmoney.com/news/1354,202610243907104114.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-25 00:02",
+      "relevance": "间接",
+      "match": "白酒",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
+      "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 18:54",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
+      "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 17:18",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+      "link": "http://finance.eastmoney.com/news/1354,202610243907093091.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 15:47",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
+      "link": "http://stock.eastmoney.com/news/11228,202610243907083341.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 13:51",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
+      "link": "http://stock.eastmoney.com/news/11134,202610243907074028.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 12:14",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
+      "link": "http://finance.eastmoney.com/news/1344,202610243907064672.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-10-24 10:24",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）2026年三季报简析：营收净利润同比双双增长，盈利能力上升_财报季 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5aEN4dEV5ZEFBRGp2QnRuWW1HZmJlLWl4VG9ISHZILWljdU8tbnZ6RTdKcXIyN01vbkF1QXU1RDlWSFdsQkYydlRnNXBiVEZBQVVHMDNLbERNcUNGMFpEeQ?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-24 06:09",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质：关于2024年限制性股票激励计划首次授予部分第二个归属期归属条件成就的公告 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2Nlb3JDa1FKdmZkMUk4bTdqN1JOOUZrVXNZcWZOTXlzMHFjeUVlYjNqcEtUVVlzTGtMWXpRTHNPQm5zQmRoZlMwMXRrWV9DSzFaRUt3TjlQM1ZfaWZCRnAwZTV4cTllWnNteXliWTRMaWFyRGtDMUVkY2w5WEtPcC1uREF2Qzhab3AxRHR1dWFZb0l5d0NSMkk5cmx5MFhPRnJieXRVcjZDa1JQQ1pxSXBpTmk5S09jOEtEY2ZLcjJrV2x5VmZNaVF3LURJeE0?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-24 20:03",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质（300568）2026年三季报简析：营收净利润同比双双增长，盈利能力上升",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6add71c3352b491184b1598a699f4158&url=https%3a%2f%2fwww.sohu.com%2fa%2f1091970570_115377&c=17847398077879121249&mkt=en-us",
+      "source": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "published": "2026-10-24 07:24",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "中国一汽与广汽集团联合工作组启动，整合出海资源应对全球关税壁垒 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oMHlhYkFGY1h4ektEMmROSkxQY1U3SVI5TEkwdmNKZ09XQkdoUEMzSGNjalgtZ2dBRUVaMmZKWms1ejhfUHZVWTBRM0M1VXg3bmg3T0dOVENFWjQ?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-10-24 11:25",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "节能风电：融资净偿还319.02万元，融资余额5.25亿元 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LUWNvUVh3eTlyN3NkZGZWWVkxdG9pdG5IenZXc2FEWVlWbG1GdWV4TTBON2c5VXFBb2IyakRfbndPeENzeHotOW45UjhUb2JCME93ZjlwLU5paGd0NEJ1TS1Hc1dHdw?oc=5",
+      "source": "Google News检索·节能风电",
+      "tier": "T3",
+      "published": "2026-10-24 13:15",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
