@@ -1,0 +1,648 @@
+{
+  "generated_at": "2026-11-22T12:56:30",
+  "profile": {
+    "投资周期": "中期",
+    "时间窗口小时": 30,
+    "个股直接检索": true,
+    "官方信披_巨潮公告": true,
+    "信披回看小时": 168,
+    "数据终端_akshare": true,
+    "报告Watch上限": 15,
+    "报告每关键词上限": 3
+  },
+  "source_status": [
+    {
+      "name": "华尔街见闻",
+      "tier": "T3",
+      "status": "✅ 抓取 62 条 / 相关 8 条"
+    },
+    {
+      "name": "东方财富-合作要闻",
+      "tier": "T3",
+      "status": "✅ 抓取 90 条 / 相关 21 条"
+    },
+    {
+      "name": "36氪-资讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "36氪-快讯",
+      "tier": "T3",
+      "status": "⚠️ 解析为空（信源静默降级，待验证）"
+    },
+    {
+      "name": "英为财情-资讯",
+      "tier": "T3",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国内焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "新浪-国际焦点",
+      "tier": "T3",
+      "status": "✅ 抓取 15 条 / 相关 0 条"
+    },
+    {
+      "name": "CNBC-Top News",
+      "tier": "T2",
+      "status": "✅ 抓取 30 条 / 相关 0 条"
+    },
+    {
+      "name": "MarketWatch-Top Stories",
+      "tier": "T2",
+      "status": "✅ 抓取 10 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·星源材质",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 1 条"
+    },
+    {
+      "name": "Google News检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 4 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·星源材质",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·中无人机",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 18 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·中无人机",
+      "tier": "T3",
+      "status": "✅ 抓取 11 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·康美药业",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 0 条"
+    },
+    {
+      "name": "Google News检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 8 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·康美药业",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 2 条"
+    },
+    {
+      "name": "Google News检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 37 条 / 相关 1 条"
+    },
+    {
+      "name": "Bing新闻检索·广汽集团",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    },
+    {
+      "name": "巨潮公告·节能风电",
+      "tier": "T1",
+      "status": "✅ 抓取 20 条 / 相关 3 条"
+    },
+    {
+      "name": "Google News检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 3 条 / 相关 0 条"
+    },
+    {
+      "name": "Bing新闻检索·节能风电",
+      "tier": "T3",
+      "status": "✅ 抓取 12 条 / 相关 0 条"
+    }
+  ],
+  "items": [
+    {
+      "title": "[公告] 星源材质 关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-20/1225680526.PDF",
+      "source": "巨潮公告·星源材质",
+      "tier": "T1",
+      "published": "2026-11-20 15:50",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团关于2025年度第一期绿色科技创新债券2026年付息公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-20/1225679644.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-11-20 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 广汽集团 广汽集团第七届董事会第33次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-19/1225678033.PDF",
+      "source": "巨潮公告·广汽集团",
+      "tier": "T1",
+      "published": "2026-11-19 00:00",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司关于延长向特定对象发行A股股票相关决议有效期及授权有效期的公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-17/1225672778.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-11-17 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司关于召开2026年第三次临时股东会的通知",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-17/1225672771.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-11-17 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "[公告] 节能风电 中节能风力发电股份有限公司第六届董事会第十八次会议决议公告",
+      "link": "http://static.cninfo.com.cn/finalpage/2026-11-17/1225672775.PDF",
+      "source": "巨潮公告·节能风电",
+      "tier": "T1",
+      "published": "2026-11-17 00:00",
+      "relevance": "直接",
+      "match": "节能风电",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡→候选🔴",
+      "impact": 2
+    },
+    {
+      "title": "阻止美联储加息的最快方式：美股“以死相逼”",
+      "link": "https://wallstreetcn.com/articles/3786446",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-22 11:38",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
+      "link": "https://wallstreetcn.com/articles/3786442",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-22 09:25",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
+      "link": "https://wallstreetcn.com/articles/3786438",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-21 19:47",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
+      "link": "https://wallstreetcn.com/articles/3786423",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-21 10:27",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”",
+      "link": "https://wallstreetcn.com/articles/3786418",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-21 08:52",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年11月21日",
+      "link": "https://wallstreetcn.com/articles/3786416",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:32",
+      "relevance": "主题",
+      "match": "LPR",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "晕了晕了！近1900亿元资金进场抄底宽基ETF 行业主题ETF却遭遇资金抛售",
+      "link": "http://finance.eastmoney.com/news/1345,202611223936867268.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 07:47",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "业绩暴增+低估值 3股被机构盯上",
+      "link": "http://finance.eastmoney.com/news/1354,202611223936867127.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 07:46",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "A股利好！超60家上市公司密集披露",
+      "link": "http://stock.eastmoney.com/news/11215,202611223936862885.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 06:15",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心",
+      "link": "http://stock.eastmoney.com/news/1768,202611223936859395.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 05:09",
+      "relevance": "主题",
+      "match": "GDP",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "重磅"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美股遭遇恐慌性抛售 多家机构认为或只是牛市调整",
+      "link": "http://stock.eastmoney.com/news/1768,202611223936858946.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 04:06",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "Anthropic创纪录IPO：亚马逊和谷歌成最大赢家",
+      "link": "http://finance.eastmoney.com/news/1354,202611223936858093.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 02:40",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "密集上报新品 基金公司布局三大方向",
+      "link": "http://money.eastmoney.com/news/1339,202611213936850839.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 00:53",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
+      "link": "http://finance.eastmoney.com/news/1360,202611213936856371.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 00:20",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "特朗普表态！当前利率水平太高 美联储应该降息",
+      "link": "http://forex.eastmoney.com/news/1131,202611213936844421.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-22 00:06",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936829368.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 17:47",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "警报！美元冲击波强势来袭！影响有多大？",
+      "link": "http://forex.eastmoney.com/news/11142,202611213936785674.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 09:53",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "美联储“鹰风阵阵”！理事库克：需立即进一步加息 滞后行动代价更大",
+      "link": "http://stock.eastmoney.com/news/11722,202611213936776859.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 08:07",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "稀缺！光伏+水电+风电赛道绩优潜力高股息股出炉 仅6只",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936776317.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 08:03",
+      "relevance": "间接",
+      "match": "光伏",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "对接企业需求 银行股票回购增持专项贷款提速",
+      "link": "http://forex.eastmoney.com/news/1131,202611203936464050.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 08:01",
+      "relevance": "主题",
+      "match": "央行",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "ETF与国资相继举牌 市场再迎增量资金",
+      "link": "http://finance.eastmoney.com/news/1354,202611203936464112.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:58",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "锂电产业链寒意加深！A股指数集体跌出新低 锂矿板块成“重灾区”",
+      "link": "http://bank.eastmoney.com/news/1179,202611213936776296.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:57",
+      "relevance": "间接",
+      "match": "锂电池",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "一觉醒来美股大跌！英伟达暴跌14% 半导体指数大跌超10%",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936771239.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:54",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟡",
+      "emotion_hits": [
+        "暴跌"
+      ],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "当Token走进大众消费：买算力像充话费一样简单",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936597197.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:39",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "微导纳米获142家机构调研 半导体业务订单受关注",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936555628.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:27",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "星源材质拟根据H股激励计划从二级市场购买公司H股 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2l6WVlwQ2xKMkN1UjN6cDBTYnNYVUVxMmVReER5MWx4R2l0M0lqcjY0LXpwalRnVERTSzBYRkx4OE9RTGdzOEtfVXkwRFJROTNmbG5lbDg0MjVqTkUyTWhyQUkxNnBTRDlJa1JLX21YZmFySTh4UExQYngzS3BZQU5JbWZKU3Vl?oc=5",
+      "source": "Google News检索·星源材质",
+      "tier": "T3",
+      "published": "2026-11-22 10:13",
+      "relevance": "直接",
+      "match": "星源材质",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "康美药业：融资净偿还404.02万元，融资余额5亿元 - 东方财富网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hUWdLek9WcjQ2RGxSMFZhM2p5NzZwSmJ3Qm1YVUFXXzRvZWtTOTNTa3ktMzhkdXNXLTNxb1YzRExUMXQxMzlTU0ZQeXVlQnNJNXlSRGZ5QzBYb21BWnEtbg?oc=5",
+      "source": "Google News检索·康美药业",
+      "tier": "T3",
+      "published": "2026-11-21 07:36",
+      "relevance": "直接",
+      "match": "康美药业",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "广汽集团旗下夸克非晶电驱第10万套量产下线 - zqrb.cn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5obmFXQlFMRWlDTXNJTW5Sd1VCelNlUEFvRVdzY1pHeDlwdGdJYU0xaVl6c21YOFVsOXQtVldWdVUtV0xybVRTVURhbmZfZ1JMTlNCUmRYczdWaVZfNG5lMjdWUExHbUY5YmJ0dUJkM0NNS2VST1E?oc=5",
+      "source": "Google News检索·广汽集团",
+      "tier": "T3",
+      "published": "2026-11-21 10:24",
+      "relevance": "直接",
+      "match": "广汽集团",
+      "emotion": "🟢",
+      "emotion_hits": [],
+      "signal": "🟡",
+      "impact": 1
+    },
+    {
+      "title": "下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报",
+      "link": "https://wallstreetcn.com/articles/3786441",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-22 09:13",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "重磅"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    },
+    {
+      "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
+      "link": "https://wallstreetcn.com/articles/3786429",
+      "source": "华尔街见闻",
+      "tier": "T3",
+      "published": "2026-11-21 13:22",
+      "relevance": "主题",
+      "match": "美联储",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "清仓"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    },
+    {
+      "title": "英伟达单日暴跌14% 但斌回应“清盘线”：部分基金只能被动减仓",
+      "link": "http://finance.eastmoney.com/news/1354,202611213936819553.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 15:13",
+      "relevance": "间接",
+      "match": "人工智能",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "清仓"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    },
+    {
+      "title": "凌晨利空压顶！全球资产刮起“绿旋风”！近30万人爆仓！恐慌指数“狂飙”",
+      "link": "http://forex.eastmoney.com/news/1131,202611213936630772.html",
+      "source": "东方财富-合作要闻",
+      "tier": "T3",
+      "published": "2026-11-21 07:36",
+      "relevance": "间接",
+      "match": "半导体",
+      "emotion": "🔴",
+      "emotion_hits": [
+        "暴跌",
+        "狂飙"
+      ],
+      "signal": "⚪",
+      "impact": 0
+    }
+  ],
+  "note": "机器初筛结果，待 finance-filter 降噪器做 Layer 0 预检与最终判定；不含买卖建议。"
+}
